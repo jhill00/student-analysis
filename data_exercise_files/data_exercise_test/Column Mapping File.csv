@@ -1,0 +1,26 @@
+file_name,tab_name,school_name,student_id,student_last_name,student_first_name,grade,LNF,PSF,NWF-CLS,NWF-WRC,WRF,ORF,ORF-Accu
+school a,Updated BOY 23-24,School Name,LASID,Last,First,Grade,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,WRF_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
+school b,updated BOY 23-24,School Name,lasid,Last,First,grade,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,WRF_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
+school c,Updated BOY 2023-2024,School Name,lasid,Last,First,grade,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,WRF_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
+school d,Updated BOY 2023-2024,School Name,lasid,Last,First,grade,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,WRF_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
+school e,1st Grade,,LASID,Last,First,Grade,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,NWF-WRC_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
+school f,Update BOY 2023-2024,School Name,LASID,Last,First,Grade,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,WRF_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
+school g,Sheet1,,SASID,Last Name,First Name,,LNF,PSF,NWF -CLS,NWF- WRC,WRF,ORF-W,ORF-A
+school h,WPS Elementary DIBELS Dashboard,,School ID,Last name,First name,Grade,LNF,PSF,NWF-CLS,NWF-WRC,WRF,ORF-WRC,ORF Accuracy
+school i,Ignite Roster Baseline DIBELs D,School,SASID,Last name,First name,Grade,LNF,PSF,NWF-CLS,NWF-WRC,WRF,ORF-WRC,ORF Accuracy
+school j,Grade 1,School,Student ID,Last name,First name,Grade,LNF,PSF,NWF-CLS,NWF-WRC,WRF,ORF-WRC,ORF Accuracy
+school k,Sheet1,,SISID,Last name,First name,,LNF,PSF,NWF-CLS,NWF-WRC,WRF,ORF-WRC,ORF Accuracy
+school l,DataFarming_WestBrookfieldEleme,School_1st,Student_ID,Last,First,,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,WRF_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
+school m,Edited WarrenElementary_1_2023_,School_1st,Student ID,Last,First,,LNF Beg.,PSF Beg.,NWF-CLS Beg,NWF-WRC Beg,WRF Beg.,ORF-WordsCorrect Beg.,ORF-Accuracy Beg.
+district alpha,DIBELS 8 Data Fall 2023 to Igni,School Name,LASID,LastName,FirstName,Grade,"Letter Naming Fluency (LNF) 
+42+","Phonemic Segmentation Fluency (PSF)
+31+","Nonsense Word Fluency: Correct Letter Sounds  
+NWF: CLS
+30+","Nonsense Word Fluency: Words Recoded Correctly 
+NWF: WRC
+5+","Word Reading Fluency: WRF
+12+",Fall Oral Reading Fluency ORF 10+ TWC,Fall Accuracy 67%+ 
+district beta,Sheet1,School Name,Student Information System ID Number,Student Last Name,Student First Name,,LNF,PSF,NWF-CLS,NWF-WRC,WRF,ORF,ORF -Accuracy
+district gamma,Sheet1,Current Site Name,State Student ID,Last Name,First Name,,BOY LNF,BOY PSF,BOY NWF CLS,BOY NWF WRC,BOY WRF,BOY ORF Words Correct,BOY ORF Accuracy
+district delta,Sheet1,,ID,Student Last Name,Student First Name,Grade,LNF - Fall Score,PSF - Fall Score,NWF-CLS - Fall Score,NWF-WWR - Fall Score,WRF - Fall Score,ORF - Fall Score,ORF - Fall Accuracy
+district epsilon,Gr1,School_1st,Student_ID,Last,First,,LNF_1st_Beginning,PSF_1st_Beginning,NWF-CLS_1st_Beginning,NWF-WRC_1st_Beginning,WRF_1st_Beginning,ORF-WordsCorrect_1st_Beginning,ORF-Accuracy_1st_Beginning
