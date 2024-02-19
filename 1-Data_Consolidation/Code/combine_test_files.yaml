@@ -1,0 +1,6 @@
+str_search:
+  test_results: 'test results'
+  column_mapping: 'column mapping'
+  student_info: 'student information'
+naming:
+  consolidated_file: 'all_test_results.csv'
