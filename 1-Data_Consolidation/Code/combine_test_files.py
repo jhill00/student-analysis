@@ -52,3 +52,40 @@ class OrgPathing:
                 file_paths[self.si] = f
         
         return file_paths
+    
+class MapCols():
+    """
+    Functions to map column names for test result files
+
+    Args:
+        op = OrgPathing object
+    """
+    def __init__(self, op: object):
+
+        self.op = op
+
+        self.paths = op.grab_paths()
+        self.test_results = self.paths[op.tr]
+        self.col_mapping = self.paths[op.cm]
+        self.student_information = self.paths[op.si]
+        
+        self.col_map = pd.read_csv(
+            self.col_mapping,
+            header = 0, 
+            index_col = 0
+            )
+        
+    def parse_file_name(self, f: str) -> str:
+        name = f.split('\\')[-1]
+        name = re.split('-|.csv', name)[1].strip()
+        return name
+    
+    def filter_col_map(self, name: str) -> pd.DataFrame:
+        return self.col_map.filter(items = [name], axis = 0)
+    
+    def swap_key_vals(self, filtered_df: pd.DataFrame, name: str) -> dict:
+        col_dict = filtered_df.to_dict('index')[name]
+        return {v: k for k, v in col_dict.items()}
+    
+    def rename_cols(self, df: pd.DataFrame, swapped_kv: dict) -> pd.DataFrame:
+        return df.rename(columns = swapped_kv)
