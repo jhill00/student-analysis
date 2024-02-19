@@ -77,6 +77,7 @@ class MapCols():
         
     def parse_file_name(self, f: str) -> str:
         name = f.split('\\')[-1]
+        name = name.replace('_', ' ')
         name = re.split('-|.csv', name)[1].strip()
         return name
     
@@ -121,7 +122,7 @@ if __name__ == "__main__":
                           naming_config.get('consolidated_file')])
 
     # iterate over test result files and combine them into a unified set
-    for i in mp.test_results[0:2]:
+    for i in mp.test_results:
         name = mp.parse_file_name(i)
         fil_col_map = mp.filter_col_map(name)
         swapped_kv = mp.swap_key_vals(filtered_df = fil_col_map, name = name)
