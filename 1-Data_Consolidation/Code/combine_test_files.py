@@ -89,3 +89,53 @@ class MapCols():
     
     def rename_cols(self, df: pd.DataFrame, swapped_kv: dict) -> pd.DataFrame:
         return df.rename(columns = swapped_kv)
+    
+if __name__ == "__main__":
+
+    # loading environment variables
+    load_dotenv()
+    DATA_FILES_PATH = os.environ.get('DATA_FILES_PATH')
+    CONSOLIDATED_DATA_PATH = os.environ.get('CONSOLIDATED_DATA_PATH')
+
+    # loading yaml configurations
+    yaml_file_path = __file__.replace('.py','.yaml')
+    if Path(yaml_file_path).exists():
+        with open(yaml_file_path) as yaml_file:
+            config = yaml.safe_load(yaml_file)
+            str_search_config = config.get('str_search')
+            naming_config = config.get('naming')
+    else:
+        raise Exception(f'Missing {yaml_file_path} file. Please create a yaml file.')
+
+    op = OrgPathing(
+        DATA_FILES_PATH = DATA_FILES_PATH,
+        tr = str_search_config.get('test_results'),
+        cm = str_search_config.get('column_mapping'),
+        si = str_search_config.get('student_info')
+    )
+
+    mp = MapCols(op = op)
+
+    # file to write consolidated test results to
+    write_to = '\\'.join([CONSOLIDATED_DATA_PATH,
+                          naming_config.get('consolidated_file')])
+
+    # iterate over test result files and combine them into a unified set
+    for i in mp.test_results[0:2]:
+        name = mp.parse_file_name(i)
+        fil_col_map = mp.filter_col_map(name)
+        swapped_kv = mp.swap_key_vals(filtered_df = fil_col_map, name = name)
+
+        school = pd.read_csv(i)
+        renamed_school_cols = school.rename(columns = swapped_kv)
+
+        if Path(write_to).exists():
+            renamed_school_cols.to_csv(write_to,
+                                       mode = 'a',
+                                       index = False,
+                                       header = False)
+        else:
+            renamed_school_cols.to_csv(write_to,
+                                       mode = 'w',
+                                       index = False,
+                                       header = True)
