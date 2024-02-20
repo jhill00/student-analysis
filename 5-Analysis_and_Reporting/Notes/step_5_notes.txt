@@ -1,0 +1,40 @@
+methodology:
+ - visualize the data to get an idea of the distributions
+ > the first part of the story
+ > I decided to use histograms as they display distributions well and
+   there is no date column for other charts such as line to make sense
+
+notes:
+
+ - letter naming fluency and phoneme segmentation fluency
+ > they both contain normal distributions, with the highest point residing at 
+   scores of 30-40
+ > we can perform a linear regression on the two to test if a relationship exists
+ > the results have a p-value of of 6.39E-16, so there's an extremely small chance
+   that the relationship between these scores is due to random chance
+ >> this makes sense, due to the fundamental nature of phonemes and letter naming
+ >>> letter naming is recognizing letter shapes and associating them with the letter
+     name, while phonemes are is the smallest unit of sound that distinguishes one
+     word from another
+ methodology:
+  - I used PNF as the independent variable and LNF as the dependent variable
+
+ - Nonsense Word Fluency-Correct Letter Sounds and Oral Reading Fluency
+ > both are heavily skewed to the left, displaying that many students struggle
+ > because both measures relate to students' ability to read words and sounds,
+   we can assume the scores will be related
+ > I tested null hypothesis with a regression, which resulted in a p-value of 1.6E-36
+ > based on the analysis, the relationship is not likely due to random chance
+methodology:
+ - I used NWF-CLS as the independent variable and ORF as the dependent variable
+
+ - oral reading fluency accuracy
+ > the distribution is skewed at the lower end, but is relatively flat there 
+   after with a modest rise up to the 2nd quintile
+ >> I read this as once students pass that first hump, they improve well after
+
+ - oral reading fluency and word reading fluency
+ > both have scores skewed toward the bottom
+ > correlation resulted in 0.97 which shows a significant relationship
+ >> this may be due to the fact that if a student has trouble reading words, then they're
+    more than likely going to have trouble reading out loud
