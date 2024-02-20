@@ -1,5 +1,4 @@
 import os
-import glob
 from dotenv import load_dotenv
 import yaml
 from pathlib import Path
@@ -86,7 +85,7 @@ class MapCols():
     
     def swap_key_vals(self, filtered_df: pd.DataFrame, name: str) -> dict:
         col_dict = filtered_df.to_dict('index')[name]
-        return {v: k for k, v in col_dict.items()}
+        return {str(v).lower(): str(k).lower() for k, v in col_dict.items()}
     
     def rename_cols(self, df: pd.DataFrame, swapped_kv: dict) -> pd.DataFrame:
         return df.rename(columns = swapped_kv)
@@ -139,10 +138,11 @@ if __name__ == "__main__":
         swapped_kv = mp.swap_key_vals(filtered_df = fil_col_map, name = name)
 
         school = pd.read_csv(i)
+        school.columns = map(str.lower, school.columns)
         renamed_cols_df = school.rename(columns = swapped_kv)
 
         if which_cols == 'mapped':
-            keep_cols = [c for c in renamed_cols_df.columns if c in mp.col_map.columns]
+            keep_cols = [c for c in renamed_cols_df.columns if c in swapped_kv.values()]
             renamed_cols_df = renamed_cols_df[keep_cols]
 
         df_list.append(renamed_cols_df)
