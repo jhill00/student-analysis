@@ -1,0 +1,14 @@
+logic:
+ - to account for missing, I used count(all rows) - count(numerical values)
+ > or count of all blanks
+ - to account for absenteeism, I took a count of all 0 values for a given column
+
+notes:
+ - out of all 200 students recoded in grade 1, oral reading fluency had the highest absenteeism at 27%
+ > nonsense word fluency was closely behind at 26%, but it's important to note that both oral reading
+   fluency and oral reading fluency accuracy had an average absence rate of 26.25%, with a combined total
+   of 105 absences
+ >> are students insecure of their reading abilities and possibly shying away from reading out loud?
+
+ - word reading fluency was an outlier for missing scores at 42.5%
+ > have there been any reported issues of data not getting recorded properly?
