@@ -1,0 +1,201 @@
+school_name,student_last_name,student_first_name,student_id,grade,lnf,psf,nwf-cls,nwf-wrc,wrf,orf,orf-accu
+,1c98119233,Victory,8b431a74c9,Grade 1,20,16,15,1,1,1,2
+,55a42dd818,Jasmine,e5cdad348f,Grade 1,39,42,21,3,7,8,53
+,3c6a7f8fb5,Deutchson,e9dc7955cd,Grade 1,5,0,0,0,0,0,0
+,52fd0d24ca,Jaharis,b1938523ae,Grade 1,52,36,29,3,7,4,26
+,9950fd2c5b,Deborah,fd66814472,Grade 1,19,26,15,0,7,3,30
+,bab3c7d19a,Mathew,66c6b3ce93,Grade 1,54,31,74,21,41,52,94
+,b4c9c5aa2c,Nathan,b8b836a0a3,Grade 1,23,55,19,5,2,0,0
+,3ce9aefcb8,Gabriella,f8bfea186b,Grade 1,40,6,15,9,3,11, 
+,338699dc58,Thayla,f1215d2646,Grade 1,50,31,47,14,19,22,78
+,8658ebf1ed,Harlem,a818de2156,Grade 1,18,0,8,0,0,0,0
+,fd49ab8b24,Yves,b074710a79,Grade 1,43,1,12,0,4,1,6
+,e4378e9c55,Nyla,94f32593c6,Grade 1,52,52,20,5, ,2,18
+,655820315c,Caleb ,c47e91c20b,Grade 1,83,48,44,11,29,35,79
+,ce5f866533,Carmella,6773a24c45,Grade 1,26,33,22,1,4,0,0
+,3495e75785,Ryder,9207ed5416,Grade 1,18,24,9,0,2,0,0
+,11ba7fdff1,Benjamin,18193ede23,Grade 1,25,0,24,0,5,0,0
+,434567788,Brayden,94f46d8156,Grade 1,34,15,11,0,7,0,0
+,9ff5b8da8a,Alex,76b0b48585,Grade 1,17,25,13,0,1,0,0
+,3036230609,Bella,898ade2a3e,Grade 1,30,35,13,0,1,0,0
+,a0e12afb89,Aiden,acf455724b,Grade 1,19,8,17,0,0, , 
+,3028fe69be,Niah,bb7dd8ee53,Grade 1,36,64,19,3,6,0,0
+,0a2d8fcb45,Adriel,6aafc929d6,Grade 1,25,29,14,0,3,0,0
+,6687d4738f,Julia,6354b3b3b6,Grade 1,23,50,30,8,0, , 
+,3c8a67d409,Meilani,223cce975f,Grade 1,18,39,12,2,1, , 
+,97c4425f18,Christelle,02d98d924d,Grade 1,40,45,18,6,7,1,11
+,499e7350be,Luany,f4b947940a,Grade 1,9,0,4,0,0,0,0
+,d414eeee4c,Maiza,c385ad006f,Grade 1,11,21,16,3,1,0,0
+,6a6c396e58,An,8.71E+10,Grade 1,25,0,0,0,0,0,0
+,2338ba80b9,Maliyah,c541ae4c26,Grade 1,17,0,0,0,2,0,0
+,7f36df0b52,Yisrael,a09526f652,Grade 1,28,34,30,0,2,0,0
+,2ec7da3f6e,Karic,a88483fe0c,Grade 1,36,43,31,9,9,2,13
+,6e628f7b1d,Andrew ,64bdae03a8,Grade 1,49,14,13,0, ,2,12
+,78a1a1dae4,Roselande,2fab97f85e,Grade 1,39,45,29,0,9,0,0
+,213c4d2db0,Adele,33d553cc36,Grade 1,39,35,19,0,7,0,0
+,f77e7de451,Judith,945c49d347,Grade 1,32,30,7,0,0,0,0
+,7b43e986b7,Noah,970ec51fb5,Grade 1,30,50,29,5,3,2,15
+,5ace19eb8a,Brian,dcbb51409d,Grade 1,36,53,45,14,10,5,29
+,7283463fd9,Ariella,97e1d91e7d,Grade 1,51,35,94,25,56,83,92
+,296b63663c,Damon,e1ba5800c6,Grade 1,26,6,0,0,0,0,0
+,4c3959a043,Caleb,3b756f2b2b,Grade 1,46,42,25,4,7,1,12
+,683313d690,Milan,2042d27ae2,Grade 1,39,36,18,5,3,2,18
+,69dd9e5bb3,Maliah,48c704a71f,Grade 1,21,24,8,0,3,0,0
+,10aa8ac65e,Chloe,62198fa3b9,Grade 1,36,37,33,11,10,6,46
+,1c574b17ee,Eli,6a0725eba6,Grade 1,37,0,1,0, ,0,0
+,7e0b7a468d,Zayn,8ef6f53181,Grade 1,50,25,19,0,2,0,0
+,8b81665c6c,Jay'ceon,ce526ef387,Grade 1,0,0,0,0,0,0,0
+,80b42b9b6c,Gaetan,48205107a8,Grade 1,0,4,0,0,0,0,0
+,3c572f0710,LindaMarie,1dd5f940f6,Grade 1,26,3,24,0, ,0, 
+,7eda994956,Skylar,0ead7cc914,Grade 1,38,33,27,5,6,4,33
+,dfb29be7ef,Carly,0a0ca59a98,Grade 1,27,22,14,0,9,2,14
+,d982f029f5,Aiden,e9557d0c1e,Grade 1,27,45,26,5,0, , 
+,56ec4fee9f,Chrysnaelle,b789ad737e,Grade 1,29,7,13,0,5,0,0
+,af8875942f,Miriam,cc4a88aed0,Grade 1,40,55,28,8,2,5,33
+,6e8d8801f5,Renzo,9958482b81,Grade 1,57,40,44,12,15,15,53
+,72bc556112,Lilah,5eec9123c2,Grade 1,23,21,21,0,2,1,11
+,e3a83b6689,Raisa,037de233f4,Grade 1,26,0,11,0,0,0,0
+,5f3c4da8d0,Jonathan,f219eb9488,Grade 1,64,45,62,17,30,42,82
+,eba97121e0,Maxwell,f118e5211a,Grade 1,37,42,21,3,5,3,23
+,91f5c51e92,Aundrea,466a3cac53,Grade 1,48,50,34,0,5,7,36
+,1f5f326705,Gia Han,2b6585fa82,Grade 1,19,0,15,2, ,0,0
+,ad2c0f5775,Armani,b07627bcea,Grade 1,85,43,46,11,7,10,62
+,d41e3d0cd2,Oliver,33ca1d7247,Grade 1,45,39,38,11,15,11,57
+,3d7c3e417e,Alyssah,82d4d481a7,Grade 1,56,4,144,40, ,38,86
+,c048197480,Alexander,7351bbc371,Grade 1,11,28,7,2,4, , 
+,3036230609,Isaac,082b161269,Grade 1,12,30,7,0,0,0,0
+,d4edc9b1a3,Ibrahim,64373b8be1,Grade 1,55,27,39,5,8,14,82
+,54e75fa975,Ella,7526c6e7e9,Grade 1,41,52,56,12,23,37,88
+,505c85eea6,Sonia,7526c6e7e9,Grade 1,48,39,32,7,12,17,60
+,9eac806b76,Noriellie,7526c6e7e9,Grade 1,41,32,47,11, ,9,47
+,545eed3960,Ada,7526c6e7e9,Grade 1,19,44,4,0, ,0,0
+school al,545eed3960,Ava,44d561d100,Grade 1,24,6,8,1, ,0,0
+,260f7f6892,Benjamin,7526c6e7e9,Grade 1,39,49,21,2, ,0, 
+,46df606113,Suhaila,7526c6e7e9,Grade 1,52,43,43,13, ,3,20
+school al,2f2c0ca5ef,Addison,f8254b80ba,Grade 1,27,45,13,2,0, , 
+,f3720967a2,Adelina ,9e864d0cbe,Grade 1,34,12,25,0,7,3,23
+,43990ecd84,Brielle ,7526c6e7e9,Grade 1,50,33,76,23,56,82,96
+,0c511d0640,Xyla,7526c6e7e9,Grade 1,33,31,21,5,15,9,50
+,72949c4562,Aliya,7526c6e7e9,Grade 1,40,29,20,5,9,8,80
+,c6e8476f7c,Luke,7526c6e7e9,Grade 1,64,56,91,29, ,78,100
+,c4e593a1aa,Sophia,7526c6e7e9,Grade 1,35,42,73,21, ,56,91
+,18f2855928,Annalisa,7526c6e7e9,Grade 1,34,22,20,0, ,0,0
+,b2bdaaf1af,Emalee,7526c6e7e9,Grade 1,35,23,22,2,28,23,82
+,96a140a5bd,Rebecca,7526c6e7e9,Grade 1,54,58,56,12, ,46,83
+,1c201bebb8,Jaylana,7526c6e7e9,Grade 1,57,33,37,9, ,24,85
+,41b5d26595,Irvie,7526c6e7e9,Grade 1,59,45,72,23, ,18,69
+,c43139196d,Julien,7526c6e7e9,Grade 1,33,31,25,1,15,20,71
+,576bbac208,Aiden,7526c6e7e9,Grade 1,45,42,36,8, ,17,73
+,a09948e8f6,Ciara,7526c6e7e9,Grade 1,46,44,19,1,6,2,14
+,e2120ffdc0,Carly,7526c6e7e9,Grade 1,79,55,61,16, ,8,38
+,e2120ffdc0,Delilah,7526c6e7e9,Grade 1,54,66,79,25, ,52,94
+,5c033324ae,Tomas,7526c6e7e9,Grade 1,57,31,50,13, ,15,65
+,c1c6ffa678,Wykeim,7526c6e7e9,Grade 1,77,56,74,25,32,51,92
+school al,8735f6642f,Arabella,3f4e1220fa,Grade 1,50,24,39,13,6,5,55
+,69aaefefe3,Jordan,7526c6e7e9,Grade 1,72,46,50,14, ,24,75
+,aa79687077,Lucas,7526c6e7e9,Grade 1,22,0,0,0,0,0,0
+school al,4b9bb31f12,Salma,148637533b,Grade 1,29,58,34,6, ,2,22
+,54ff3f4983,Zoriya,7526c6e7e9,Grade 1,41,48,28,7,13,4,26
+,820509626b,Adrian,7526c6e7e9,Grade 1,50,31,48,16,33,46,90
+,3be0455d59,Elessia,7526c6e7e9,Grade 1,47,37,36,12, ,8,26
+,bd0d24efe8,Evens,7526c6e7e9,Grade 1,63,56,59,13,17,23,79
+,83e6fefca2,Noemie,7526c6e7e9,Grade 1,36,0,13,2,13,0,0
+,fb098c65c3,Jayden,7526c6e7e9,Grade 1,67,35,32,9, ,20,74
+school ai,086d20bfb0,Nayla,dd00db39b6,Grade 1,26,2,13,0, ,3,30
+school ag,a33ef009be,Imani,32a3eefe78,Grade 1,38,43,30,6,3,3,27
+,bb384bee64,Resty Reid,7526c6e7e9,Grade 1,61,30,76,25, ,62,98
+school ai,d5ff40de1e,Aiden,4dc7f6196e,Grade 1,41,30,21,5, ,21,67
+school af,5f38a7b1b4,Yara,230973919,Grade 1,42,37,18,4,12,9,56
+,99c8213730,Ife,7526c6e7e9,Grade 1,29,30,49,14, ,6,46
+,bbd3878ab0,Gia,7526c6e7e9,Grade 1,42,52,29,9,23,33,84
+,bbd3878ab0,Valerio,7526c6e7e9,Grade 1,78,53,64,18, ,19,61
+,e2372fcabd,Alan Emiliano,7526c6e7e9,Grade 1,28,31,114,37,31,46,88
+,102bf6903b,Leila,7526c6e7e9,Grade 1,45,59,89,28, ,49,80
+school ai,2c3aaefea8,Niah,8570d682fe,Grade 1,35,47,19,3, ,4,30
+,82c268188c,Todd,7526c6e7e9,Grade 1,60,47,73,24, ,46,95
+,d9e1b51ac9,Noah,978941eaf4,Grade 1,8,7,10,0,2,0,0
+,aeac96caeb,Dylan,7526c6e7e9,Grade 1,33,15,23,3, ,48,92
+,11a4f480c4,Cru',7526c6e7e9,Grade 1,39,47,54,14, ,41,89
+school al,88ba8a4d8a,Daphne,49287e864b,Grade 1,35,38,26,4, ,10,47
+school al,d4f4f55cc0,Lucas,8f48f10a64,Grade 1,30,27,19,3, ,11,61
+,90d893a0fc,Danielle,7526c6e7e9,Grade 1,30,26,30,0, ,4,26
+school ai,8fd446866f,Lucas,7b9e7baad4,Grade 1,38,4,18,0, ,1,11
+,d3fd391992,William,7526c6e7e9,Grade 1,50,31,39,13,50,87,100
+,02ab1a994b,Zohan,7526c6e7e9,Grade 1,57,40,34,10,18,28,80
+,fa5e5950af,Noelle,7526c6e7e9,Grade 1,54,49,58,17,38,57,93
+,e34e02a8d1,Ulani,7526c6e7e9,Grade 1,63,35,67,22, ,54,98
+,dcd5b5f707,Abigail,7526c6e7e9,Grade 1,35,23,74,21,60,89,98
+,361fd0fcbc,Michael ,7526c6e7e9,Grade 1,63,49,49,15,40,63,95
+,3013b18f43,Amani,7526c6e7e9,Grade 1,49,31,16,3, ,11,47
+,fe16a94194,Laila,7526c6e7e9,Grade 1,45,40,45,14,27,44,93
+,78a1a1dae4,Theo,7526c6e7e9,Grade 1,51,54,81,26, ,64,96
+,89549001cf,Zahra,7526c6e7e9,Grade 1,62,37,52,15,14,32,82
+,db169595e3,Grace,7526c6e7e9,Grade 1,61,57,69,19, ,35,79
+school af,58de53382c,Xane,ed57469f43,Grade 1,24,29,20,5,0,0,0
+,c131f1441e,Lincoln,7526c6e7e9,Grade 1,32,45,31,9, ,0, 
+,7e7c621a30,Tisang,7526c6e7e9,Grade 1,37,41,68,17,34,50,86
+,d09b169d8d,Guerschom,7526c6e7e9,Grade 1,18,0,0,0,0,0,0
+,a2fbc754b9,Daisy,7526c6e7e9,Grade 1,51,48,85,28, ,122,99
+,d544b8423a,Kiamarly,7526c6e7e9,Grade 1,49,19,13,3, ,109,96
+,ebf366398b,Francis,7526c6e7e9,Grade 1,43,32,30,6, ,3,30
+,8d9cd6ee11,Hadassah,7526c6e7e9,Grade 1,34,58,16,11,6,12,80
+,b0eeeccaef,Miguel,7526c6e7e9,Grade 1,28,0,0,0, ,0,0
+,0432f342a6,Lisa,5ddbe850c7,Grade 1,26,28,36,5, ,6,30
+,3ac8cab7ed,Lianna,7526c6e7e9,Grade 1,31,36,20,4, ,0,0
+,0cd8d6694b,Mariana,7526c6e7e9,Grade 1,52,48,37,9,8,5,38
+,0a5e7f1bd6,Zahara,7526c6e7e9,Grade 1,49,44,39,7,12,15,68
+,459a44d094,Iziah,7526c6e7e9,Grade 1,34,15,24,8, ,1,11
+,6135934f23,Kennedi,7526c6e7e9,Grade 1,34,38,19,3, ,0,0
+school al,ffc0ea2e03,Kadmiel,882eb090e9,Grade 1,21,13,7,0, ,0,0
+,39d3a2e969,Austin,7526c6e7e9,Grade 1,57,37,28,8, ,12,46
+,ecfaae65c0,Layla,7526c6e7e9,Grade 1,61,56,50,16, ,57,91
+,597d0dd6aa,Elizabeth,7526c6e7e9,Grade 1,37,43,32,10,10,16,69
+school ai,fc519f1a34,Giselle,643ba45fde,Grade 1,48,34,33,4, ,2,15
+,89f1e45c16,Zavion ,7526c6e7e9,Grade 1,100,74,106,31,70,109,97
+,426a921599,Sofia Iman,7526c6e7e9,Grade 1,52,46,37,10,15,18,64
+,71fc8c75a5,Justin,7526c6e7e9,Grade 1,53,32,174,58, ,104,98
+,385cdb1e53,Eveline,7526c6e7e9,Grade 1,42,50,41,10,12,12,70
+school al,9befa3c632,Raheim,af62c205c1,Grade 1,40,12,23,0, ,0,0
+school af,2718402008,Quba,65e57b20c9,Grade 1,27,0,4,0,0,0,0
+school ai,edca4c8901,Nikte,568210e4cc,Grade 1,34,18,19,6, ,2,20
+,6f005a1868,Liam,7526c6e7e9,Grade 1,40,23,25,5, ,11,57
+,cfbfc4ba0d,Fernanda,21dcab6892,Grade 1,54,11,32,0, ,58,96
+school al,213c4d2db0,Aubriella,fad5052cbf,Grade 1,50,24,30,9,8,7,43
+school ai,213c4d2db0,Claire,1a310e201f,Grade 1,28,0,19,2, ,7,41
+,213c4d2db0,Donald,7526c6e7e9,Grade 1,71,52,92,26, ,63,95
+,213c4d2db0,Ethan,7526c6e7e9,Grade 1,67,35,116,39,55,82,96
+,213c4d2db0,Hoang,7526c6e7e9,Grade 1,57,38,30,9, ,0,0
+,213c4d2db0,Justin,7526c6e7e9,Grade 1,52,42,35,13, ,42,93
+,2c6794c28d,Jayla,7526c6e7e9,Grade 1,32,41,27,8,9,10,52
+,37672c9ad4,Zora,7526c6e7e9,Grade 1,61,26,55,17, ,59,92
+,4b38640969,Lauralie,7526c6e7e9,Grade 1,20,5,9,1, ,3,30
+,91ec94e00b,Henry,7526c6e7e9,Grade 1,45,56,45,13, ,10,47
+,61a1936a45,Amarachi,7526c6e7e9,Grade 1,46,25,24,4, ,4,57
+,0a30a815d6,Gayelle,7526c6e7e9,Grade 1,37,40,31,5, ,27,77
+school af,3ce9aefcb8,Liam,32b8d2a23d,Grade 1,36,32,15,4,11,8,42
+,36b1893751,Eva,7526c6e7e9,Grade 1,25,24,25,6, ,4,44
+,7b2bcdbab3,Milliani ,e393f51b10,Grade 1,5,27,14,0,3,0,0
+school ai,54269f7f53,Adriell,1d03fa46bf,Grade 1,39,39,30,4, ,2,20
+,09cba0b011,Nathan,7526c6e7e9,Grade 1,43,24,23,7, ,12,63
+,79e79dd33b,Amparo,7526c6e7e9,Grade 1,21,40,31,5,2,0,0
+,b30445c2eb,Jarrod,7526c6e7e9,Grade 1,62,35,28,6, ,9,47
+,09be5e34d0,Carter,7526c6e7e9,Grade 1,53,35,41,11, ,4,33
+,a15ece6783,Evelyn,7526c6e7e9,Grade 1,46,32,26,7, ,46,90
+,775fd68935,Sebastian,7526c6e7e9,Grade 1,73,30,72,21,32,51,98
+school af,c008be7683,GaelleLinda,1462154994,Grade 1,3,3,0,0,0,0,0
+,235fe39352,Dionna,7526c6e7e9,Grade 1,43,47,102,33,54,72,94
+school ai,aca920e76e,Analia,dd0c8d7900,Grade 1,33,24,13,3, ,4,44
+,2deca88b1e,Levi,7526c6e7e9,Grade 1,5,9,0,0,0,0,0
+,6cc87e8065,Vidian,7526c6e7e9,Grade 1,56,16,32,7,20,36,85
+,abea5ba314,Jhamir,7526c6e7e9,Grade 1,68,39,63,16, ,33,43
+,3f822cbc28,Zendaya,7526c6e7e9,Grade 1,53,38,46,14,12,12,50
+,09db1a1b3e,Kalia,7526c6e7e9,Grade 1,60,57,59,9, ,31,83
+,312a977a28,Remy,7526c6e7e9,Grade 1,24,14,9,4, ,16,64
+,6e628f7b1d,Edmond,7526c6e7e9,Grade 1,54,32,31,7, ,25,83
+,6e628f7b1d,Liam,7526c6e7e9,Grade 1,46,14,9,0, ,0,0
+school al,e42df0232d,Camila,3757a839f8,Grade 1,46,45,36,5, ,1,10
+,0536d4e1f5,Violet,7526c6e7e9,Grade 1,43,0,14,1,35,35,79
+,2ca4bd7472,Ezekiel,7526c6e7e9,Grade 1,44,24,20,2, ,9,56
+school af,3495e75785,Kiley,28c4df4709,Grade 1,23,40,18,3,6,9,45
+,adaf581080,Lillian,251851f415,Grade 1,23,33,18,0, ,0,0
+,6e8d8801f5,Jaxson,7526c6e7e9,Grade 1,18,4,7,0,0,0,0
