@@ -98,6 +98,9 @@ if __name__ == "__main__":
     DATA_FILES_PATH = os.environ.get('DATA_FILES_PATH')
     CONSOLIDATED_DATA_PATH = os.environ.get('CONSOLIDATED_DATA_PATH')
 
+    if not Path(CONSOLIDATED_DATA_PATH).exists():
+        raise Exception(f'Directory {CONSOLIDATED_DATA_PATH} does not exist. Please check your environment variables.')
+
     # loading yaml configurations
     yaml_file_path = __file__.replace('.py','.yaml')
     if Path(yaml_file_path).exists():
@@ -108,6 +111,7 @@ if __name__ == "__main__":
     else:
         raise Exception(f'Missing {yaml_file_path} file. Please create a yaml file.')
 
+    # organize file paths
     op = OrgPathing(
         DATA_FILES_PATH = DATA_FILES_PATH,
         tr = str_search_config.get('test_results'),
@@ -115,28 +119,36 @@ if __name__ == "__main__":
         si = str_search_config.get('student_info')
     )
 
+    # access functions for mapping column names and renaming
     mp = MapCols(op = op)
 
+    # use strings 'all' or 'mapped' for naming_config.get('cols') configuration
+    which_cols = naming_config.get('cols')
+    file_name = naming_config.get('consolidated_file')
+    file_name = '_'.join([which_cols, file_name])
+    
     # file to write consolidated test results to
-    write_to = '\\'.join([CONSOLIDATED_DATA_PATH,
-                          naming_config.get('consolidated_file')])
+    write_to = '\\'.join([CONSOLIDATED_DATA_PATH, file_name])
 
     # iterate over test result files and combine them into a unified set
+    df_list = []
+    
     for i in mp.test_results:
         name = mp.parse_file_name(i)
         fil_col_map = mp.filter_col_map(name)
         swapped_kv = mp.swap_key_vals(filtered_df = fil_col_map, name = name)
 
         school = pd.read_csv(i)
-        renamed_school_cols = school.rename(columns = swapped_kv)
+        renamed_cols_df = school.rename(columns = swapped_kv)
 
-        if Path(write_to).exists():
-            renamed_school_cols.to_csv(write_to,
-                                       mode = 'a',
-                                       index = False,
-                                       header = False)
-        else:
-            renamed_school_cols.to_csv(write_to,
-                                       mode = 'w',
-                                       index = False,
-                                       header = True)
+        if which_cols == 'mapped':
+            keep_cols = [c for c in renamed_cols_df.columns if c in mp.col_map.columns]
+            renamed_cols_df = renamed_cols_df[keep_cols]
+
+        df_list.append(renamed_cols_df)
+        
+    result = pd.concat(df_list)
+    result.to_csv(write_to,
+                  mode = 'w',
+                  index = False,
+                  header = True)

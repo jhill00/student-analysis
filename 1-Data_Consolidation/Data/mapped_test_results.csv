@@ -1,0 +1,1672 @@
+school_name,student_last_name,student_first_name,student_id,grade,LNF,PSF,NWF-CLS,NWF-WRC,WRF,ORF,ORF-Accu
+Paper Mill,9eac806b76,Eva,b5a63c9819,1,35.0,48.0,62.0,19.0,18.0,45.0,94.0
+Paper Mill,8fab4a2b46,Zara,2763f01fe8,1,36.0,33.0,24.0,0.0,8.0,6.0,50.0
+Paper Mill,ed4071fdd5,James,0b03153b95,1,48.0,35.0,32.0,5.0,12.0,20.0,71.0
+Paper Mill,96362e8a3c,Jacob,ab0ea197c7,1,35.0,23.0,10.0,0.0,2.0,0.0,0.0
+Paper Mill,794eb6df32,Matthew,2958309dfe,1,52.0,38.0,93.0,27.0,58.0,94.0,96.0
+Paper Mill,129e6e98fe,Lincoln,23cae07be3,1,85.0,23.0,82.0,23.0,26.0,46.0,85.0
+Paper Mill,18f2855928,Delaney,97e244af0e,1,48.0,49.0,25.0,2.0,7.0,10.0,67.0
+Paper Mill,ef0bceeac7,Elizabeth,3d7d547c24,1,20.0,28.0,2.0,0.0,1.0,0.0,0.0
+Paper Mill,0a8da4a9ae,Brody,4816affd9f,1,52.0,47.0,28.0,6.0,12.0,8.0,57.0
+Paper Mill,dfc92d4843,Luciana,a59e02e203,1,57.0,36.0,24.0,5.0,9.0,5.0,42.0
+Paper Mill,9b68d6439c,Daniel,6c06d29edc,1,32.0,45.0,21.0,5.0,6.0,2.0,25.0
+Paper Mill,5c033324ae,Nelyaniz,cec7df385e,1,25.0,0.0,0.0,0.0,2.0,0.0,0.0
+Paper Mill,8da8dcc641,Jackson,f3c95e60bf,1,13.0,20.0,12.0,0.0,0.0,0.0,0.0
+Paper Mill,6132853eb8,Adriel,24f811e28b,1,16.0,21.0,7.0,0.0,0.0,0.0,0.0
+Paper Mill,05d2f9ea72,Riley,2a82cb647d,1,38.0,25.0,16.0,1.0,2.0,3.0,23.0
+Paper Mill,715d595484,Aedis,edb887a0e6,1,39.0,23.0,21.0,2.0,14.0,4.0,21.0
+Paper Mill,c57a183476,Jackson,0d7634f365,1,46.0,38.0,44.0,12.0,17.0,7.0,54.0
+Paper Mill,e4cbbbc106,Sean,ee34bad561,1,21.0,31.0,8.0,0.0,3.0,0.0,0.0
+Paper Mill,c2194c3bc0,Kelly,014aa46567,1,36.0,2.0,15.0,0.0,2.0,0.0,0.0
+Paper Mill,82821af19c,Angela,593ed42128,1,27.0,27.0,39.0,0.0,5.0,4.0,44.0
+Paper Mill,4a988f5517,Jameson,cc66a45ca2,1,35.0,45.0,13.0,2.0,0.0,1.0,7.0
+Paper Mill,78b7d0379d,Anastasia,d054eb52f1,1,40.0,15.0,17.0,1.0,18.0,16.0,80.0
+Paper Mill,ad210539d7,Katherine,6649f9f110,1,55.0,36.0,50.0,15.0,16.0,24.0,75.0
+Paper Mill,08f258a234,Melody,ba7a52a47c,1,34.0,6.0,21.0,0.0,1.0,0.0,0.0
+Paper Mill,42064fa68b,Roman,68a29d3fdf,1,18.0,34.0,16.0,0.0,1.0,0.0,0.0
+Paper Mill,e11e079d10,Nathaniel,ba5df46d5f,1,75.0,38.0,87.0,29.0,26.0,34.0,89.0
+Paper Mill,b77e30668d,Madilyn,1e45dd4fdd,1,50.0,39.0,45.0,14.0,15.0,14.0,64.0
+Paper Mill,80bdd4d896,Lyanna,6f3077427d,1,37.0,23.0,8.0,0.0,11.0,15.0,63.0
+Paper Mill,a226a2084c,Kenzi,20fe02f892,1,49.0,42.0,32.0,5.0,11.0,10.0,56.0
+Paper Mill,f878365261,Camden,b7214e4803,1,65.0,39.0,75.0,29.0,32.0,43.0,98.0
+Paper Mill,07884c893c,Anna,bd2ea8b6bc,1,57.0,35.0,46.0,11.0,8.0,9.0,38.0
+Paper Mill,36d8fc41ea,Aubrey,0a9edd8c96,1,18.0,2.0,0.0,0.0,1.0,0.0,0.0
+Paper Mill,2dfd1adb4e,Layla,97410e2e6c,1,46.0,40.0,13.0,0.0,13.0,8.0,53.0
+Paper Mill,cf4f5e12ce,Tyler,09ed1d6745,1,39.0,39.0,18.0,5.0,8.0,4.0,36.0
+Paper Mill,30cddbd5df,Ruby,f524b9293c,1,25.0,25.0,11.0,0.0,0.0,0.0,0.0
+Paper Mill,29cb3bb6cb,Shayden,e478218efc,1,31.0,23.0,28.0,0.0,17.0,21.0,81.0
+Paper Mill,1cd8e5f482,Ariah,504e0f4ae4,1,2.0,27.0,4.0,1.0,0.0,0.0,0.0
+Paper Mill,9e00106e1a,Carter,29d0af6945,1,47.0,44.0,35.0,5.0,7.0,0.0,0.0
+Paper Mill,4f2fcb39c9,Liam,bf79b6ec05,1,43.0,29.0,25.0,4.0,2.0,0.0,0.0
+Paper Mill,0bd6fce7aa,Yuliana,0425c0b8b1,1,27.0,44.0,29.0,9.0,3.0,0.0,0.0
+Paper Mill,213c4d2db0,Grayson,2204920fd5,1,43.0,4.0,38.0,4.0,22.0,23.0,74.0
+Paper Mill,b5155207c5,Jade,a732e33efb,1,33.0,13.0,14.0,2.0,4.0,0.0,0.0
+Paper Mill,fe9b82bf7a,Daniel,82ce4f2370,1,15.0,26.0,13.0,0.0,2.0,1.0,11.0
+Paper Mill,30af12ee9a,Grayson,9861a1db37,1,40.0,37.0,39.0,11.0,7.0,2.0,13.0
+Paper Mill,54cc63567c,Henry,bffcf06a30,1,41.0,37.0,23.0,5.0,8.0,3.0,38.0
+Paper Mill,8b717bdc92,Aspen,5c081a07b3,1,26.0,36.0,27.0,0.0,3.0,0.0,0.0
+Paper Mill,f79979bf40,Jaydes,f35aa2a474,1,34.0,32.0,12.0,0.0,2.0,0.0,0.0
+Paper Mill,9dfdb54c91,Maleek,02d8a5d47b,1,24.0,26.0,13.0,0.0,0.0,0.0,0.0
+Paper Mill,6bb48cc5c7,Maximus,6778e2547c,1,5.0,9.0,0.0,0.0,1.0,0.0,0.0
+Paper Mill,1415c94f10,Leah,1704c4aa57,1,39.0,35.0,24.0,5.0,6.0,0.0,0.0
+Paper Mill,8d0bbc6c5e,Noah,7547933582,1,49.0,9.0,81.0,25.0,57.0,65.0,96.0
+Paper Mill,6a97f77a12,Piper,2511c78ece,1,59.0,41.0,40.0,11.0,16.0,18.0,64.0
+Paper Mill,ccea9e9968,Evan,23fb02b3b5,1,46.0,17.0,12.0,0.0,0.0,0.0,0.0
+Paper Mill,d52a38e077,Dai'Lainie,2f17fe9fde,1,45.0,7.0,19.0,0.0,2.0,0.0,0.0
+Paper Mill,e7a7eb124c,Liam,5d367ddfee,1,66.0,37.0,43.0,0.0,22.0,19.0,68.0
+Paper Mill,e7a7eb124c,Olivia,7c8d8bc4d1,1,25.0,24.0,9.0,1.0,4.0,0.0,0.0
+Paper Mill,c601bc6bad,Julian,f4a69a7e2b,1,20.0,0.0,2.0,0.0,1.0,0.0,0.0
+Paper Mill,c1e25009e0,Connor,c751015f3e,1,36.0,6.0,15.0,0.0,1.0,0.0,0.0
+Paper Mill,fd5c8081ba,Makenzie,5c8a611de5,1,33.0,17.0,17.0,0.0,10.0,6.0,46.0
+Paper Mill,7ee706ba29,Amelia,d026ad230d,1,29.0,42.0,19.0,5.0,2.0,0.0,0.0
+Paper Mill,1670f01479,Jane,ff3b71e78b,2,,,,,,,
+Paper Mill,a9a7625ee4,Adriel,13c9a7678c,2,,,,,,,
+Paper Mill,ca5877a83e,Liliana,efb67073ef,2,,,,,,,
+Paper Mill,e2120ffdc0,Brody,bdfda77127,2,,,,,,,
+Paper Mill,27d5f3d820,Scarlet,31d6e5c701,2,,,,,,,
+Paper Mill,451187b38c,Caleb,bec52416b5,2,,,,,,,
+Paper Mill,f6b6aad7a7,Geremiah,ea3741f60a,2,,,,,,,
+Paper Mill,3f3f8baad0,Hunter,1da506b384,2,,,,,,,
+Paper Mill,11a4f480c4,Kaileyannie,74da9b6ca8,2,,,,,,,
+Paper Mill,81f1657587,Oden,2e12c90bf7,2,,,,,,,
+Paper Mill,d25786e051,Emma,315d9492c9,2,,,,,,,
+Paper Mill,c49cf5e340,Adriel,ad9a375f76,2,,,,,,,
+Paper Mill,72d671cacf,Jacob,6dadf9c970,2,,,,,,,
+Paper Mill,716545ea58,Olivia,c5d8a0e591,2,,,,,,,
+Paper Mill,72cbf7fe86,Teagan,8a7d14fe35,2,,,,,,,
+Paper Mill,6a2d505541,Luke,d7ecbe3407,2,,,,,,,
+Paper Mill,abeaa3b85b,Yanieiliz,5e2c168f40,2,,,,,,,
+Paper Mill,2add3f54e4,Mark,bd87b72b46,2,,,,,,,
+Paper Mill,5fd6c09b64,Dylan,b76f47a007,2,,,,,,,
+Paper Mill,2ba4cb0428,Sheza,d2841e79b0,2,,,,,,,
+Paper Mill,62e0111e5a,Viktoria,2403c4e62f,2,,,,,,,
+Paper Mill,c8c0b01311,Jean,165670327d,2,,,,,,,
+Paper Mill,ad0f70dd35,Jayceon,3f02a9167d,2,,,,,,,
+Paper Mill,02c5aa5c74,Jackson,24d07df783,2,,,,,,,
+Paper Mill,3cbf95bcdb,Novaly,d8a55c7d13,2,,,,,,,
+Paper Mill,94cdb4faf6,Antonio,604351f9fe,3,,,,,,,
+Paper Mill,4352c61deb,Darren,79bccff702,3,,,,,,,
+Paper Mill,a4db37d43a,Kaden,72775d7097,3,,,,,,,
+Paper Mill,3186f9e243,A'nayah,fc535eebf5,3,,,,,,,
+Paper Mill,6aade459ce,Rylee,ddf23d50c9,3,,,,,,,
+Paper Mill,5d5e32936c,Aniyah,dadd4cedca,3,,,,,,,
+Paper Mill,f1cd1f25dd,Douglas,6048e5b55b,3,,,,,,,
+Paper Mill,90ae2c20ea,Logan,be8b31730d,3,,,,,,,
+Paper Mill,5e04c7f8b2,Isabella,17593de070,3,,,,,,,
+Paper Mill,5b97d71808,Egypt,72fe6759ff,3,,,,,,,
+Paper Mill,818d0e5ffa,Alivia,8567b66ff5,3,,,,,,,
+Paper Mill,e69331e26e,Jaylah,32751edd25,3,,,,,,,
+Paper Mill,ce95e2aa62,Inara,1d0fdec954,3,,,,,,,
+Paper Mill,c7a495e756,Nathaniel,3cd388c1c5,3,,,,,,,
+Paper Mill,d1289e5a73,Joshua,9989f1a811,3,,,,,,,
+school aa,1664b9d8ac,Jennifer,07ab597160,1,26.0,0.0,1.0,0.0,6.0,7.0,0.5
+school aa,c4a456b6b2,Uriel,39cce033ed,1,16.0,4.0,0.0,0.0,0.0,0.0,0.0
+school aa,2ba7ef77a9,Jonael,7f67d9a5b1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ab,e6c3e88300,Joandry,65d79312e2,1,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+school ab,daa3c28f41,Andony,362b508116,1,10.0,12.0,0.0,0.0,0.0,0.0,0.0
+school ab,b60ffe3995,Mateo,f2e4cc4c0e,1,12.0,9.0,0.0,0.0,1.0,0.0,0.0
+school ab,7f20ee0d5b,Cristopher,058757ed2e,1,21.0,20.0,0.0,0.0,1.0,0.0,0.0
+school ab,b090e69997,Alexandra,bdd3308dba,1,17.0,0.0,6.0,0.0,0.0,0.0,0.0
+school ab,a22ca5405b,Andrea,a98292ce2e,1,20.0,12.0,7.0,0.0,0.0,0.0,0.0
+school ab,c3f8f37004,Mateo,cd8ffc9a56,1,32.0,14.0,7.0,0.0,0.0,3.0,0.25
+school ab,147d2b9c78,Zion,b66cc90a51,1,16.0,26.0,11.0,0.0,0.0,0.0,0.0
+school ab,a7452b71a1,Alitza,417fe1cad7,1,35.0,50.0,13.0,3.0,8.0,3.0,0.2
+school ab,12c1c5fc3e,Julissa,158adcd4b2,1,46.0,3.0,17.0,0.0,2.0,2.0,0.18
+school ab,bb3b992061,Stacy,7ea6a4a73e,1,27.0,28.0,18.0,4.0,7.0,2.0,0.13
+school ab,6c2af315ad,Keiler,2f4d8a0465,1,33.0,17.0,20.0,1.0,4.0,3.0,0.27
+school ab,fdce276852,Matthew,9e1a45e33e,1,35.0,9.0,21.0,5.0,2.0,0.0,0.0
+school ab,a15087207e,Anthony,2aeb1ed85d,1,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ab,9302e0cee0,Roberto,4e65efffa2,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+school ab,b4d8a125a8,Axso,f9d77d3d39,1,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+school ab,cc3879a32a,Jefferson,7ba50592df,1,23.0,2.0,6.0,0.0,1.0,1.0,0.08
+school ab,d34330ab3a,Kaylee,d1672b92e9,1,28.0,16.0,14.0,0.0,3.0,0.0,0.0
+school ab,d575093485,Krysten,0a9bb65d7e,1,16.0,8.0,18.0,0.0,0.0,0.0,0.0
+school ab,aa787c5f67,Ayden,224821c4ed,1,34.0,32.0,19.0,3.0,3.0,0.0,0.0
+school ab,ae5540ea5c,Emilio,797a4be60f,1,33.0,3.0,22.0,0.0,0.0,0.0,0.0
+school ab,da8c1710f2,Anderson,10c64d1416,1,10.0,4.0,1.0,0.0,1.0,0.0,0.0
+school ab,0f22e52c09,Jonael,ae9f913b5c,1,24.0,18.0,11.0,0.0,2.0,2.0,0.15
+school ab,d4bf452c31,Diego,f6c39a173e,1,36.0,25.0,21.0,3.0,3.0,0.0,0.0
+school ab,911566c8b9,Travon,5d97bb4c57,1,46.0,0.0,17.0,0.0,2.0,5.0,0.62
+school ab,cdc1289e22,Hazel,ed7ae7966c,1,38.0,23.0,23.0,4.0,10.0,3.0,0.23
+school ab,11c7941115,Edwin,02bc35819d,1,56.0,29.0,19.0,3.0,6.0,3.0,0.21
+school ab,1a92e683e2,Joshua,ea8832c1b2,1,14.0,4.0,5.0,1.0,1.0,0.0,0.0
+school ab,17179cc7df,Keily,52a7a7b92a,1,7.0,0.0,7.0,0.0,0.0,0.0,0.0
+school ab,266a7b5edd,Mia,cc6323444c,1,3.0,16.0,10.0,0.0,0.0,0.0,0.0
+school ab,492c421d0e,Luis,8a928e51fd,1,35.0,0.0,7.0,0.0,1.0,0.0,0.0
+school ab,28abc07688,Francisco,3e211b878e,1,17.0,35.0,15.0,1.0,3.0,0.0,0.0
+school ab,c990aa8d10,Jeyli,4d2337cee2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ab,2db50a23ad,Melanie,1ff50dc174,1,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ab,54cc63567c,Angelina,ccd5329371,1,22.0,0.0,4.0,0.0,0.0,0.0,0.0
+school ab,a38501a47b,Mateo,e3d3adfa13,1,32.0,3.0,6.0,0.0,0.0,0.0,0.0
+school ab,2a2d5f86b2,Ingrid,2d462c6465,1,20.0,16.0,11.0,0.0,0.0,0.0,0.0
+school ab,c030113df6,Emma,6d25cd5135,1,34.0,7.0,12.0,0.0,1.0,0.0,0.0
+school ab,5a1a9634ac,Jesiah,be6bd29642,1,34.0,0.0,14.0,1.0,1.0,0.0,0.0
+school ab,f5b4de565e,Jaylanny,19c8911fd4,1,11.0,17.0,15.0,1.0,0.0,0.0,0.0
+school ab,503046646e,Abisai,162767704e,1,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+school ab,16a2fe5a80,Fatima,96658d2223,1,36.0,1.0,12.0,0.0,0.0,0.0,0.0
+school ab,f8281ae071,Lucero,930c26c1b0,1,20.0,13.0,14.0,3.0,8.0,0.0,0.0
+school ab,e65b29875f,Brandon,c6b65ed807,1,33.0,10.0,18.0,0.0,5.0,0.0,0.0
+school ab,8078fd3733,Emma,a1b6b27497,1,33.0,37.0,23.0,2.0,8.0,10.0,0.53
+school aa,af7e562e43,Casey,3b60f3ef97,1,36.0,29.0,27.0,4.0,11.0,7.0,0.36
+school aa,fc89ca51de,Omar,64b0273bf7,1,34.0,11.0,13.0,1.0,10.0,7.0,0.5
+school aa,d7fc879d66,Gerson,e41e0fb3f9,1,46.0,3.0,39.0,1.0,9.0,3.0,0.25
+school aa,3e883252df,Henry,377ae12673,1,19.0,1.0,11.0,1.0,0.0,0.0,0.0
+school aa,79bc08a742,Lohenny,bec0ab1b7f,1,15.0,17.0,10.0,1.0,1.0,1.0,0.1
+school aa,e80e3adcc3,Luciana,ccee70a93f,1,25.0,15.0,23.0,3.0,1.0,2.0,0.15
+school aa,dbdced8544,Aniyah,11ef608be0,1,17.0,33.0,16.0,0.0,4.0,1.0,0.1
+school aa,5ff8ee9620,Bryan,6cb9d170c2,1,26.0,0.0,10.0,0.0,0.0,0.0,0.0
+school aa,613767bc3f,Andy,521e08f310,1,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+school aa,d33dbc3a8b,Valentina,9fe525cd09,1,26.0,1.0,8.0,0.0,0.0,0.0,0.0
+school aa,1c1e38f8e5,Milan,445f0f7b6d,1,36.0,13.0,1.0,0.0,0.0,0.0,0.0
+school aa,503046646e,Sophia,eab2847890,1,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+school aa,df18d3826b,Jacob,b5857f95d1,1,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+school aa,901ed65472,Bertila,686727cbd6,1,25.0,26.0,17.0,4.0,3.0,9.0,0.6
+school aa,9c9b6724e4,Martha,d1545d7a6d,1,16.0,0.0,2.0,0.0,0.0,0.0,0.0
+school aa,b7090f3067,Alaina,d83cd24e38,1,11.0,15.0,9.0,1.0,2.0,0.0,0.0
+school aa,46f923c75e,Jayden,a04c23499b,1,21.0,20.0,16.0,0.0,4.0,3.0,0.27
+school aa,82ea062199,Richard,f4a74f7a4f,1,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+school aa,8632766efa,Geovanny,088cb6ec97,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+school aa,ea06af7ab7,Liah,aa941199ce,1,18.0,17.0,10.0,0.0,1.0,0.0,0.0
+school aa,27d3766120,Ostwald,4b7a9770d6,1,15.0,0.0,3.0,0.0,1.0,0.0,0.0
+school aa,ce04a2c5f7,Daylan,01031b3627,1,3.0,3.0,3.0,0.0,0.0,0.0,0.0
+school aa,fb8e01cc52,Alison,d8401f533a,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school aa,848e7a2f97,Joudia,5ee858f801,1,2.0,0.0,7.0,0.0,0.0,0.0,0.0
+school aa,eea723eeb2,Emiliano,2ef814ff3e,1,23.0,2.0,18.0,0.0,3.0,0.0,0.0
+school aa,93164b7b54,Yunior,28a05287b6,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school aa,88e27f2dde,Kevin,1a9e42a495,1,24.0,9.0,13.0,0.0,0.0,0.0,0.0
+school aa,5ca980e7f2,Ariadna,f98be25ef9,1,28.0,8.0,12.0,1.0,9.0,5.0,0.36
+school aa,f2c83c29bd,Aiden,eacb8acfbb,1,27.0,21.0,22.0,4.0,8.0,4.0,0.3
+school aa,0e88026203,Alexa,f19ce99b2b,1,26.0,7.0,16.0,2.0,0.0,0.0,0.0
+school aa,7c3b43e31a,Diego,433868c048,1,36.0,28.0,22.0,0.0,5.0,2.0,0.29
+school aa,5e69e2b638,Max,2956e9c51d,1,38.0,35.0,25.0,3.0,9.0,9.0,0.36
+school aa,1036526b9d,Juan,88eef2a39b,1,9.0,26.0,18.0,3.0,0.0,1.0,0.11
+school aa,bc403a6ec4,David,bf1ab19ba9,1,16.0,6.0,8.0,0.0,2.0,0.0,0.0
+school aa,5894857b0d,Ashley,81e97dada7,1,19.0,16.0,17.0,0.0,2.0,0.0,0.0
+school aa,f0ed91f804,Aya,238c793ef0,1,47.0,26.0,25.0,3.0,7.0,4.0,0.31
+school aa,fdce276852,Analise,5385a24c07,1,40.0,16.0,22.0,0.0,0.0,0.0,0.0
+school aa,a37a28e521,Brittany,daaa1b4c13,1,23.0,0.0,14.0,0.0,1.0,0.0,0.0
+school aa,ec89a9d92f,Daniel,b019c31adc,1,7.0,4.0,3.0,0.0,2.0,0.0,0.0
+school aa,89e1ed868c,Lorenzo,1d7e33bfe0,1,10.0,4.0,0.0,0.0,0.0,0.0,0.0
+school aa,9dab61b7a0,Me'Zaylie,f67c37f5a0,1,26.0,18.0,26.0,7.0,6.0,1.0,0.16
+school aa,dd4a5354e3,Allisson,ec4f597ff3,1,23.0,25.0,5.0,0.0,3.0,0.0,0.0
+school aa,d850ef8f2b,Logan,9580b4cc66,1,26.0,18.0,25.0,5.0,9.0,2.0,0.18
+school aa,53a3581db5,Brittany,eece6fc884,1,26.0,6.0,12.0,0.0,0.0,0.0,0.0
+school aa,8587ef0552,Jairold,69e085568f,1,32.0,15.0,15.0,0.0,6.0,1.0,0.07
+school aa,15b98c3b75,Jose,f47ca9b31c,1,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+school aa,6f2171dbf0,Zhaire,4defac83da,1,30.0,19.0,28.0,5.0,4.0,0.0,0.0
+school ac,504ed4e786,Giselle,929dee7737,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ac,7bef9f430a,Ashley,d3cf6bd9ff,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ac,c4c5a748d5,Javier,0e57b8db8e,1,31.0,22.0,24.0,3.0,4.0,2.0,22.0
+school ac,7598a31fc9,Justin,d2c0874a92,1,24.0,28.0,20.0,0.0,0.0,0.0,0.0
+school ac,ce31a582ae,Pamela,df589af42a,1,47.0,16.0,24.0,0.0,4.0,0.0,0.0
+school ac,2eac45baee,Juancito,85e2fc4387,1,17.0,0.0,11.0,0.0,0.0,0.0,0.0
+school ac,1976ba4982,Britany,eb42e53c4a,1,26.0,18.0,14.0,0.0,3.0,0.0,0.0
+school ac,7ac5869492,Genesis,70f9fc2b47,1,36.0,12.0,21.0,6.0,6.0,0.0,0.0
+school ac,43ac4f1248,Dylan,a9ba81896a,1,42.0,33.0,18.0,0.0,5.0,0.0,0.0
+school ac,f57eab4aef,Pablo,32906e0d89,1,5.0,33.0,5.0,0.0,0.0,0.0,0.0
+school ac,013d006ca3,Amy,2a180b1943,1,22.0,28.0,19.0,3.0,6.0,0.0,0.0
+school ac,553bc8d173,Nicolly,b7e2b6f5a8,1,6.0,0.0,13.0,0.0,0.0,0.0,0.0
+school ac,caac5c3918,Anthonella,9b560ff1af,1,5.0,20.0,5.0,0.0,0.0,0.0,0.0
+school ac,6db8499dd4,Caleb,3346fa9768,1,30.0,31.0,18.0,2.0,5.0,0.0,0.0
+school ac,5982637470,Kalea,7b94c0b961,1,11.0,48.0,7.0,0.0,1.0,0.0,0.0
+school ac,5f49bffd0e,Jose,d2274f45a0,1,30.0,0.0,6.0,0.0,0.0,0.0,0.0
+school ac,9db2f76300,Mattew,47c43ac00b,1,40.0,0.0,4.0,0.0,21.0,10.0,71.0
+school ac,cbf652527a,Lisian,bfc29e228a,1,27.0,35.0,22.0,2.0,0.0,0.0,0.0
+school ac,23511a8dd7,Ashley,6b2066c521,1,26.0,5.0,30.0,0.0,0.0,0.0,0.0
+school ac,ebb8f69a12,Eric,51f326e6d0,1,29.0,0.0,15.0,0.0,0.0,0.0,0.0
+school ac,ebc5430c53,Emely,f435d9c0cf,1,12.0,23.0,14.0,0.0,0.0,0.0,0.0
+school ac,1795cc74fe,Mirella,31ca2bd797,1,28.0,22.0,22.0,3.0,4.0,0.0,0.0
+school ac,627e74f878,Nicolas,75d3ecf564,1,1.0,8.0,16.0,0.0,9.0,51.0,93.0
+school ac,f089ac2137,Dylan,31cd040173,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ac,7d34016241,Yesenia,c454befca2,1,2.0,22.0,3.0,0.0,0.0,0.0,0.0
+school ac,7dd310a108,Aaron,3d7f680901,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ac,b1e9264f64,Eric,b7d74f70ed,1,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ac,f697f1d31c,Dominic,84bf4d7ba2,1,31.0,24.0,14.0,0.0,1.0,0.0,0.0
+school ac,11a4f480c4,Givanna,7f39c7e9a4,1,28.0,13.0,13.0,2.0,3.0,0.0,0.0
+school ac,6d41bd4565,Camila,ae445669a5,1,14.0,6.0,6.0,0.0,0.0,0.0,0.0
+school ac,af2fb41718,Celeste,353a8c003a,1,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+school ac,17aab4bd7f,Jonael,fb842db480,1,29.0,34.0,13.0,1.0,3.0,0.0,0.0
+school ac,7c2f01a6df,Jhorsy,f3b26367cb,1,21.0,23.0,13.0,0.0,2.0,0.0,0.0
+school ac,a71bb1f940,Abigail,36dda4e8d9,1,7.0,12.0,18.0,1.0,1.0,0.0,0.0
+school ac,089c3c1ec4,Penelope,64ece34da4,1,34.0,42.0,25.0,0.0,3.0,0.0,0.0
+school ac,f634180979,Jaslyn,a1e9925291,1,41.0,35.0,23.0,2.0,3.0,0.0,0.0
+school ac,bb501d6963,Mateo,50df7ede2d,1,29.0,10.0,21.0,3.0,0.0,0.0,0.0
+school ac,a143b158a7,Jose,57228157e1,1,15.0,21.0,15.0,0.0,0.0,0.0,0.0
+school ac,39ac35913a,Zoe,340a819101,1,17.0,27.0,13.0,0.0,0.0,0.0,0.0
+school ac,567aebdbc0,Zachary,c13d96c256,1,8.0,1.0,1.0,0.0,0.0,0.0,0.0
+school ac,c625ca5741,Julia,6b97f1cee5,1,13.0,16.0,5.0,0.0,2.0,0.0,0.0
+school ac,cf6944d5d9,Alvaro,41c3caa0ec,1,26.0,29.0,23.0,1.0,1.0,0.0,0.0
+school ac,d6d3774d63,Jalexa,e7b6cffc35,1,9.0,8.0,9.0,0.0,1.0,0.0,0.0
+school ac,3a9c325e66,Dahiana,8e1fd211b9,1,14.0,0.0,6.0,0.0,0.0,0.0,0.0
+school ac,530f5dbade,Jayden,e9f8356a73,1,17.0,26.0,11.0,0.0,0.0,0.0,0.0
+school ac,13f41b1bf4,Gerber,68c17aac3a,1,13.0,0.0,13.0,0.0,1.0,0.0,0.0
+school ac,b3a7602b97,Genesis,27d852643a,1,47.0,16.0,16.0,0.0,4.0,0.0,0.0
+school ac,79e5807130,Jayla,0ba969f797,1,23.0,46.0,15.0,0.0,5.0,2.0,16.0
+school ac,90a73c9b86,Jeronimo,992c50827e,1,29.0,16.0,27.0,2.0,3.0,0.0,0.0
+school ad,7a04a1c4cf,Ariella,9cce1d5bcd,1,32.0,0.0,30.0,0.0,6.0,7.0,0.0
+school ad,0f88638750,Camila,16fc0bf444,1,36.0,25.0,32.0,1.0,5.0,0.0,0.0
+school ad,1eac4fcdf0,Josh,a6de7576c8,1,28.0,35.0,22.0,4.0,6.0,1.0,6.0
+school ad,06a52b29e8,Alison,316d29e044,1,33.0,6.0,42.0,0.0,1.0,0.0,0.0
+school ad,82b085a785,Justin,9f0ffd1e20,1,29.0,24.0,21.0,5.0,2.0,0.0,0.0
+school ad,229b9b65c5,Isabella,8782734d2c,1,26.0,37.0,24.0,4.0,6.0,0.0,0.0
+school ad,f2c28ec5f7,Lidia,d8cbbf9862,1,32.0,16.0,13.0,0.0,0.0,0.0,0.0
+school ad,8b1d779dad,Jose,879499e080,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ad,72aba503db,Samara,bedd718940,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ad,bb8c8e1d90,Cris Angel,8c4d890d31,1,6.0,0.0,2.0,0.0,0.0,0.0,0.0
+school ad,f6c7e8df5e,Mia,cc4453b492,1,29.0,24.0,29.0,0.0,0.0,0.0,0.0
+school ad,2b5834e182,Jaime,64ea2f19ff,1,22.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ad,426494fd1d,Cristian,3fa4e21752,1,46.0,36.0,31.0,3.0,3.0,6.0,35.0
+school ad,e52eb1f711,Merie,476b662c38,1,25.0,41.0,20.0,5.0,4.0,4.0,33.0
+school ad,fbec7c4d20,Davian,215b66758a,1,15.0,0.0,3.0,0.0,0.0,0.0,0.0
+school ad,e318145cd2,Monserrat,369d8b566e,1,21.0,32.0,25.0,2.0,2.0,0.0,0.0
+school ad,13e1351c92,Maliah,9c9b2d9a99,1,28.0,43.0,18.0,5.0,0.0,0.0,0.0
+school ad,6d5e44fab2,Stiven,87937ee0ab,1,12.0,0.0,1.0,0.0,0.0,0.0,0.0
+school ad,3616a5b5c2,Kelvin,16b8200af8,1,13.0,49.0,12.0,0.0,0.0,0.0,0.0
+school ad,4a036734c1,Jesse,ec85049e40,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ad,95c5dd81e1,Darian,d43bb2d0b6,1,39.0,35.0,21.0,4.0,0.0,3.0,21.0
+school ad,e46ebe1c6e,Saul,759ccdcedd,1,24.0,21.0,15.0,1.0,5.0,3.0,19.0
+school ad,647d7b8507,Mirella,8f5a43c3cf,1,2.0,6.0,0.0,0.0,0.0,0.0,0.0
+school ad,9dddb5f835,Valerie,ff54089e8e,1,31.0,8.0,21.0,0.0,5.0,2.0,13.0
+school ad,0f22e52c09,Isabella,5dddc85bde,1,38.0,31.0,24.0,3.0,8.0,9.0,53.0
+school ad,4661d5c2bb,Eric,f6d3fd5251,1,36.0,11.0,24.0,0.0,3.0,0.0,0.0
+school ad,2f6bc9ba3e,Sulema,d1cfc3b4e5,1,29.0,15.0,18.0,2.0,6.0,0.0,0.0
+school ad,583ea4abf4,Joniel,3ea82a5852,1,42.0,0.0,29.0,6.0,5.0,4.0,26.0
+school ad,ad6144bc73,Oliver,1e9689542c,1,42.0,24.0,15.0,0.0,2.0,0.0,0.0
+school ad,246d4a139a,Kimberly,30b03658c6,1,21.0,18.0,0.0,0.0,0.0,0.0,0.0
+school ad,a7a4c6e4e0,Matthew,32af50d1a1,1,38.0,46.0,26.0,6.0,8.0,11.0,50.0
+school ad,4193d2e98b,Krystel,ec5dea65ed,1,18.0,18.0,14.0,0.0,2.0,0.0,0.0
+school ad,fe23471c57,Kimberly,059e062870,1,27.0,23.0,16.0,2.0,7.0,3.0,18.0
+school ad,e7c99af5eb,Aylin,3a1debaa1e,1,24.0,49.0,24.0,4.0,0.0,0.0,0.0
+school ad,4be76a8480,Catherine,a058d7fd8a,1,26.0,44.0,32.0,4.0,4.0,4.0,29.0
+school ad,f4198dc071,Dylan,10d53bf3f6,1,29.0,7.0,21.0,0.0,2.0,0.0,0.0
+school ad,1063950e40,Jailyn,b8213e3d55,1,39.0,28.0,96.0,30.0,34.0,61.0,92.0
+school ad,11b4dc6e71,Valeria,d37dae6ab5,1,19.0,19.0,12.0,0.0,0.0,0.0,0.0
+school ad,64801a69fe,Rolando,8216046813,1,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+school ad,1e1585f9a9,Abner,6fb07c1640,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ad,084368c13d,Maria,72fb156fef,1,9.0,15.0,3.0,0.0,0.0,0.0,0.0
+school ad,41610333c8,Any,345b44cf50,1,18.0,6.0,11.0,0.0,3.0,0.0,0.0
+school ad,6800e6450b,Anthony,c1f232577c,1,43.0,15.0,14.0,0.0,5.0,0.0,0.0
+school ad,6e5b73a486,Juan,c35c264a13,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ad,cd4b2ce2ff,Stacey,21028fbd64,1,8.0,20.0,12.0,0.0,0.0,0.0,0.0
+school ad,e0759af9e3,Giovana,1123ce2b71,1,17.0,22.0,23.0,4.0,0.0,0.0,0.0
+school ad,fe8879ba0e,Melanie,fdfb2189f9,1,15.0,8.0,9.0,0.0,1.0,0.0,0.0
+school ae,f4d75db88d,Ethan,7379a6f935,1,50.0,0.0,36.0,8.0,0.0,0.0,0.0
+school ae,1834382f30,Brayan,91ebcf68e8,1,22.0,33.0,10.0,0.0,0.0,0.0,0.0
+school ae,327c147269,Giancarlo,2ed4149d7f,1,35.0,11.0,33.0,0.0,0.0,0.0,0.0
+school ae,ce2e7d0d14,Alexis,1801e8f650,1,38.0,0.0,33.0,5.0,6.0,0.0,0.0
+school ae,3040ad662b,Janeyris,35d4bdff25,1,27.0,28.0,19.0,0.0,2.0,0.0,0.0
+school ae,ce7915f544,Joao,cea2465cdd,1,12.0,2.0,17.0,0.0,0.0,0.0,0.0
+school ae,43e9ab9ecd,Christopher,d9d04476ba,1,15.0,14.0,5.0,0.0,0.0,0.0,0.0
+school ae,6b310f12a1,James,4ba6514944,1,9.0,5.0,16.0,0.0,0.0,0.0,0.0
+school ae,478c1ab4eb,McKinley,a453e54e18,1,26.0,6.0,14.0,4.0,0.0,0.0,0.0
+school ae,d9255537d8,Nathan,195aec8ea5,1,10.0,29.0,7.0,0.0,2.0,0.0,0.0
+school ae,0248686c83,Alexandra,4fe2098a62,1,28.0,25.0,26.0,0.0,4.0,0.0,0.0
+school ae,234f279cac,Alessandro,82723c0ba0,1,24.0,11.0,15.0,0.0,0.0,0.0,0.0
+school ae,879d240ebf,Walter,bf79921984,1,8.0,30.0,7.0,1.0,5.0,0.0,0.0
+school ae,c34a6054a9,David,8ac2f5006a,1,23.0,37.0,13.0,3.0,10.0,4.0,33.0
+school ae,385d6a6eb6,Estrella,fab1ac8e76,1,9.0,13.0,17.0,5.0,0.0,0.0,0.0
+school ae,9b265f05b2,Danna,26b4df9fd9,1,8.0,32.0,16.0,3.0,2.0,1.0,13.0
+school ae,648c7ae0c6,Sergio,8ccd1344df,1,27.0,8.0,13.0,0.0,2.0,0.0,0.0
+school ae,34256da6c2,Samanta,6394e1f32f,1,14.0,14.0,28.0,8.0,1.0,0.0,0.0
+school ae,bfabc9cd21,Jeancarlos,fa1a95fd87,1,39.0,14.0,30.0,0.0,0.0,0.0,0.0
+school ae,c6fe2ac495,Herber,75b49f5a9f,1,8.0,8.0,11.0,0.0,0.0,0.0,0.0
+school ae,8a07a2223e,Kylie,fd0a42c191,1,33.0,10.0,23.0,0.0,1.0,0.0,0.0
+school ae,d4c7d5d09d,Leonardo,31a32b58a6,1,27.0,1.0,11.0,0.0,0.0,0.0,0.0
+school ae,d2dcdd0879,Jacob,4488a181cf,1,8.0,4.0,30.0,0.0,0.0,0.0,0.0
+school ae,5025fbc003,Zabdiel,d24492e6d2,1,37.0,0.0,23.0,5.0,6.0,2.0,20.0
+school ae,0a633d68ea,Samanta,bcbff0fb0e,1,1.0,4.0,7.0,0.0,0.0,0.0,0.0
+school ae,c3b75d6b5e,Elisa,54f082cece,1,32.0,27.0,13.0,0.0,0.0,0.0,0.0
+school ae,503046646e,Elena,ab87936771,1,30.0,18.0,13.0,2.0,4.0,0.0,0.0
+school ae,c7edf25dd0,Jorge,458b17b167,1,42.0,13.0,29.0,6.0,9.0,0.0,0.0
+school ae,fdce276852,Brenny,76c391c6bd,1,16.0,19.0,20.0,1.0,4.0,0.0,0.0
+school ae,ad7207c885,Valentina,d0568a4b0f,1,18.0,10.0,25.0,0.0,2.0,0.0,0.0
+school ae,a8afecde2c,Keren,479910e434,1,15.0,4.0,18.0,1.0,1.0,0.0,0.0
+school ae,5649b0ed0e,Abigail,f743ff2550,1,16.0,33.0,23.0,2.0,5.0,0.0,0.0
+school ae,1a61626581,Alayah,67220e20fa,1,15.0,7.0,7.0,0.0,0.0,0.0,0.0
+school ae,ce8a0fdefc,Adrielys,aad2a3f3a3,1,27.0,17.0,19.0,0.0,0.0,0.0,0.0
+school ae,10eb1eee80,Jayden,babd41962a,1,21.0,32.0,24.0,0.0,3.0,0.0,0.0
+school ae,e102175265,Thiago,58518bee2f,1,8.0,20.0,0.0,0.0,0.0,0.0,0.0
+school ae,213c4d2db0,Valentin,547f46c577,1,27.0,0.0,28.0,0.0,6.0,0.0,0.0
+school ae,6d6b9c789c,Gael,a27f170f86,1,30.0,28.0,41.0,11.0,9.0,6.0,38.0
+school ae,a238cbd3e3,Valery,3e7e9c1e1d,1,10.0,12.0,16.0,0.0,0.0,0.0,0.0
+school ae,71bb981caa,Allison,575399c993,1,16.0,37.0,21.0,0.0,5.0,0.0,0.0
+school ae,1dee1ed5f2,Gioanni,b70c684781,1,,,,,,,
+school ae,c2fb403b92,Maximiliano,26993f8b4c,1,21.0,29.0,0.0,0.0,0.0,0.0,0.0
+school ae,9587c3e7bf,Saul,3f64a7f4dd,1,26.0,19.0,28.0,4.0,0.0,0.0,0.0
+school ae,4671c18a00,Reem,f1ada6784f,1,19.0,7.0,0.0,0.0,0.0,0.0,0.0
+school ae,e1f70172d7,Edwin,db69523a7a,1,27.0,0.0,0.0,0.0,0.0,0.0,0.0
+school ae,031e45c699,John,cd777a438e,1,6.0,34.0,9.0,0.0,0.0,0.0,0.0
+school ae,5ff8ee9620,Danny,38bb5c322d,1,36.0,4.0,28.0,8.0,0.0,0.0,0.0
+school ae,4c72d0a4d0,Seidi,de0bfa7eb1,1,9.0,20.0,16.0,0.0,0.0,0.0,0.0
+school ae,69f7181716,Jared,b53dfd7449,1,31.0,26.0,14.0,0.0,0.0,0.0,0.0
+school ae,4f73e813a2,Valentina,28c35700be,1,13.0,20.0,23.0,0.0,0.0,0.0,0.0
+school z,3aed202dc7,Coutu,689eed446c,,40.0,24.0,21.0,3.0,10.0,6,0.4
+school z,d484e915c7,Eszabella,230bbbb209,,10.0,20.0,14.0,1.0,1.0,0,0
+school z,3b4ca471d9,Manuel,14580f6b6a,,11.0,17.0,10.0,1.0,9.0,7,0.54
+school z,266a7b5edd,Ivan,3e20fb8280,,16.0,20.0,40.0,8.0,9.0,7,0.5
+school z,0007d76015,Kaelynn,3d7a24f2a6,,26.0,29.0,27.0,5.0,3.0,3,0.27
+school z,182332a10f,Liam,89bc163b35,,12.0,15.0,9.0,0.0,3.0,5,0.33
+school z,78de18fd36,Lucas,3766e8360f,,4.0,22.0,4.0,0.0,2.0,0,0
+school z,87885fe772,Addyson,c197a6633d,,28.0,50.0,15.0,2.0,5.0,1,0.08
+school z,852dc5bb97,Major,1ac24ba392,,7.0,15.0,12.0,0.0,2.0,0,0
+school z,b77e30668d,Teagan,5d1c40534f,,0.0,39.0,21.0,2.0,3.0,1,0.08
+school z,f273c1b56f,Logan,b6b78b1d00,,10.0,32.0,19.0,5.0,11.0,6,0.43
+school z,798cc0f0ce,Gabriela,b1b58f4f94,,13.0,20.0,1.0,0.0,1.0,1,0.08
+school z,e10d850954,Claire,37ec21f73b,,,,,,,,
+school z,bc60dac23f,Chiara,42bcc3d989,,,,,,,,
+school z,ae2201c7fc,Jacksary,775ee0b7ae,,3.0,10.0,10.0,0.0,1.0,0,0
+school z,7b3632fba5,Victoria,bdadfca975,,4.0,31.0,7.0,0.0,0.0,Discont.,Discont.
+school z,cef4678e9e,Ailen,922da260b1,,0.0,11.0,18.0,0.0,0.0,Discont.,Discont.
+school z,3824be17a9,Runelfi,98971f6277,,9.0,29.0,4.0,0.0,2.0,1,0.06
+school z,6ea7930f3a,Isaac,cdc9bc05aa,,15.0,8.0,,,,,
+school z,844d9889c9,Cailtyn,113b86a478,,31.0,31.0,26.0,5.0,7.0,4,0.36
+school z,b632c7a4eb,Amanda,7d72615446,,17.0,25.0,19.0,5.0,4.0,2,0.18
+school z,7229de2d88,Aubriana,bcf1e2ff4c,,,,,,,,
+school z,e8bfe1ed69,Milo,ad1c38b8e7,,32.0,34.0,23.0,2.0,4.0,0,0
+school z,cf424a5482,Scarlett,885f9a43b3,,21.0,23.0,22.0,6.0,6.0,2,0.14
+school z,cf4a40e190,Raul,6f6dda85d4,,,,,,,,
+school z,1cd8e5f482,Joel,945109267c,,42.0,26.0,25.0,4.0,8.0,,
+school z,1560d22ddc,Isaac,52339e887d,,,,,,,,
+school z,08d699dfe0,Patricia,55c85533ae,,16.0,32.0,38.0,10.0,5.0,0,0
+school z,939437dd08,Melanie,1ccb6e36d4,,2.0,12.0,12.0,0.0,4.0,0,0
+school z,164b0b08b4,Maddison,5ac322369d,,5.0,36.0,14.0,2.0,1.0,1,0.07
+school z,8671c9cdca,Stella,96329ededc,,34.0,9.0,20.0,1.0,7.0,7,0.44
+school z,0064e2bd5c,Yazmin,5a8bb26ba6,,23.0,15.0,26.0,0.0,2.0,2,0.18
+school z,065d85d4fc,Lincoln,ab9070ec62,,28.0,53.0,60.0,3.0,3.0,5,0.42
+school z,c88e4a1342,Marvin,b4bf3148c8,,32.0,30.0,24.0,3.0,7.0,13,0.54
+school z,bf3a957a7d,Laura,b9950e439d,,18.0,34.0,19.0,1.0,2.0,1,0.08
+school z,3579c47a41,Alex,07e11a8f07,,4.0,25.0,22.0,1.0,3.0,0,0
+school z,ad5a7f0a44,Sloane,b8437fefe6,,22.0,28.0,13.0,0.0,3.0,0,0
+school z,7d895c089c,William,da4308d209,,28.0,38.0,24.0,3.0,7.0,2,0.2
+school z,ffb4021588,Jeremy,15aa5b38b1,,20.0,37.0,29.0,5.0,6.0,2,0.17
+school z,c954c87fd4,Celin,232dec37b4,,9.0,1.0,15.0,0.0,1.0,,
+school z,e10d850954,Dorothy,832e86edd2,,,,,,,,
+school z,f9781bed1d,Oliver,fdde640af9,,27.0,24.0,33.0,6.0,5.0,1,0.09
+school z,5df0e3c428,Shea,a578cf8234,,32.0,27.0,35.0,7.0,8.0,4,0.33
+school z,2b54be24ff,Elias,8ce41ed953,,2.0,30.0,12.0,0.0,1.0,0,0
+school z,10aa8ac65e,Joseph,ad7282bf82,,23.0,32.0,34.0,7.0,5.0,5,0.42
+school z,348c34f35c,David,fa0ff21495,,17.0,38.0,37.0,10.0,2.0,0,0
+school z,d47ffe52cd,Savannah,177e136f37,,16.0,30.0,17.0,2.0,4.0,1,0.14
+school z,692c48e010,Mayah,79fe7ba774,,30.0,38.0,32.0,5.0,4.0,2,0.14
+school z,084368c13d,Helloysa,404054823b,,4.0,29.0,20.0,0.0,0.0,0,0
+school z,f85ece38da,Ana,d9bfd0ba48,,20.0,28.0,26.0,1.0,6.0,7,0.44
+school z,16963cb054,Jace,fc4ec2945f,,,,,,,,
+school z,5d2f2b41dc,Mirella,796df7bd9d,,30.0,34.0,27.0,0.0,11.0,15,0.79
+school z,f81da1f533,Grayson,0a3c63a70b,,32.0,40.0,32.0,0.0,5.0,2,0.25
+school z,bfb1753eda,Bryan,8f7a620143,,1.0,0.0,0.0,0.0,0.0,0,0
+school z,a0746c9ca9,Ellyana,cdd8d7cf13,,37.0,26.0,36.0,9.0,8.0,4,0.29
+,1c98119233,Victory,,Grade 1,20.0,16.0,15.0,1.0,1,1,2
+,55a42dd818,Jasmine,,Grade 1,39.0,42.0,21.0,3.0,7,8,53
+,3c6a7f8fb5,Deutchson,,Grade 1,5.0,0.0,0.0,0.0,0,0,0
+,52fd0d24ca,Jaharis,,Grade 1,52.0,36.0,29.0,3.0,7,4,26
+,9950fd2c5b,Deborah,,Grade 1,19.0,26.0,15.0,0.0,7,3,30
+,bab3c7d19a,Mathew,,Grade 1,54.0,31.0,74.0,21.0,41,52,94
+,b4c9c5aa2c,Nathan,,Grade 1,23.0,55.0,19.0,5.0,2,0,0
+,3ce9aefcb8,Gabriella,,Grade 1,40.0,6.0,15.0,9.0,3,11, 
+,338699dc58,Thayla,,Grade 1,50.0,31.0,47.0,14.0,19,22,78
+,8658ebf1ed,Harlem,,Grade 1,18.0,0.0,8.0,0.0,0,0,0
+,fd49ab8b24,Yves,,Grade 1,43.0,1.0,12.0,0.0,4,1,6
+,e4378e9c55,Nyla,,Grade 1,52.0,52.0,20.0,5.0, ,2,18
+,655820315c,Caleb ,,Grade 1,83.0,48.0,44.0,11.0,29,35,79
+,ce5f866533,Carmella,,Grade 1,26.0,33.0,22.0,1.0,4,0,0
+,3495e75785,Ryder,,Grade 1,18.0,24.0,9.0,0.0,2,0,0
+,11ba7fdff1,Benjamin,,Grade 1,25.0,0.0,24.0,0.0,5,0,0
+,0434567788,Brayden,,Grade 1,34.0,15.0,11.0,0.0,7,0,0
+,9ff5b8da8a,Alex,,Grade 1,17.0,25.0,13.0,0.0,1,0,0
+,3036230609,Bella,,Grade 1,30.0,35.0,13.0,0.0,1,0,0
+,a0e12afb89,Aiden,,Grade 1,19.0,8.0,17.0,0.0,0, , 
+,3028fe69be,Niah,,Grade 1,36.0,64.0,19.0,3.0,6,0,0
+,0a2d8fcb45,Adriel,,Grade 1,25.0,29.0,14.0,0.0,3,0,0
+,6687d4738f,Julia,,Grade 1,23.0,50.0,30.0,8.0,0, , 
+,3c8a67d409,Meilani,,Grade 1,18.0,39.0,12.0,2.0,1, , 
+,97c4425f18,Christelle,,Grade 1,40.0,45.0,18.0,6.0,7,1,11
+,499e7350be,Luany,,Grade 1,9.0,0.0,4.0,0.0,0,0,0
+,d414eeee4c,Maiza,,Grade 1,11.0,21.0,16.0,3.0,1,0,0
+,6a6c396e58,An,,Grade 1,25.0,0.0,0.0,0.0,0,0,0
+,2338ba80b9,Maliyah,,Grade 1,17.0,0.0,0.0,0.0,2,0,0
+,7f36df0b52,Yisrael,,Grade 1,28.0,34.0,30.0,0.0,2,0,0
+,2ec7da3f6e,Karic,,Grade 1,36.0,43.0,31.0,9.0,9,2,13
+,6e628f7b1d,Andrew ,,Grade 1,49.0,14.0,13.0,0.0, ,2,12
+,78a1a1dae4,Roselande,,Grade 1,39.0,45.0,29.0,0.0,9,0,0
+,213c4d2db0,Adele,,Grade 1,39.0,35.0,19.0,0.0,7,0,0
+,f77e7de451,Judith,,Grade 1,32.0,30.0,7.0,0.0,0,0,0
+,7b43e986b7,Noah,,Grade 1,30.0,50.0,29.0,5.0,3,2,15
+,5ace19eb8a,Brian,,Grade 1,36.0,53.0,45.0,14.0,10,5,29
+,7283463fd9,Ariella,,Grade 1,51.0,35.0,94.0,25.0,56,83,92
+,296b63663c,Damon,,Grade 1,26.0,6.0,0.0,0.0,0,0,0
+,4c3959a043,Caleb,,Grade 1,46.0,42.0,25.0,4.0,7,1,12
+,683313d690,Milan,,Grade 1,39.0,36.0,18.0,5.0,3,2,18
+,69dd9e5bb3,Maliah,,Grade 1,21.0,24.0,8.0,0.0,3,0,0
+,10aa8ac65e,Chloe,,Grade 1,36.0,37.0,33.0,11.0,10,6,46
+,1c574b17ee,Eli,,Grade 1,37.0,0.0,1.0,0.0, ,0,0
+,7e0b7a468d,Zayn,,Grade 1,50.0,25.0,19.0,0.0,2,0,0
+,8b81665c6c,Jay'ceon,,Grade 1,0.0,0.0,0.0,0.0,0,0,0
+,80b42b9b6c,Gaetan,,Grade 1,0.0,4.0,0.0,0.0,0,0,0
+,3c572f0710,LindaMarie,,Grade 1,26.0,3.0,24.0,0.0, ,0, 
+,7eda994956,Skylar,,Grade 1,38.0,33.0,27.0,5.0,6,4,33
+,dfb29be7ef,Carly,,Grade 1,27.0,22.0,14.0,0.0,9,2,14
+,d982f029f5,Aiden,,Grade 1,27.0,45.0,26.0,5.0,0, , 
+,56ec4fee9f,Chrysnaelle,,Grade 1,29.0,7.0,13.0,0.0,5,0,0
+,af8875942f,Miriam,,Grade 1,40.0,55.0,28.0,8.0,2,5,33
+,6e8d8801f5,Renzo,,Grade 1,57.0,40.0,44.0,12.0,15,15,53
+,72bc556112,Lilah,,Grade 1,23.0,21.0,21.0,0.0,2,1,11
+,e3a83b6689,Raisa,,Grade 1,26.0,0.0,11.0,0.0,0,0,0
+,5f3c4da8d0,Jonathan,,Grade 1,64.0,45.0,62.0,17.0,30,42,82
+,eba97121e0,Maxwell,,Grade 1,37.0,42.0,21.0,3.0,5,3,23
+,91f5c51e92,Aundrea,,Grade 1,48.0,50.0,34.0,0.0,5,7,36
+,1f5f326705,Gia Han,,Grade 1,19.0,0.0,15.0,2.0, ,0,0
+,ad2c0f5775,Armani,,Grade 1,85.0,43.0,46.0,11.0,7,10,62
+,d41e3d0cd2,Oliver,,Grade 1,45.0,39.0,38.0,11.0,15,11,57
+,3d7c3e417e,Alyssah,,Grade 1,56.0,4.0,144.0,40.0, ,38,86
+,c048197480,Alexander,,Grade 1,11.0,28.0,7.0,2.0,4, , 
+,3036230609,Isaac,,Grade 1,12.0,30.0,7.0,0.0,0,0,0
+,d4edc9b1a3,Ibrahim,,Grade 1,55.0,27.0,39.0,5.0,8,14,82
+,54e75fa975,Ella,,Grade 1,41.0,52.0,56.0,12.0,23,37,88
+,505c85eea6,Sonia,,Grade 1,48.0,39.0,32.0,7.0,12,17,60
+,9eac806b76,Noriellie,,Grade 1,41.0,32.0,47.0,11.0, ,9,47
+,545eed3960,Ada,,Grade 1,19.0,44.0,4.0,0.0, ,0,0
+,545eed3960,Ava,,Grade 1,24.0,6.0,8.0,1.0, ,0,0
+,260f7f6892,Benjamin,,Grade 1,39.0,49.0,21.0,2.0, ,0, 
+,46df606113,Suhaila,,Grade 1,52.0,43.0,43.0,13.0, ,3,20
+,2f2c0ca5ef,Addison,,Grade 1,27.0,45.0,13.0,2.0,0, , 
+,f3720967a2,Adelina ,,Grade 1,34.0,12.0,25.0,0.0,7,3,23
+,43990ecd84,Brielle ,,Grade 1,50.0,33.0,76.0,23.0,56,82,96
+,0c511d0640,Xyla,,Grade 1,33.0,31.0,21.0,5.0,15,9,50
+,72949c4562,Aliya,,Grade 1,40.0,29.0,20.0,5.0,9,8,80
+,c6e8476f7c,Luke,,Grade 1,64.0,56.0,91.0,29.0, ,78,100
+,c4e593a1aa,Sophia,,Grade 1,35.0,42.0,73.0,21.0, ,56,91
+,18f2855928,Annalisa,,Grade 1,34.0,22.0,20.0,0.0, ,0,0
+,b2bdaaf1af,Emalee,,Grade 1,35.0,23.0,22.0,2.0,28,23,82
+,96a140a5bd,Rebecca,,Grade 1,54.0,58.0,56.0,12.0, ,46,83
+,1c201bebb8,Jaylana,,Grade 1,57.0,33.0,37.0,9.0, ,24,85
+,41b5d26595,Irvie,,Grade 1,59.0,45.0,72.0,23.0, ,18,69
+,c43139196d,Julien,,Grade 1,33.0,31.0,25.0,1.0,15,20,71
+,576bbac208,Aiden,,Grade 1,45.0,42.0,36.0,8.0, ,17,73
+,a09948e8f6,Ciara,,Grade 1,46.0,44.0,19.0,1.0,6,2,14
+,e2120ffdc0,Carly,,Grade 1,79.0,55.0,61.0,16.0, ,8,38
+,e2120ffdc0,Delilah,,Grade 1,54.0,66.0,79.0,25.0, ,52,94
+,5c033324ae,Tomas,,Grade 1,57.0,31.0,50.0,13.0, ,15,65
+,c1c6ffa678,Wykeim,,Grade 1,77.0,56.0,74.0,25.0,32,51,92
+,8735f6642f,Arabella,,Grade 1,50.0,24.0,39.0,13.0,6,5,55
+,69aaefefe3,Jordan,,Grade 1,72.0,46.0,50.0,14.0, ,24,75
+,aa79687077,Lucas,,Grade 1,22.0,0.0,0.0,0.0,0,0,0
+,4b9bb31f12,Salma,,Grade 1,29.0,58.0,34.0,6.0, ,2,22
+,54ff3f4983,Zoriya,,Grade 1,41.0,48.0,28.0,7.0,13,4,26
+,820509626b,Adrian,,Grade 1,50.0,31.0,48.0,16.0,33,46,90
+,3be0455d59,Elessia,,Grade 1,47.0,37.0,36.0,12.0, ,8,26
+,bd0d24efe8,Evens,,Grade 1,63.0,56.0,59.0,13.0,17,23,79
+,83e6fefca2,Noemie,,Grade 1,36.0,0.0,13.0,2.0,13,0,0
+,fb098c65c3,Jayden,,Grade 1,67.0,35.0,32.0,9.0, ,20,74
+,086d20bfb0,Nayla,,Grade 1,26.0,2.0,13.0,0.0, ,3,30
+,a33ef009be,Imani,,Grade 1,38.0,43.0,30.0,6.0,3,3,27
+,bb384bee64,Resty Reid,,Grade 1,61.0,30.0,76.0,25.0, ,62,98
+,d5ff40de1e,Aiden,,Grade 1,41.0,30.0,21.0,5.0, ,21,67
+,5f38a7b1b4,Yara,,Grade 1,42.0,37.0,18.0,4.0,12,9,56
+,99c8213730,Ife,,Grade 1,29.0,30.0,49.0,14.0, ,6,46
+,bbd3878ab0,Gia,,Grade 1,42.0,52.0,29.0,9.0,23,33,84
+,bbd3878ab0,Valerio,,Grade 1,78.0,53.0,64.0,18.0, ,19,61
+,e2372fcabd,Alan Emiliano,,Grade 1,28.0,31.0,114.0,37.0,31,46,88
+,102bf6903b,Leila,,Grade 1,45.0,59.0,89.0,28.0, ,49,80
+,2c3aaefea8,Niah,,Grade 1,35.0,47.0,19.0,3.0, ,4,30
+,82c268188c,Todd,,Grade 1,60.0,47.0,73.0,24.0, ,46,95
+,d9e1b51ac9,Noah,,Grade 1,8.0,7.0,10.0,0.0,2,0,0
+,aeac96caeb,Dylan,,Grade 1,33.0,15.0,23.0,3.0, ,48,92
+,11a4f480c4,Cru',,Grade 1,39.0,47.0,54.0,14.0, ,41,89
+,88ba8a4d8a,Daphne,,Grade 1,35.0,38.0,26.0,4.0, ,10,47
+,d4f4f55cc0,Lucas,,Grade 1,30.0,27.0,19.0,3.0, ,11,61
+,90d893a0fc,Danielle,,Grade 1,30.0,26.0,30.0,0.0, ,4,26
+,8fd446866f,Lucas,,Grade 1,38.0,4.0,18.0,0.0, ,1,11
+,d3fd391992,William,,Grade 1,50.0,31.0,39.0,13.0,50,87,100
+,02ab1a994b,Zohan,,Grade 1,57.0,40.0,34.0,10.0,18,28,80
+,fa5e5950af,Noelle,,Grade 1,54.0,49.0,58.0,17.0,38,57,93
+,e34e02a8d1,Ulani,,Grade 1,63.0,35.0,67.0,22.0, ,54,98
+,dcd5b5f707,Abigail,,Grade 1,35.0,23.0,74.0,21.0,60,89,98
+,361fd0fcbc,Michael ,,Grade 1,63.0,49.0,49.0,15.0,40,63,95
+,3013b18f43,Amani,,Grade 1,49.0,31.0,16.0,3.0, ,11,47
+,fe16a94194,Laila,,Grade 1,45.0,40.0,45.0,14.0,27,44,93
+,78a1a1dae4,Theo,,Grade 1,51.0,54.0,81.0,26.0, ,64,96
+,89549001cf,Zahra,,Grade 1,62.0,37.0,52.0,15.0,14,32,82
+,db169595e3,Grace,,Grade 1,61.0,57.0,69.0,19.0, ,35,79
+,58de53382c,Xane,,Grade 1,24.0,29.0,20.0,5.0,0,0,0
+,c131f1441e,Lincoln,,Grade 1,32.0,45.0,31.0,9.0, ,0, 
+,7e7c621a30,Tisang,,Grade 1,37.0,41.0,68.0,17.0,34,50,86
+,d09b169d8d,Guerschom,,Grade 1,18.0,0.0,0.0,0.0,0,0,0
+,a2fbc754b9,Daisy,,Grade 1,51.0,48.0,85.0,28.0, ,122,99
+,d544b8423a,Kiamarly,,Grade 1,49.0,19.0,13.0,3.0, ,109,96
+,ebf366398b,Francis,,Grade 1,43.0,32.0,30.0,6.0, ,3,30
+,8d9cd6ee11,Hadassah,,Grade 1,34.0,58.0,16.0,11.0,6,12,80
+,b0eeeccaef,Miguel,,Grade 1,28.0,0.0,0.0,0.0, ,0,0
+,0432f342a6,Lisa,,Grade 1,26.0,28.0,36.0,5.0, ,6,30
+,3ac8cab7ed,Lianna,,Grade 1,31.0,36.0,20.0,4.0, ,0,0
+,0cd8d6694b,Mariana,,Grade 1,52.0,48.0,37.0,9.0,8,5,38
+,0a5e7f1bd6,Zahara,,Grade 1,49.0,44.0,39.0,7.0,12,15,68
+,459a44d094,Iziah,,Grade 1,34.0,15.0,24.0,8.0, ,1,11
+,6135934f23,Kennedi,,Grade 1,34.0,38.0,19.0,3.0, ,0,0
+,ffc0ea2e03,Kadmiel,,Grade 1,21.0,13.0,7.0,0.0, ,0,0
+,39d3a2e969,Austin,,Grade 1,57.0,37.0,28.0,8.0, ,12,46
+,ecfaae65c0,Layla,,Grade 1,61.0,56.0,50.0,16.0, ,57,91
+,597d0dd6aa,Elizabeth,,Grade 1,37.0,43.0,32.0,10.0,10,16,69
+,fc519f1a34,Giselle,,Grade 1,48.0,34.0,33.0,4.0, ,2,15
+,89f1e45c16,Zavion ,,Grade 1,100.0,74.0,106.0,31.0,70,109,97
+,426a921599,Sofia Iman,,Grade 1,52.0,46.0,37.0,10.0,15,18,64
+,71fc8c75a5,Justin,,Grade 1,53.0,32.0,174.0,58.0, ,104,98
+,385cdb1e53,Eveline,,Grade 1,42.0,50.0,41.0,10.0,12,12,70
+,9befa3c632,Raheim,,Grade 1,40.0,12.0,23.0,0.0, ,0,0
+,2718402008,Quba,,Grade 1,27.0,0.0,4.0,0.0,0,0,0
+,edca4c8901,Nikte,,Grade 1,34.0,18.0,19.0,6.0, ,2,20
+,6f005a1868,Liam,,Grade 1,40.0,23.0,25.0,5.0, ,11,57
+,cfbfc4ba0d,Fernanda,,Grade 1,54.0,11.0,32.0,0.0, ,58,96
+,213c4d2db0,Aubriella,,Grade 1,50.0,24.0,30.0,9.0,8,7,43
+,213c4d2db0,Claire,,Grade 1,28.0,0.0,19.0,2.0, ,7,41
+,213c4d2db0,Donald,,Grade 1,71.0,52.0,92.0,26.0, ,63,95
+,213c4d2db0,Ethan,,Grade 1,67.0,35.0,116.0,39.0,55,82,96
+,213c4d2db0,Hoang,,Grade 1,57.0,38.0,30.0,9.0, ,0,0
+,213c4d2db0,Justin,,Grade 1,52.0,42.0,35.0,13.0, ,42,93
+,2c6794c28d,Jayla,,Grade 1,32.0,41.0,27.0,8.0,9,10,52
+,37672c9ad4,Zora,,Grade 1,61.0,26.0,55.0,17.0, ,59,92
+,4b38640969,Lauralie,,Grade 1,20.0,5.0,9.0,1.0, ,3,30
+,91ec94e00b,Henry,,Grade 1,45.0,56.0,45.0,13.0, ,10,47
+,61a1936a45,Amarachi,,Grade 1,46.0,25.0,24.0,4.0, ,4,57
+,0a30a815d6,Gayelle,,Grade 1,37.0,40.0,31.0,5.0, ,27,77
+,3ce9aefcb8,Liam,,Grade 1,36.0,32.0,15.0,4.0,11,8,42
+,36b1893751,Eva,,Grade 1,25.0,24.0,25.0,6.0, ,4,44
+,7b2bcdbab3,Milliani ,,Grade 1,5.0,27.0,14.0,0.0,3,0,0
+,54269f7f53,Adriell,,Grade 1,39.0,39.0,30.0,4.0, ,2,20
+,09cba0b011,Nathan,,Grade 1,43.0,24.0,23.0,7.0, ,12,63
+,79e79dd33b,Amparo,,Grade 1,21.0,40.0,31.0,5.0,2,0,0
+,b30445c2eb,Jarrod,,Grade 1,62.0,35.0,28.0,6.0, ,9,47
+,09be5e34d0,Carter,,Grade 1,53.0,35.0,41.0,11.0, ,4,33
+,a15ece6783,Evelyn,,Grade 1,46.0,32.0,26.0,7.0, ,46,90
+,775fd68935,Sebastian,,Grade 1,73.0,30.0,72.0,21.0,32,51,98
+,c008be7683,GaelleLinda,,Grade 1,3.0,3.0,0.0,0.0,0,0,0
+,235fe39352,Dionna,,Grade 1,43.0,47.0,102.0,33.0,54,72,94
+,aca920e76e,Analia,,Grade 1,33.0,24.0,13.0,3.0, ,4,44
+,2deca88b1e,Levi,,Grade 1,5.0,9.0,0.0,0.0,0,0,0
+,6cc87e8065,Vidian,,Grade 1,56.0,16.0,32.0,7.0,20,36,85
+,abea5ba314,Jhamir,,Grade 1,68.0,39.0,63.0,16.0, ,33,43
+,3f822cbc28,Zendaya,,Grade 1,53.0,38.0,46.0,14.0,12,12,50
+,09db1a1b3e,Kalia,,Grade 1,60.0,57.0,59.0,9.0, ,31,83
+,312a977a28,Remy,,Grade 1,24.0,14.0,9.0,4.0, ,16,64
+,6e628f7b1d,Edmond,,Grade 1,54.0,32.0,31.0,7.0, ,25,83
+,6e628f7b1d,Liam,,Grade 1,46.0,14.0,9.0,0.0, ,0,0
+,e42df0232d,Camila,,Grade 1,46.0,45.0,36.0,5.0, ,1,10
+,0536d4e1f5,Violet,,Grade 1,43.0,0.0,14.0,1.0,35,35,79
+,2ca4bd7472,Ezekiel,,Grade 1,44.0,24.0,20.0,2.0, ,9,56
+,3495e75785,Kiley,,Grade 1,23.0,40.0,18.0,3.0,6,9,45
+,adaf581080,Lillian,,Grade 1,23.0,33.0,18.0,0.0, ,0,0
+,6e8d8801f5,Jaxson,,Grade 1,18.0,4.0,7.0,0.0,0,0,0
+school n,d7f4b14a01,Martina,f584bdb947,,31.0,13.0,18.0,4.0,8.0,3.0,30.0
+school n,f814e7aa79,Matthias,4615d18c7c,,25.0,17.0,19.0,3.0,5.0,0.0,0.0
+school n,ee06883f14,Neezar,003c035224,,54.0,30.0,31.0,1.0,9.0,11.0,42.0
+school n,adab12ab0d,Inayah,baca2c4d6f,,34.0,13.0,27.0,5.0,6.0,0.0,0.0
+school n,9ca1e82760,Chase,34d07a4f3b,,41.0,16.0,20.0,2.0,7.0,2.0,22.0
+school n,1d875f8b2d,Yazid,7612921a95,,35.0,27.0,37.0,0.0,14.0,14.0,74.0
+school n,f9e38e518b,Antenor,709ed3966f,,43.0,43.0,34.0,9.0,15.0,19.0,73.0
+school n,a89104c579,Celeste,ed47c3ae45,,36.0,42.0,26.0,4.0,9.0,5.0,42.0
+school n,85bd1fc270,Mila,112ab9e225,,30.0,7.0,16.0,1.0,3.0,5.0,50.0
+school n,9b70f585a6,Valerie,4b1a7a1e08,,25.0,9.0,12.0,0.0,5.0,0.0,0.0
+school o,1ab2e439cd,Gerson,051e1daf7f,,25.0,22.0,19.0,0.0,3.0,2.0,9.0
+school o,6801f87f7f,Shawn,8c07e5c645,,19.0,0.0,13.0,2.0,6.0,1.0,7.0
+school o,a4635ccc83,Emilia,84750687a5,,18.0,26.0,11.0,1.0,7.0,2.0,15.0
+school o,15616f66af,Miguel,a704199c44,,58.0,42.0,30.0,11.0,8.0,8.0,38.0
+school o,222bf29628,Jannat,f2c67db281,,33.0,12.0,24.0,4.0,9.0,1.0,10.0
+school o,7c8c32faff,Luis,9bd0a8ff32,,38.0,27.0,37.0,1.0,24.0,31.0,82.0
+school p,1cd8e5f482,Neilani,4a23c83830,,43.0,23.0,29.0,7.0,17.0,28.0,80.0
+school p,862ef3927a,Muhammad,6abbe2ea5c,,46.0,29.0,72.0,19.0,4.0,4.0,25.0
+school p,06e5145b50,Fajr,602d412af9,,30.0,18.0,20.0,3.0,6.0,0.0,0.0
+school p,a0f9b43477,Marcos,f85e5479ba,,35.0,51.0,27.0,9.0,7.0,4.0,67.0
+school p,0a6bbac713,Elisa,de20d87ca2,,14.0,11.0,0.0,0.0,2.0,0.0,0.0
+school o,2f55e6d26d,Emiliana,77146ee08e,,17.0,22.0,19.0,0.0,8.0,1.0,11.0
+school o,47a0a9b4ed,Austin,822c439e99,,25.0,23.0,6.0,0.0,3.0,,
+school o,fc829466b0,Melvin,93af45a4cc,,23.0,44.0,23.0,6.0,8.0,3.0,27.0
+school o,5d6d8babf9,Derlin,70ac585b5c,,24.0,13.0,11.0,1.0,8.0,0.0,0.0
+school o,343fc103de,Victoria,194ad1faa9,,19.0,15.0,8.0,1.0,8.0,2.0,20.0
+school o,8fe47c68f9,Haroun,f6ece297dd,,36.0,19.0,24.0,0.0,5.0,1.0,5.0
+school o,58ed1e7158,Lian,2c72e89131,,23.0,0.0,8.0,0.0,2.0,3.0,20.0
+school q,404748f605,Jaysander,a1dac958c3,,41.0,39.0,29.0,5.0,12.0,9.0,60.0
+school q,a66ae4d02c,Lucca,3f7e02b351,,60.0,18.0,39.0,0.0,11.0,,
+school q,52f957fe64,Santonio,355b2a34cf,,29.0,0.0,3.0,0.0,2.0,1.0,100.0
+school q,eb6b9896e4,Leandro,61c3417102,,25.0,0.0,29.0,0.0,9.0,0.0,0.0
+school q,1fd7c83ce5,Abby,bd9cc304fe,,19.0,22.0,19.0,2.0,3.0,0.0,0.0
+school q,6fee1f608b,Elian,ef346ced42,,71.0,19.0,69.0,0.0,27.0,39.0,85.0
+school q,10eb1eee80,Andy,70ad6ba8ad,,30.0,8.0,15.0,0.0,4.0,,
+school q,94bac7914d,Aaliyah,3191f68034,,6.0,24.0,0.0,0.0,0.0,0.0,0.0
+school q,af5b018430,Giselle,4944ab8306,,34.0,0.0,5.0,0.0,2.0,0.0,0.0
+school r,083d66e19e,Heavenly,956b83c93e,,39.0,4.0,24.0,4.0,8.0,3.0,25.0
+school r,62c1d5e78a,Marjori,88abb9f92a,,29.0,8.0,21.0,0.0,2.0,0.0,0.0
+school s,7c7c109f5d,Daniel,87c10d6c88,,24.0,25.0,17.0,3.0,6.0,3.0,38.0
+school s,3969a576a8,Matteo,1a7783d415,,46.0,37.0,24.0,4.0,17.0,11.0,58.0
+school s,9dcbf54e77,Sophianna,acd39db8a5,,55.0,36.0,30.0,6.0,32.0,38.0,81.0
+school s,4606717f9f,Eber,26322e13ed,,27.0,21.0,13.0,2.0,3.0,2.0,22.0
+school s,9c7cfd7b7c,Danna,bd333adc3d,,37.0,17.0,24.0,4.0,11.0,6.0,50.0
+school s,da4cd5fc79,William,92e1640e43,,30.0,19.0,6.0,0.0,2.0,11.0,85.0
+school s,10aa8ac65e,Daniel,0f8d3efdef,,22.0,0.0,13.0,0.0,4.0,1.0,13.0
+school s,cfeb58fc04,Mohamedghali,cd8224554f,,46.0,38.0,29.0,5.0,24.0,21.0,70.0
+school p,b6070e9466,Lillyanna,da89d4325b,,33.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,3338c02ba8,Khanh,6dfcef9f11,,29.0,29.0,15.0,0.0,3.0,2.0,13.0
+school p,1029148351,Thiago,6bf353d8a5,,54.0,30.0,44.0,5.0,14.0,0.0,0.0
+school p,dbeba6b068,Elmer,4cf3e4712c,,21.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,42c68c9e29,Elena,607b897218,,4.0,3.0,0.0,0.0,0.0,0.0,0.0
+school p,f151bb6a84,Arthur,71c94a35a5,,49.0,56.0,32.0,8.0,12.0,5.0,45.0
+school p,10ee69d778,Zane,2e45c3363e,,49.0,34.0,60.0,20.0,27.0,23.0,82.0
+school o,11a4f480c4,Sophia,ffe70ed970,,35.0,8.0,29.0,2.0,7.0,1.0,6.0
+school o,857a7b623b,Bryan,9d0db724ba,,27.0,29.0,22.0,4.0,12.0,6.0,27.0
+school o,6801f87f7f,Liam,a56da27480,,26.0,24.0,20.0,1.0,9.0,4.0,31.0
+school o,6095b5151f,Ryan,65c35784d2,,50.0,,32.0,2.0,13.0,13.0,65.0
+school q,d7c156c00f,Tiana,1d7af176a3,,19.0,22.0,6.0,0.0,0.0,0.0,0.0
+school q,0ddf4be72f,Paulo Henrique,13bc7d3e29,,30.0,7.0,0.0,0.0,0.0,,
+school q,6f3acd5c45,Sofia,bac38649a7,,36.0,38.0,30.0,0.0,0.0,,
+school q,429bbf39f8,Ana,c55949b07f,,30.0,7.0,8.0,0.0,0.0,,
+school q,ec9d9693b5,Margaret,ef65c0e399,,47.0,40.0,26.0,0.0,6.0,12.0,48.0
+school o,e88e3947fe,Carter,9d851de546,,78.0,12.0,18.0,4.0,10.0,25.0,68.0
+school o,edad742d9c,David,6e21962d20,,18.0,5.0,16.0,0.0,5.0,,
+school o,dccfebcd03,Adam,b03bdc1d14,,44.0,5.0,27.0,7.0,11.0,11.0,69.0
+school o,2a7af65a65,Victoria,0fcc59494f,,42.0,0.0,14.0,1.0,6.0,2.0,9.0
+school o,693828606a,Eloa,ef55826d77,,35.0,9.0,34.0,0.0,4.0,5.0,42.0
+school o,eb04020554,Youssef,1c1a7f9af8,,20.0,12.0,14.0,2.0,5.0,0.0,0.0
+school o,7297db81c2,Mariamwit,deab25f704,,24.0,19.0,17.0,0.0,7.0,7.0,35.0
+school o,ff221e7bf1,Jorvin,6346dcd87a,,19.0,51.0,14.0,1.0,0.0,0.0,0.0
+school o,cb6b87fb13,Suhaib,6a79508874,,29.0,30.0,12.0,0.0,2.0,,
+school o,eef28f118d,Celeste,b8bbf85b01,,23.0,43.0,13.0,2.0,3.0,3.0,27.0
+school o,ab01131337,Nayeli,89054aebad,,20.0,8.0,14.0,0.0,4.0,,
+school r,d1d87c4717,Bianca,f54abb429b,,5.0,8.0,8.0,0.0,2.0,0.0,0.0
+school r,2608ac6d31,Anthony,651dd9103a,,9.0,11.0,1.0,0.0,2.0,0.0,0.0
+school r,5db17e5ffa,Yeraldine,9a517e5afb,,28.0,35.0,11.0,1.0,5.0,1.0,4.0
+school r,10ce49e9c0,Oseias,4cfbb18e50,,35.0,14.0,11.0,1.0,8.0,0.0,0.0
+school r,5256456c62,Ysabella,7e26718dd6,,20.0,15.0,7.0,0.0,6.0,1.0,10.0
+school q,0b6617c001,Santiago,23a09cdba7,,37.0,3.0,27.0,0.0,4.0,0.0,0.0
+school q,798cc0f0ce,Elissa,e3fcfcf909,,0.0,0.0,5.0,0.0,1.0,0.0,0.0
+school q,666f6e373b,Beyden,c515f9dd7b,,40.0,26.0,56.0,0.0,14.0,,
+school q,0d6b1d8f44,Naomy,f830029cdb,,51.0,26.0,16.0,4.0,6.0,1.0,11.0
+school s,7e3534454c,Sophia,bffa77ed64,,25.0,28.0,15.0,1.0,5.0,2.0,20.0
+school s,d08d2aaea7,Luciano,09defc8c2d,,31.0,6.0,3.0,0.0,0.0,,
+school s,c79ea15212,Alfredo,a61d935146,,47.0,21.0,20.0,1.0,7.0,4.0,33.0
+school s,55744ceb76,Liam,a9cdd4a449,,6.0,,7.0,0.0,,,
+school s,a41db90444,Daniela,ca36b9fb93,,45.0,32.0,11.0,0.0,9.0,6.0,43.0
+school s,17e1be42d0,Vitoria,5debc50b0c,,48.0,18.0,20.0,3.0,5.0,2.0,15.0
+school s,84cd322ed7,Jossian,7e2bdd277d,,34.0,11.0,11.0,0.0,2.0,0.0,0.0
+school s,fd7c2763ec,Maryam,9658989c44,,28.0,29.0,15.0,1.0,4.0,4.0,31.0
+school s,5412422684,Marlon,afdc7dbd1d,,25.0,33.0,14.0,0.0,3.0,1.0,11.0
+school p,0e1af3ed46,Ebrahim,01e3c561c0,,62.0,38.0,81.0,26.0,18.0,25.0,71.0
+school p,75f9577a16,Lukas,7566997bc6,,31.0,28.0,18.0,2.0,7.0,4.0,25.0
+school p,ae5859ecea,Christopher,f1944e453e,,23.0,20.0,0.0,0.0,2.0,0.0,0.0
+school p,998eae2d1f,Jaxon,469c3beed3,,37.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,5eb2238431,Galylea,db807af498,,41.0,27.0,11.0,1.0,0.0,0.0,0.0
+school p,2a428455b3,Yosr,c6f3ce67f2,,52.0,15.0,102.0,35.0,36.0,66.0,100.0
+school p,8bdb774bb3,Nyra,2bb8782ffc,,48.0,0.0,34.0,0.0,3.0,0.0,0.0
+school p,e772b2640f,Gabriella,3233347035,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,41f33c5de1,Alessio,10e286e22c,,61.0,44.0,30.0,7.0,10.0,19.0,40.0
+school p,6e3874008c,Aurelia,fe26c4f95b,,64.0,25.0,46.0,12.0,13.0,9.0,56.0
+school p,f190ce3eee,Bella,16571cdf76,,57.0,37.0,41.0,10.0,7.0,5.0,56.0
+school p,84f6afcbc4,Santino,9be27c7b28,,69.0,31.0,45.0,0.0,61.0,61.0,92.0
+school r,b41b31f0b3,Salome,15cec312c6,,13.0,3.0,10.0,0.0,3.0,0.0,0.0
+school r,bc5f98df82,Issac,132726ad5b,,33.0,12.0,19.0,1.0,8.0,3.0,43.0
+school s,28f2191a18,Piper,b302a9293a,,15.0,8.0,14.0,1.0,4.0,1.0,8.0
+school s,47f70ed944,Noah,a49fdd9366,,14.0,22.0,1.0,0.0,1.0,0.0,0.0
+school s,078d0d34aa,Davina,e64fbc5dd9,,69.0,32.0,66.0,15.0,37.0,38.0,86.0
+school s,645e84a158,Miguel,568fe9c1f6,,27.0,9.0,10.0,0.0,1.0,0.0,0.0
+school s,c7b7e5afec,Bora,abc98fa540,,26.0,26.0,26.0,4.0,10.0,9.0,50.0
+school s,3ce9aefcb8,Leah,0b7512ec79,,31.0,28.0,16.0,2.0,5.0,4.0,24.0
+school s,778546801f,Jayden,3e0eba9919,,34.0,,13.0,0.0,,,
+school s,d82ffb6e17,Martin,07e29929fa,,30.0,9.0,12.0,0.0,2.0,0.0,0.0
+school s,c07555eb6b,Adam,678d21831a,,30.0,9.0,17.0,4.0,13.0,14.0,64.0
+school r,53e819346b,Mateo,0e9442f78c,,23.0,10.0,7.0,0.0,1.0,0.0,0.0
+school p,8ecff6d341,Samuel,23b559722a,,69.0,56.0,65.0,18.0,14.0,16.0,76.0
+school p,9f614cdf43,Andre,0e5eb97bc0,,22.0,42.0,25.0,5.0,9.0,2.0,22.0
+school p,9bc8f16d34,Vanessa,64335d94a5,,41.0,14.0,41.0,0.0,5.0,2.0,33.0
+school p,7c55b3f833,Thomas,7639aae437,,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,af906a90a5,Daneliz,5642ef6ca2,,38.0,29.0,35.0,11.0,16.0,15.0,63.0
+school n,4cfdff6399,Salome,205a39b449,,11.0,0.0,3.0,0.0,4.0,0.0,0.0
+school n,d372bea688,Jeronimo,cef2398333,,31.0,15.0,22.0,4.0,6.0,0.0,0.0
+school n,81d06f46a2,Darian,530099b286,,29.0,38.0,23.0,5.0,3.0,0.0,0.0
+school n,3ea80bfdc5,Annabella,0ac39e37bf,,31.0,40.0,22.0,2.0,5.0,1.0,17.0
+school n,c21bb43b80,Martin,20710abd81,,24.0,5.0,23.0,0.0,3.0,0.0,0.0
+school o,95c5dd81e1,Santiago,0687018e37,,40.0,0.0,15.0,0.0,7.0,17.0,68.0
+school o,1c57c63206,Edison,ff36785b43,,34.0,10.0,46.0,0.0,8.0,8.0,40.0
+school o,de0b014245,Riley,f55437330d,,29.0,26.0,16.0,0.0,3.0,1.0,6.0
+school o,b5a5a79a9e,Maicol,afdaaf7cff,,23.0,2.0,8.0,0.0,4.0,0.0,0.0
+school o,02d9a2e18a,Matthew,75b744aa00,,26.0,26.0,21.0,2.0,5.0,3.0,25.0
+school o,68ebb3fd66,Jaxel,5a21455df8,,40.0,0.0,15.0,0.0,0.0,,
+school o,811b5a79b4,Bayane,942f727594,,28.0,49.0,24.0,2.0,14.0,16.0,64.0
+school o,f4e1188546,Layla,418b1670a2,,30.0,1.0,0.0,0.0,3.0,,
+school s,ac580569d9,Mia,db5ac24900,,35.0,36.0,18.0,4.0,8.0,2.0,22.0
+school s,4fab008862,Youssef,fbc3b9d694,,25.0,30.0,18.0,1.0,0.0,,
+school s,869ff8ca83,Camila,0b71a103fb,,1.0,7.0,2.0,0.0,0.0,,
+school s,82016d1b45,Aubreyana,2102fe2d4a,,35.0,48.0,20.0,4.0,7.0,3.0,33.0
+school s,1b2759ef23,Cassidy,ba04efbb3f,,57.0,33.0,26.0,0.0,7.0,13.0,46.0
+school s,1cdcfc3885,Eliany,84f4d97a73,,45.0,46.0,26.0,3.0,9.0,3.0,20.0
+school s,7e3534454c,Selina,55cc53fcd7,,24.0,31.0,13.0,1.0,3.0,1.0,14.0
+school s,0667cde850,Sanaiya,e8510e0c5d,,35.0,5.0,24.0,0.0,0.0,,
+school q,4f5a0b0a9a,Luiz,103cb06fd9,,25.0,0.0,0.0,0.0,2.0,0.0,0.0
+school q,343dd616d0,Sofia,7dc7b3d3fa,,26.0,25.0,29.0,0.0,6.0,0.0,0.0
+school q,daee2f6e8c,Gabriel,2585a7ad51,,36.0,11.0,11.0,0.0,0.0,,
+school q,d43b90b0eb,Lucas,4e99e7b0f6,,56.0,33.0,30.0,0.0,7.0,,
+school q,c2c1b5845f,Philip,cb1d18754d,,61.0,0.0,0.0,0.0,3.0,5.0,38.0
+school q,8ef97887fd,Jahlisse,607ecdb2e9,,40.0,11.0,24.0,0.0,4.0,2.0,15.0
+school q,93a565e4a1,Amina,cb83607088,,29.0,6.0,21.0,0.0,5.0,0.0,0.0
+school q,76c5279004,A'Ziah,af801c5f27,,57.0,19.0,24.0,0.0,5.0,0.0,0.0
+school r,bf978a05e4,Luis,57fc7ae45c,,28.0,17.0,10.0,0.0,2.0,0.0,0.0
+school r,e10d850954,Bobbi,5a1591a64a,,22.0,29.0,12.0,1.0,5.0,2.0,20.0
+school r,31c592af93,Elmer,2b9b431a01,,27.0,46.0,12.0,3.0,8.0,0.0,0.0
+school r,c9d481d730,Emmanuel,c37cbd6f6d,,57.0,13.0,35.0,10.0,13.0,5.0,36.0
+school r,8f85db6d8a,Sarah,9888ffc05d,,23.0,2.0,12.0,0.0,6.0,0.0,0.0
+school r,aef1743a70,Erik,852e520745,,43.0,2.0,27.0,0.0,6.0,4.0,29.0
+school r,90e78b94ee,Hossam,db1154a5a6,,45.0,34.0,32.0,6.0,11.0,11.0,58.0
+school o,7f1a227621,Juan,d7e4692583,,33.0,39.0,14.0,1.0,1.0,1.0,10.0
+school o,6fedecf168,Hellen,057ac743aa,,17.0,7.0,4.0,0.0,2.0,,
+school r,4b7da39bb4,Brais,833d400258,,13.0,13.0,6.0,0.0,1.0,0.0,0.0
+school q,7544a14735,Enzo,2b851406d1,,58.0,9.0,19.0,0.0,8.0,4.0,44.0
+school q,aef8766fdb,Helena,5317599459,,37.0,9.0,31.0,1.0,5.0,,
+school q,2b4e4ddd58,Andres,ad5af1edd4,,39.0,18.0,33.0,0.0,7.0,,
+school r,0654750494,Ever,4af2e57022,,19.0,7.0,9.0,0.0,1.0,1.0,7.0
+school r,0a8c377cc5,Laura,afe32bea4d,,12.0,7.0,4.0,0.0,1.0,0.0,0.0
+school s,b7bba08892,Emniel,796a935a7d,,12.0,0.0,0.0,0.0,2.0,,
+school o,a0642029e3,Julian,2700ee4d04,,8.0,25.0,8.0,2.0,1.0,1.0,13.0
+school o,b35878a5bf,Jahmira,6b759d24f7,,22.0,33.0,17.0,5.0,2.0,1.0,7.0
+school s,394210414e,Celeste,f2085157ea,,43.0,23.0,26.0,8.0,19.0,14.0,70.0
+school q,97145ccb93,Carlos,eea0588ba9,,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+school r,129e0c4dd6,Julia,684a395afc,,28.0,30.0,29.0,9.0,12.0,4.0,31.0
+school p,15dfd274e4,Cristofer,c01c95a10f,,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,811243392d,Ashtin,eace74d813,,57.0,10.0,77.0,23.0,59.0,103.0,99.0
+school p,948341d56b,Nadia,77bdc098e5,,5.0,35.0,1.0,0.0,2.0,0.0,0.0
+school p,9dab61b7a0,Arabella,d2dcc0c96b,,8.0,11.0,0.0,0.0,1.0,0.0,0.0
+school s,e9db224bcd,Isabelly,02f61a2232,,2.0,5.0,0.0,0.0,0.0,,
+school p,a298af9c54,Mateo,026fa840c4,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,5d6d8babf9,Jade,f9cc0a32ca,,36.0,24.0,29.0,8.0,10.0,4.0,36.0
+school p,476dd93ef8,Jaime,060cd5899c,,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,1e2a539815,Jeremias,8932fdcec5,,31.0,0.0,0.0,0.0,0.0,0.0,0.0
+school n,648cd9b9f0,Nadjy,b5d1b27af3,,45.0,10.0,24.0,0.0,3.0,4.0,40.0
+school n,a23a8411aa,Yaritza,80931a9de7,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,3b522e151a,Blanca,80c9690728,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school n,06d949392e,Santiago,c0c56fa493,,32.0,16.0,52.0,18.0,10.0,10.0,48.0
+school n,bcbd27adbe,Dominic,da470c7ac6,,49.0,44.0,21.0,3.0,11.0,3.0,30.0
+school n,17f31e1d13,Arlet,d08d9522ac,,44.0,31.0,34.0,12.0,3.0,3.0,27.0
+school n,454d2ca70b,Elliot,20bf6a2c5c,,38.0,23.0,48.0,1.0,10.0,9.0,47.0
+school n,25d96ca969,Katie,950dfca41c,,27.0,9.0,18.0,3.0,4.0,0.0,0.0
+school n,1bae9f6a20,Hunter,1f00372b1c,,38.0,18.0,21.0,1.0,4.0,0.0,0.0
+school n,9a9c4f96af,Emmanuel,54bbe90dd9,,47.0,20.0,26.0,6.0,4.0,0.0,0.0
+school p,75b52e4b1a,Alice,d179047d72,,33.0,3.0,21.0,0.0,1.0,0.0,0.0
+school p,70b7e446b9,Julia,94f3c575d9,,34.0,56.0,22.0,3.0,3.0,0.0,0.0
+school p,9709b3318d,Daniel,96e14005ac,,22.0,6.0,7.0,0.0,1.0,0.0,0.0
+school p,fbbd44249e,Alayna,e37f82e54d,,32.0,45.0,30.0,10.0,13.0,0.0,0.0
+school o,adae8d8d41,Aaliyah,02f7e3775f,,,,,,,,
+school q,e6470f6631,Michael,b1a3282b14,,6.0,0.0,8.0,0.0,0.0,0.0,0.0
+school q,4e8b5ddfcd,Aly May,d9dbbbb38c,,28.0,33.0,12.0,2.0,4.0,0.0,0.0
+school q,0d6b1d8f44,Alyssa,11bc946257,,40.0,32.0,23.0,7.0,13.0,2.0,22.0
+school r,43f449556a,Kevin,46366d1377,,36.0,17.0,24.0,0.0,4.0,0.0,0.0
+school r,f21f7507a9,Walter,2fddfd9ed6,,42.0,20.0,28.0,5.0,5.0,3.0,21.0
+school p,8ab253e4aa,Jordan,2ad4d0f808,,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,4cbf01fce4,Max,9c27b25656,,60.0,70.0,41.0,11.0,11.0,9.0,64.0
+school q,72e0b9b861,Luca,1b88db9994,,68.0,0.0,0.0,0.0,0.0,0.0,0.0
+school q,cc3879a32a,Dylan,d4d9302f19,,26.0,36.0,23.0,0.0,3.0,0.0,0.0
+school r,32e444dca7,Pietro,a235fe59f5,,27.0,0.0,9.0,0.0,5.0,0.0,0.0
+school q,a9aecda02a,Luca,70ac072817,,37.0,19.0,2.0,0.0,0.0,0.0,0.0
+school q,cf2f58162f,Anees,ea71c76bad,,24.0,0.0,0.0,0.0,0.0,0.0,0.0
+school p,9dcd15efff,Lucas,152996d4d8,,60.0,33.0,77.0,26.0,33.0,40.0,100.0
+school p,09b086b76c,Eva,0205a30aca,,42.0,10.0,27.0,7.0,9.0,17.0,81.0
+school p,a71909298c,Luca,972f37367a,,,,,,,,
+school p,35fe4d309d,Kayla,cf7b27cb68,,27.0,0.0,17.0,1.0,3.0,0.0,0.0
+school p,a4e2120d6b,Eddy,2e99ab2828,,19.0,0.0,5.0,0.0,0.0,0.0,0.0
+school p,23d2173cc4,Jad,f19554bfba,,45.0,48.0,78.0,24.0,34.0,47.0,94.0
+school p,f951a35f5e,Harjas,db002296cd,,7.0,27.0,0.0,0.0,2.0,0.0,0.0
+school r,13774c505a,Mia,246c8f43fb,,21.0,0.0,15.0,0.0,2.0,1.0,8.0
+school r,c4ba68aa15,Debora,ca15bb046b,,54.0,6.0,19.0,0.0,2.0,0.0,0.0
+school r,6f005a1868,Samanta,2e4e717a99,,35.0,22.0,23.0,0.0,6.0,0.0,0.0
+school p,846999bfc2,Kaili,db58b01802,,33.0,29.0,16.0,4.0,5.0,0.0,0.0
+school p,4b62455b7e,Edwin,a3cb6645e6,,30.0,23.0,22.0,3.0,4.0,0.0,0.0
+school p,67fe64b6d4,Pedro,0454d9e92d,,1.0,6.0,1.0,0.0,0.0,0.0,0.0
+school n,bcdbbbe1d4,Miguel,c27292aeb0,,25.0,17.0,23.0,4.0,7.0,0.0,0.0
+school n,87f9252bbb,Laura,844a1c2411,,23.0,29.0,39.0,0.0,5.0,8.0,50.0
+school q,1eb6413042,Zuanny,6faaed3c4a,,,,,,,,
+school q,222fa61cf4,Alicy,08cf189aa6,,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+school q,95c5dd81e1,Lylah,4839bb74e6,,16.0,32.0,0.0,0.0,0.0,0.0,0.0
+school r,3b9d5656d8,Genesis,9683775d7c,,21.0,3.0,7.0,0.0,0.0,0.0,0.0
+school r,a23f383a8f,Amy,14927d032e,,23.0,26.0,20.0,0.0,3.0,0.0,0.0
+school r,473b867515,Giselle,f0f7a50d1a,,,,,,,,
+school n,cb4f3e3001,Nathaly,cb38e2488d,,59.0,28.0,33.0,4.0,4.0,2.0,18.0
+school p,56a41f2930,Malaika Leina,dadebc8d1b,,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+school p,3cbf95bcdb,Audrey,5cdffcab7d,,17.0,25.0,8.0,0.0,4.0,0.0,0.0
+school q,f1bd1f7edd,Riley,069ad420bb,,51.0,32.0,30.0,10.0,6.0,0.0,0.0
+school n,9152bc7f20,Joseph,e1d5c470b6,,42.0,46.0,40.0,11.0,13.0,3.0,33.0
+school p,aa77d2ae5a,Johan,bd7df0b93b,,24.0,0.0,27.0,0.0,0.0,0.0,0.0
+school p,82e33fb035,Catalina,fd55da49c7,,39.0,20.0,71.0,22.0,55.0,64.0,97.0
+school p,ad6139bc51,Sael,61a4adb2e3,,69.0,64.0,62.0,11.0,21.0,42.0,70.0
+school p,2779fbb27c,Liam,88a97ff0e7,,32.0,6.0,15.0,1.0,8.0,26.0,79.0
+school q,1506384d1e,Leia,5e79c796b7,,,,,,,,
+school p,83ebdb58f1,Artist,1f549b5aad,,18.0,8.0,8.0,0.0,0.0,0.0,0.0
+school n,548674f78c,Aryelle,6e1051e135,,51.0,9.0,28.0,5.0,6.0,1.0,11.0
+school s,ae5f9c3bad,Ariana,d3c23b2cea,,,,,,,,
+school t,4123f5a05f,Aamelia,44ae0b35a7,,27.0,29.0,22.0,3.0,2.0,0.0,0.0
+school u,6b6b6ad1a2,Abailardo,73427a04a0,,11.0,0.0,0.0,0.0,2.0,0.0,0.0
+school v,95e43e7b37,Abdiel,3ce6adf0d9,,14.0,32.0,13.0,0.0,1.0,0.0,0.0
+school t,9ba9879bc2,Adriana,95cf85b8b3,,18.0,30.0,12.0,0.0,1.0,0.0,0.0
+school u,17e1be42d0,Aiden,3ef92e9759,,39.0,39.0,43.0,14.0,12.0,13.0,54.0
+school u,b6fb3d8394,Alahia,1551bb7d1f,,28.0,20.0,35.0,10.0,5.0,0.0,0.0
+school w,762591cd56,Alayna,582bacdce4,,20.0,30.0,29.0,7.0,4.0,1.0,10.0
+school u,7e1af4edb1,Alexander,b788c96e2d,,32.0,44.0,15.0,3.0,0.0,0.0,0.0
+school u,89ef1f7457,Alijah,4527bc8390,,37.0,39.0,30.0,4.0,22.0,28.0,76.0
+school u,41a8b28d3f,Amailys,25b393a4d5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,6f005a1868,Amanda,92f25823d4,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school w,f84f9ac83e,Ana,7da0bce43d,,22.0,34.0,17.0,4.0,2.0,0.0,0.0
+school x,6687d4738f,Anabelle,a6f22e1410,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school y,804510fc77,Analeah,e741678751,,40.0,42.0,34.0,7.0,4.0,2.0,20.0
+school u,c94d8a9444,Analina,2c1b1bea1b,,27.0,39.0,18.0,0.0,0.0,3.0,16.0
+school x,3a0eb3ea56,Angel,d6b819b0e5,,21.0,44.0,39.0,0.0,6.0,7.0,35.0
+school x,9dab61b7a0,Annaliz,5eb6a95c9f,,36.0,56.0,22.0,5.0,14.0,12.0,55.0
+school y,1c574b17ee,Anthony,5bf5880b14,,36.0,39.0,24.0,3.0,8.0,6.0,38.0
+school x,2ef781d8c2,Anthony,559f549ca0,,13.0,36.0,0.0,0.0,0.0,0.0,0.0
+school t,d94af4ddf3,Anthony,f7c219174c,,39.0,26.0,19.0,3.0,9.0,3.0,27.0
+school t,bf3a101fff,Ariah,27efae87e0,,3.0,30.0,9.0,1.0,2.0,0.0,0.0
+school u,5df0e3c428,Ariana,3e65e569e8,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school y,213c4d2db0,Arieliz,35f4b0ed19,,30.0,33.0,32.0,7.0,3.0,0.0,0.0
+school u,aef8766fdb,Arthur Gabriel,a5500251d7,,12.0,7.0,6.0,0.0,4.0,0.0,0.0
+school t,acf098b06f,Arya,78a6d729b8,,34.0,33.0,18.0,4.0,5.0,0.0,0.0
+school t,2795281568,Ashly,9bfc4201ef,,43.0,29.0,31.0,6.0,11.0,3.0,25.0
+school y,a5a80f9ead,Ashlyn,88922900c7,,45.0,32.0,41.0,5.0,14.0,11.0,46.0
+school v,e10d850954,Ashton,a1fe1ccda2,,28.0,25.0,19.0,1.0,6.0,0.0,0.0
+school x,502ae19740,Aubrielle,2eabea926c,,45.0,60.0,23.0,4.0,13.0,6.0,35.0
+school v,746fb1fcc6,Aurora,2af19405a3,,26.0,27.0,20.0,0.0,0.0,0.0,0.0
+school y,326fd27d30,Austin,6e11390faf,,,,,,,,
+school x,e9d8ab39e2,Avarie,105b4ee2f0,,15.0,31.0,11.0,0.0,3.0,0.0,0.0
+school w,7edc8de0ba,Avianna,c683bd855d,,22.0,53.0,19.0,3.0,4.0,0.0,0.0
+school v,1cd8e5f482,Avyon,1694b4da96,,16.0,13.0,2.0,0.0,0.0,0.0,0.0
+school u,bfcb303511,Ayleani,99a517ca70,,13.0,10.0,0.0,0.0,0.0,0.0,0.0
+school u,c674e959d7,Azarii,d003d7dda2,,36.0,27.0,26.0,6.0,6.0,1.0,6.0
+school u,1506384d1e,Bella,cc2d2e6938,,47.0,8.0,29.0,0.0,5.0,0.0,0.0
+school u,6e1e7c1b36,Benjamin,268c8defa3,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school w,6a97f77a12,Braylon,ac12e55bd8,,31.0,16.0,9.0,0.0,3.0,0.0,0.0
+school x,2c3aaefea8,Brielle,6ef23a312f,,16.0,8.0,0.0,0.0,0.0,0.0,0.0
+school x,ceb32b9393,Brooklyn,9a0d0a7913,,40.0,26.0,25.0,3.0,5.0,0.0,0.0
+school u,6367ce1857,Brooklyn,f0f21e2ed6,,47.0,44.0,48.0,16.0,21.0,28.0,76.0
+school u,7283463fd9,Bryan,17c3a8d9f9,,10.0,17.0,0.0,0.0,0.0,0.0,0.0
+school y,2f4568f967,Bryan,b474945dff,,28.0,42.0,23.0,6.0,3.0,2.0,11.0
+school y,d41e93925c,Bryan Alexandre,2646620b63,,26.0,5.0,4.0,0.0,2.0,0.0,0.0
+school t,8c65b52d93,Caitlin,2db9ca2735,,30.0,22.0,18.0,3.0,10.0,2.0,18.0
+school y,7c9e084596,Camila,44d42937b6,,24.0,30.0,12.0,0.0,10.0,4.0,24.0
+school y,a5a80f9ead,Caroline,25852e355d,,21.0,25.0,10.0,1.0,0.0,0.0,0.0
+school t,acf098b06f,Caroline,c45aea8ce2,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,2ef781d8c2,Carter,701de25cb4,,9.0,0.0,13.0,2.0,2.0,0.0,0.0
+school u,aaf2d054d5,Chennell,2370e8fdf4,,25.0,3.0,35.0,11.0,0.0,3.0,20.0
+school u,009ccbf8e7,Connor,8eb68f88f0,,49.0,25.0,36.0,9.0,17.0,17.0,50.0
+school x,81fe28e262,Connor,0f810544c5,,31.0,21.0,35.0,0.0,2.0,2.0,10.0
+school y,aeda9eb0e9,Connor,1b19545190,,27.0,35.0,28.0,4.0,5.0,2.0,17.0
+school t,5dfcf9ef1f,Cullen,d6f2370a61,,20.0,2.0,17.0,0.0,0.0,0.0,0.0
+school u,8538eddb37,Damone,b69bb5a10e,,33.0,28.0,18.0,1.0,4.0,3.0,17.0
+school u,deb3d87cc2,Daniel,a29ea0507a,,55.0,33.0,38.0,11.0,13.0,9.0,45.0
+school u,1c201bebb8,Daniela,448bfe12fb,,54.0,65.0,79.0,20.0,23.0,58.0,95.0
+school v,2f4568f967,Davi,3bc96d008a,,40.0,17.0,28.0,5.0,10.0,7.0,37.0
+school y,d41e93925c,Daylan Alexandre,11ca5413a6,,55.0,14.0,17.0,0.0,1.0,0.0,0.0
+school v,f6680fb739,Denise,a609145126,,31.0,28.0,19.0,3.0,5.0,0.0,0.0
+school u,655f48bb96,Dilan,6cdc8979c7,,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+school y,472e95caac,Djemimah,2da587ba46,,37.0,36.0,30.0,8.0,15.0,20.0,80.0
+school u,f187946f83,Dominic,1ab920b4c3,,41.0,56.0,35.0,4.0,10.0,16.0,59.0
+school u,d98093aa5d,Dylan,aaa90be073,,3.0,0.0,0.0,0.0,1.0,0.0,0.0
+school u,d647571066,Eddysha,3dfb8a9832,,21.0,0.0,17.0,1.0,0.0,0.0,0.0
+school v,4c1970c94f,Edward,bc08591f55,,33.0,21.0,16.0,2.0,9.0,0.0,0.0
+school u,b90a995834,Elayna,b44d3a87c9,,71.0,58.0,65.0,0.0,15.0,39.0,75.0
+school u,cee0e0a2ea,Elizabeth Rose,005c435301,,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+school x,5aa05fe4b9,Emilly,883790c4c1,,5.0,0.0,3.0,0.0,2.0,0.0,0.0
+school u,d7f9b3ba8a,Emily,b9aabc4c58,,28.0,0.0,0.0,0.0,1.0,0.0,0.0
+school u,83c12268b8,Enzo,245d0f2b8f,,17.0,36.0,35.0,10.0,0.0,0.0,0.0
+school w,0ed1f9f9aa,Eric,b235eec126,,34.0,28.0,36.0,12.0,4.0,1.0,10.0
+school u,3ef410110b,Erick,c75c5e0066,,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+school x,ce31ac3b1c,Erickson,5a2b198a70,,24.0,11.0,21.0,0.0,0.0,0.0,0.0
+school x,48a2aa03d4,Eviliny,e453a716af,,25.0,0.0,24.0,1.0,6.0,0.0,0.0
+school t,e3ee4de952,Ezequiel,ed7c533761,,29.0,34.0,31.0,9.0,6.0,6.0,29.0
+school u,328e0aca2a,Ezequiel,8c94da010e,,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,e4cbbbc106,Felicity,cca57cc799,,30.0,50.0,22.0,0.0,7.0,6.0,35.0
+school v,338f7ebc25,Frances,9f631a7a10,,20.0,36.0,18.0,3.0,3.0,0.0,0.0
+school w,6ec4365f03,Gabriel,d3639cc83b,,15.0,0.0,20.0,3.0,0.0,0.0,0.0
+school u,0de3f1c1c2,Gamliel,396732098f,,30.0,27.0,41.0,0.0,6.0,0.0,0.0
+school t,f92545aeed,Gustavo,6db0eff174,,8.0,27.0,7.0,0.0,1.0,0.0,0.0
+school v,c0dba9ecb0,Haiden,be24773e23,,30.0,22.0,30.0,10.0,11.0,0.0,0.0
+school v,fcc18ad813,Hailey,a857d11216,,34.0,45.0,25.0,0.0,3.0,0.0,0.0
+school t,acf098b06f,Heloisa,19f348e572,,23.0,11.0,21.0,0.0,4.0,0.0,0.0
+school u,2e6b3364df,Henrico,1d74bb366b,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,c1167c6b79,Henry,83c1a23823,,35.0,0.0,0.0,0.0,12.0,12.0,43.0
+school u,aaa0fc7e2e,Henry,c9930bc037,,30.0,0.0,0.0,0.0,5.0,0.0,0.0
+school v,a4905bdffe,Ian,58432f3ed9,,10.0,0.0,28.0,4.0,9.0,5.0,45.0
+school x,02281b3b5d,Imani,81acf1704f,,50.0,14.0,43.0,8.0,27.0,24.0,69.0
+school u,65d69989fe,Isac Artur,7649eb05c1,,28.0,18.0,18.0,3.0,4.0,0.0,0.0
+school t,aef8766fdb,Isaiah,15e2d40f98,,13.0,0.0,3.0,1.0,0.0,0.0,0.0
+school y,5cf56e2c0d,Isaiah,ef9ec28005,,41.0,32.0,55.0,18.0,11.0,8.0,57.0
+school y,6eef08ad18,Isaiah,dcd82716b7,,32.0,0.0,12.0,0.0,0.0,0.0,0.0
+school u,009069811c,Ivy-Grace,04a5a44b11,,34.0,37.0,28.0,8.0,6.0,7.0,35.0
+school y,a96ce184e1,Jack,06f9a28970,,18.0,49.0,13.0,3.0,3.0,1.0,9.0
+school u,cde6168794,Jakym,492f8a9992,,35.0,13.0,11.0,0.0,4.0,0.0,0.0
+school y,2a0d03c609,Jamil,17f2ac1854,,42.0,24.0,73.0,24.0,19.0,17.0,77.0
+school t,49fb01268e,Jarieshkalys,9f7fbf73a0,,27.0,22.0,28.0,1.0,5.0,3.0,23.0
+school v,1506384d1e,Jase,51c64ca24e,,31.0,10.0,15.0,2.0,7.0,3.0,20.0
+school u,fc519f1a34,Jasmine,209b861cf2,,19.0,39.0,20.0,1.0,0.0,0.0,0.0
+school x,56ec4fee9f,Javean,801f6c6d2e,,17.0,17.0,26.0,0.0,0.0,0.0,0.0
+school x,d29729289a,Javian,6355a8ad65,,55.0,57.0,38.0,4.0,13.0,10.0,50.0
+school w,3d0ac364ae,Jaxson,f736f44887,,32.0,37.0,17.0,2.0,2.0,0.0,0.0
+school v,3c59f2a931,Jayce,9b0724dafa,,37.0,42.0,26.0,6.0,7.0,1.0,7.0
+school v,fc519f1a34,Jayden,fcc071111f,,22.0,24.0,11.0,0.0,0.0,0.0,0.0
+school u,eb4fbccb8e,Jayden,27bd0394bc,,53.0,34.0,20.0,3.0,6.0,3.0,14.0
+school u,867e33ff11,Jaylanie,497fc979ae,,7.0,6.0,0.0,0.0,0.0,0.0,0.0
+school u,7e084d72f2,Jazmyn,32059bfc92,,0.0,30.0,0.0,0.0,0.0,0.0,0.0
+school x,604449597a,Jeimy,83eb9e4c59,,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,3040ad662b,Jeimylee,ea4392d389,,31.0,17.0,29.0,10.0,1.0,0.0,0.0
+school u,0fa14c9ebd,Jelianne,bd5a1900f5,,23.0,21.0,22.0,3.0,2.0,0.0,0.0
+school u,fc4d6572b8,Jennifer,82983886fe,,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+school u,2b5105421f,Jezmiah,4e0ef8618a,,34.0,33.0,26.0,5.0,4.0,3.0,30.0
+school x,85ab46ac74,Jhon,b40b19e1b6,,6.0,18.0,15.0,0.0,0.0,0.0,0.0
+school y,015e07f6d0,Joao,73b0ff5872,,25.0,41.0,27.0,5.0,6.0,1.0,7.0
+school v,abea5ba314,Joao Pedro,40f2ab2e0a,,23.0,6.0,24.0,3.0,5.0,0.0,0.0
+school w,56921de9af,Joel,161d5b14cb,,30.0,29.0,29.0,4.0,3.0,0.0,0.0
+school y,cf8572026d,Johnathan,c169b66204,,17.0,32.0,14.0,3.0,2.0,0.0,0.0
+school u,b8d617ce8c,Jonathan,0f0b373b74,,43.0,33.0,28.0,5.0,21.0,49.0,89.0
+school t,c090b2e046,Jonnathan,1359bc93c9,,12.0,0.0,15.0,0.0,0.0,0.0,0.0
+school v,b4a41a39ac,Joseanne,9b761cba67,,33.0,36.0,28.0,6.0,5.0,0.0,0.0
+school u,75f9577a16,Joshua,e26d3f70df,,66.0,9.0,56.0,12.0,15.0,7.0,27.0
+school v,71f16a3604,Josiah,09e17991a5,,29.0,36.0,22.0,5.0,8.0,6.0,46.0
+school t,4c3cb09208,Juan,d6af2b8e31,,23.0,36.0,19.0,3.0,2.0,0.0,0.0
+school t,676e2d10c4,Juelz,73bc7bfacc,,42.0,35.0,24.0,3.0,5.0,0.0,0.0
+school u,1ee763235d,Juelz,7a1504df14,,26.0,0.0,0.0,0.0,1.0,0.0,0.0
+school x,8f85db6d8a,Julia,4ad87ca193,,38.0,0.0,14.0,0.0,5.0,0.0,0.0
+school y,cd9563eaa5,Julian,a2bba12f79,,31.0,35.0,32.0,6.0,6.0,0.0,0.0
+school v,b9993de86e,Julian,27406fae40,,45.0,23.0,25.0,1.0,10.0,4.0,20.0
+school v,4eb1b68df1,Kairo,e12a304eda,,35.0,49.0,26.0,8.0,6.0,0.0,0.0
+school y,e60e9129b7,Kali,d7504598d7,,29.0,48.0,21.0,5.0,12.0,10.0,53.0
+school t,840836139b,Kara,d6a25ce025,,54.0,29.0,23.0,6.0,5.0,2.0,17.0
+school u,c8b59b0888,Karlie,edd373ee5c,,21.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,2c3aaefea8,Karsyn,2f1b5c2bbe,,48.0,56.0,41.0,10.0,7.0,7.0,35.0
+school y,62dcd6e930,Kataleia,ccb550ec19,,30.0,40.0,26.0,5.0,6.0,0.0,0.0
+school y,8d5a895d94,Katherine,73386153ea,,39.0,51.0,23.0,5.0,14.0,10.0,67.0
+school y,d70e581f5a,Kayden,3a7d30bb8b,,52.0,20.0,33.0,3.0,9.0,0.0,0.0
+school v,da523811cc,Keira,650de2507d,,31.0,47.0,31.0,9.0,6.0,0.0,0.0
+school t,7690d3f2f5,Keyden,5f67156a15,,36.0,6.0,30.0,10.0,6.0,3.0,23.0
+school x,1cd8e5f482,King,279118f68a,,39.0,15.0,25.0,2.0,4.0,0.0,0.0
+school w,fe16a94194,Kory,3694bc668c,,7.0,20.0,9.0,0.0,2.0,0.0,0.0
+school w,5d5518aea9,Kyan,4cc78ea049,,34.0,8.0,0.0,0.0,5.0,0.0,0.0
+school u,2ef781d8c2,Kylie,46193c4385,,47.0,7.0,0.0,0.0,14.0,9.0,41.0
+school t,a0a22d4cfb,Kyson,2f58111345,,32.0,32.0,13.0,2.0,4.0,0.0,0.0
+school u,6aa543f394,Laura,5bfca82fa6,,12.0,20.0,0.0,0.0,0.0,0.0,0.0
+school t,9a69909a55,Lavinya,faf0f9f5db,,20.0,34.0,25.0,2.0,4.0,0.0,0.0
+school x,1c574b17ee,Layra,dc0094fa6b,,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+school u,aef8766fdb,Lee,0c37ba680a,,35.0,0.0,0.0,0.0,11.0,7.0,39.0
+school y,d86aa7a70c,Legend,40cb4b3be4,,,,,,,,
+school y,ccdc7d45ea,Leiana,b08d3ff845,,30.0,33.0,17.0,4.0,9.0,1.0,10.0
+school t,f187946f83,Leonor,c884c1a52e,,33.0,30.0,32.0,6.0,3.0,0.0,0.0
+school u,8d12399bca,Liam,a8e966d102,,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+school w,58432cc016,Lilliana,c3788400f4,,25.0,35.0,25.0,4.0,7.0,2.0,18.0
+school v,aa57912a88,Linette,150e76c559,,21.0,49.0,22.0,4.0,3.0,1.0,10.0
+school v,073e47a0ac,Livia,ad06d9ad0b,,11.0,16.0,5.0,0.0,0.0,0.0,0.0
+school w,f187946f83,Logan,c724730440,,28.0,15.0,22.0,0.0,4.0,0.0,0.0
+school u,f11453d799,Logan,b85fc8c938,,37.0,13.0,10.0,0.0,3.0,2.0,10.0
+school u,0c4cc29aea,Lorrayne,bab54c3ae6,,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+school y,3028fe69be,Lucas,23f85e45c9,,23.0,42.0,14.0,1.0,5.0,2.0,15.0
+school x,ba8583ecff,Luna,a469ad6450,,5.0,28.0,0.0,0.0,0.0,0.0,0.0
+school t,03ccf2f9fd,Lyan,3fa48b4334,,9.0,15.0,18.0,0.0,3.0,0.0,0.0
+school y,dcd0e2aa45,Lydia,57a1890862,,36.0,22.0,34.0,10.0,4.0,8.0,47.0
+school u,e042ec0dd1,Madeline,364c51fe9f,,46.0,59.0,37.0,11.0,14.0,21.0,68.0
+school y,2fabd31021,Madilyn,500b902e6f,,39.0,33.0,31.0,8.0,8.0,2.0,12.0
+school u,65d69989fe,Malachi,073d706c56,,21.0,34.0,0.0,0.0,4.0,1.0,7.0
+school u,262883d6f9,Malakai,a2a3e156a7,,50.0,0.0,15.0,0.0,28.0,33.0,85.0
+school u,f5d1e781c7,Malia,175ff779b0,,24.0,38.0,24.0,5.0,10.0,17.0,65.0
+school v,34591831f8,Marco,5bb944e17f,,33.0,35.0,24.0,4.0,6.0,0.0,0.0
+school x,d94af4ddf3,Maria Cecilia,956fedcc74,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,7a4a421d8b,Mariana,2976440c84,,30.0,11.0,0.0,0.0,2.0,0.0,0.0
+school x,7b1fc2a1d5,Marvens,2143ff9689,,21.0,0.0,12.0,0.0,0.0,0.0,0.0
+school u,6a132d36b1,Mason,3c687e0546,,26.0,52.0,35.0,0.0,0.0,4.0,19.0
+school w,39d3a2e969,Mason,6eb0375fb4,,35.0,31.0,18.0,2.0,6.0,0.0,0.0
+school y,faa75b7c92,Mason,5e69689539,,19.0,11.0,18.0,0.0,3.0,0.0,0.0
+school u,d94af4ddf3,Matheo,56d4a5d2f4,,14.0,3.0,0.0,0.0,2.0,0.0,0.0
+school y,cb5e4a114b,Mauro,9d717ff683,,35.0,11.0,23.0,5.0,18.0,11.0,55.0
+school t,3704845740,Max,9b4a4e1742,,33.0,15.0,30.0,0.0,6.0,2.0,14.0
+school w,a2e6bdd3f1,Maximus,7ac17c10a6,,19.0,0.0,0.0,0.0,4.0,0.0,0.0
+school u,21b1267526,Maxlynn,4fce49ddd3,,57.0,35.0,36.0,6.0,23.0,53.0,84.0
+school u,2f29077015,May Lynne,c14f1736c6,,39.0,53.0,23.0,5.0,3.0,1.0,6.0
+school x,5ce48f03c7,Messias,2c239fe8e4,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,0c511d0640,Mia,d25f089756,,23.0,12.0,13.0,0.0,0.0,0.0,0.0
+school x,e2c08d722e,Miguel,11850376f8,,24.0,57.0,21.0,6.0,4.0,0.0,0.0
+school x,2cb778beeb,Mikayla,ec51ae86d0,,42.0,0.0,15.0,0.0,3.0,3.0,15.0
+school w,1be78368e8,Mila,3ecf7841a4,,25.0,39.0,18.0,3.0,6.0,7.0,47.0
+school t,1eb3155d3c,Miriam,bc331650de,,7.0,25.0,21.0,2.0,1.0,0.0,0.0
+school w,1be78368e8,Molly,8b51d41165,,10.0,28.0,14.0,1.0,0.0,0.0,0.0
+school u,deb38b8af7,Murilo,36df211395,,26.0,37.0,33.0,11.0,8.0,5.0,36.0
+school x,518378c54b,Natalia,53851c89be,,37.0,44.0,24.0,5.0,10.0,0.0,0.0
+school v,75f9577a16,Natalia,6b939ddf7e,,44.0,55.0,22.0,4.0,2.0,0.0,0.0
+school t,1b8f3f2f3d,Nathan,36de9ae7fb,,16.0,0.0,25.0,3.0,4.0,0.0,0.0
+school u,399123adca,Nathanael,746c26c3d0,,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+school u,219026d802,Nicolas,fe530e6e99,,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+school y,06bf3f5ca2,Nikolai,59d7a71cc5,,39.0,40.0,19.0,3.0,3.0,2.0,22.0
+school t,fcc4ee3415,Noah,bbabbaca1b,,18.0,0.0,10.0,0.0,0.0,0.0,0.0
+school u,4c1970c94f,Nolan,148cba7617,,55.0,55.0,46.0,15.0,17.0,11.0,46.0
+school u,9d98a595f1,Novaleigh,1efebb0be4,,15.0,38.0,23.0,6.0,4.0,0.0,0.0
+school v,11a4f480c4,Nyeomiah,5014b5f1da,,30.0,31.0,25.0,5.0,0.0,0.0,0.0
+school u,9f8f5992d2,Nylah,9c7eee5389,,36.0,63.0,17.0,0.0,10.0,3.0,15.0
+school w,666f6e373b,Olivia,4b9834673f,,28.0,9.0,68.0,1.0,3.0,1.0,10.0
+school t,dc8f45106f,O'Riah,726b5ee184,,21.0,21.0,8.0,1.0,3.0,0.0,0.0
+school x,5398b28a7e,Otavio,3bab6e39b3,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school y,df0d3c64ae,Pachomius,f5b3cf4e25,,35.0,31.0,77.0,22.0,38.0,40.0,91.0
+school w,be1f12c194,Pharroh,4698f45057,,16.0,45.0,0.0,0.0,1.0,0.0,0.0
+school w,70b7e446b9,Rayana,1ed4d1fb0d,,26.0,27.0,23.0,3.0,4.0,0.0,0.0
+school x,7a4a421d8b,Rhayssa,d1cafe85ff,,12.0,0.0,4.0,0.0,0.0,0.0,0.0
+school u,86cc87234f,Ricardo,10853b1276,,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+school w,b07de06008,Riley,537f4a5bdc,,18.0,34.0,27.0,4.0,8.0,0.0,0.0
+school u,3013b18f43,Riley,6c6a67b099,,12.0,33.0,0.0,0.0,0.0,0.0,0.0
+school y,5363c21a70,Rishit,0bce15f33d,,41.0,47.0,46.0,12.0,9.0,4.0,25.0
+school x,626928c4f8,Romono,232ca80340,,20.0,0.0,0.0,0.0,1.0,0.0,0.0
+school u,266a7b5edd,Royal,21dd7efb0b,,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+school v,0ddf4be72f,Ryan,97ec9db3ca,,40.0,41.0,28.0,5.0,8.0,6.0,33.0
+school u,55b21b758e,Samailyz,2ed50f2069,,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,d1c86f1d0f,Sarah,c4b2cb2618,,29.0,64.0,22.0,5.0,0.0,0.0,0.0
+school x,1506384d1e,Savannah,9ecf6b2ff2,,55.0,0.0,24.0,8.0,48.0,48.0,100.0
+school v,32e444dca7,Seleyna,f612a85b9a,,22.0,39.0,23.0,5.0,5.0,0.0,0.0
+school u,fe16a94194,Serenity,1f2e3fa74d,,40.0,34.0,21.0,3.0,8.0,3.0,20.0
+school u,0728ef3001,Sidonio,2ec2d74ac1,,50.0,6.0,0.0,0.0,13.0,7.0,47.0
+school w,5dfcf9ef1f,Steven,83a8e2887d,,80.0,33.0,56.0,19.0,10.0,8.0,38.0
+school u,3036230609,Syleena,ca4e790f05,,25.0,31.0,22.0,6.0,14.0,1.0,8.0
+school t,7506e51284,Tacy,63b32823fe,,37.0,18.0,12.0,2.0,4.0,0.0,0.0
+school y,e9d8ab39e2,Thomas,3bd3bd7bfc,,20.0,26.0,16.0,4.0,0.0,2.0,20.0
+school u,3f104a39b5,Thomaz,6965af8f27,,24.0,6.0,0.0,0.0,4.0,0.0,0.0
+school u,ed8e119df5,Victoria,7a7790f441,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school w,54e75fa975,Victoria,891f94175f,,12.0,0.0,11.0,2.0,0.0,0.0,0.0
+school x,905115ff1f,Vilma,fafe46c93a,,13.0,19.0,3.0,0.0,3.0,0.0,0.0
+school u,a17d8c31af,Violet,93542439bb,,73.0,44.0,44.0,13.0,6.0,6.0,32.0
+school u,13166b63aa,Violette,9d1384656d,,48.0,44.0,37.0,2.0,5.0,2.0,10.0
+school y,69f6895099,Visarl,0b4c5a0b3a,,46.0,29.0,54.0,15.0,10.0,14.0,61.0
+school u,35486a453f,Vitor,869bd2133d,,15.0,19.0,3.0,0.0,0.0,0.0,0.0
+school u,666f6e373b,Walter,20cd39f7f7,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,8b6fb8ba8b,Wilniely,5735f9e2e4,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+school u,d0b306ab23,Xandriel,c5e3bdf02b,,24.0,21.0,0.0,0.0,5.0,2.0,11.0
+school u,feab60f232,Za' Ryah,2c8c76b678,,30.0,0.0,0.0,0.0,0.0,0.0,0.0
+school y,4b33dde256,Zaviahn,1851291523,,19.0,36.0,25.0,2.0,0.0,0.0,0.0
+school u,8b7f372ba2,Zaviana,973c53c781,,56.0,38.0,39.0,6.0,11.0,7.0,47.0
+school t,f3b72214b1,Zayne,b8510bac28,,33.0,24.0,15.0,2.0,3.0,3.0,27.0
+school x,0d5adda3cd,Zayshawn,e5bee5009a,,23.0,31.0,22.0,4.0,3.0,0.0,0.0
+school u,fe16a94194,Zyla,b0751e28a2,,26.0,15.0,12.0,0.0,3.0,0.0,0.0
+school a,fb297e55ca,Anaila,,1,56.0,60.0,32.0,5.0,13.0,18.0,64.0
+school a,538bd9fa45,Donna,,1,42.0,53.0,32.0,6.0,10.0,20.0,51.0
+school a,e0680d469e,Travis,,1,13.0,44.0,12.0,0.0,0.0,0.0,0.0
+school a,441c271fb9,Amira,,1,45.0,20.0,28.0,5.0,9.0,3.0,19.0
+school a,5e8298a368,Easton,,1,21.0,36.0,32.0,0.0,8.0,10.0,50.0
+school a,4afbdd6002,Logan,,1,65.0,60.0,29.0,1.0,14.0,16.0,55.0
+school a,ebaf2e95e7,Prezdon,,1,27.0,31.0,7.0,1.0,2.0,0.0,0.0
+school a,ebaf2e95e7,Pryce,,1,23.0,22.0,9.0,0.0,0.0,0.0,0.0
+school a,e82772c18e,Olivia,,1,23.0,14.0,20.0,3.0,5.0,13.0,59.0
+school a,85be55cdb3,Alexa,,1,50.0,38.0,26.0,9.0,12.0,9.0,47.0
+school a,5ef43215c7,Markkus,,1,50.0,52.0,78.0,21.0,31.0,53.0,96.0
+school a,56d3e80582,Zachary,,1,32.0,47.0,21.0,0.0,9.0,11.0,58.0
+school a,01274ba902,William,,1,24.0,40.0,12.0,0.0,1.0,0.0,0.0
+school a,deca4cbd27,Arlo,,1,45.0,31.0,39.0,10.0,20.0,34.0,89.0
+school a,9345a35a6f,Levi,,1,24.0,0.0,4.0,0.0,0.0,0.0,0.0
+school a,84c0d88849,Zander,,1,38.0,59.0,36.0,0.0,5.0,1.0,6.0
+school a,17d9519541,Ava,,1,22.0,28.0,13.0,0.0,0.0,0.0,0.0
+school a,92ad470c72,Elizabeth,,1,46.0,46.0,82.0,26.0,30.0,36.0,95.0
+school a,a98aa52632,Aurora,,1,46.0,64.0,34.0,8.0,6.0,6.0,38.0
+school a,58297a1e22,Hadlee,,1,46.0,58.0,54.0,8.0,12.0,12.0,50.0
+school a,76364d81ab,Ari,,1,40.0,28.0,24.0,6.0,7.0,5.0,50.0
+school a,49f20ca08d,Everly,,1,26.0,43.0,23.0,0.0,9.0,5.0,17.0
+school a,52d7d8604b,Charles,,1,74.0,50.0,31.0,8.0,13.0,14.0,54.0
+school a,402ccfacd7,Charlotte,,1,68.0,56.0,82.0,27.0,54.0,75.0,97.0
+school a,dd4456b7eb,Emily,,1,50.0,52.0,51.0,16.0,16.0,29.0,66.0
+school a,56b415c9c5,Brogan,,1,65.0,35.0,74.0,25.0,28.0,52.0,95.0
+school a,6cc8fad985,Nikolina,,1,28.0,33.0,28.0,8.0,5.0,0.0,0.0
+school a,7780a85eca,Antonio,,1,70.0,0.0,55.0,15.0,15.0,16.0,80.0
+school a,a76dc443f6,Emma,,1,27.0,38.0,12.0,1.0,2.0,9.0,47.0
+school a,323e7ecf5e,Nora,,1,34.0,37.0,42.0,9.0,25.0,42.0,93.0
+school a,594d4d8648,Alejandra,,1,40.0,51.0,27.0,7.0,7.0,5.0,31.0
+school a,6562cac62f,Joseph,,1,55.0,27.0,50.0,12.0,24.0,40.0,91.0
+school a,7a67c6de12,Crysbel,,1,34.0,41.0,24.0,6.0,9.0,1.0,10.0
+school a,dc0bd6d44e,Gage,,1,38.0,36.0,29.0,0.0,13.0,9.0,47.0
+school a,5f7953f7c9,Madyson,,1,66.0,46.0,53.0,0.0,12.0,12.0,48.0
+school a,6bbdec7b4e,Bentley,,1,58.0,32.0,49.0,0.0,8.0,6.0,26.0
+school a,6bbdec7b4e,Carsen,,1,75.0,30.0,152.0,44.0,50.0,82.0,86.0
+school a,ed5db9ba1a,Juliette,,1,37.0,50.0,27.0,6.0,9.0,8.0,42.0
+school a,0b587f1365,Alana,,1,39.0,40.0,27.0,7.0,10.0,1.0,11.0
+school a,c3572ef3b4,Penelope,,1,36.0,35.0,35.0,8.0,6.0,10.0,33.0
+school a,c0fe14bc4f,John,,1,47.0,32.0,21.0,0.0,4.0,3.0,20.0
+school a,0a7bd0e0cd,Elloise,,1,60.0,65.0,55.0,18.0,8.0,7.0,29.0
+school a,8373fbb338,Lincoln,,1,53.0,69.0,40.0,6.0,7.0,9.0,47.0
+school a,9f1d955d64,Andrew,,1,48.0,35.0,65.0,21.0,47.0,85.0,100.0
+school a,9152b08933,Gwendolyn,,1,41.0,42.0,42.0,6.0,23.0,40.0,91.0
+school a,0857c7a77b,Jacob,,1,61.0,33.0,28.0,8.0,16.0,24.0,73.0
+school a,21a586cf12,Nelly,,1,24.0,6.0,11.0,0.0,0.0,0.0,0.0
+school a,7fe5df9cac,Declan,,1,66.0,55.0,97.0,29.0,58.0,83.0,97.0
+school a,4e1d92a200,Aurora,,1,35.0,47.0,35.0,0.0,10.0,5.0,31.0
+school a,5dfcf9ef1f,Lily,,1,30.0,48.0,23.0,2.0,3.0,2.0,20.0
+school a,4f39008637,Gavyn,,1,46.0,35.0,59.0,20.0,36.0,52.0,95.0
+school a,fb7961d139,Rhys,,1,49.0,45.0,29.0,6.0,28.0,45.0,96.0
+school a,b26775addb,Ivelisse,,2,,,,,,,
+school a,2c398f68ee,Skylar,,2,,,,,,,
+school a,71a1f72296,Jackson,,2,,,,,,,
+school a,0b802ee61d,Emmalee,,2,,,,,,,
+school a,17d9519541,Brody,,2,,,,,,,
+school a,3deeb22d6f,Kaylee,,2,,,,,,,
+school a,192f586701,Elizabeth,,2,,,,,,,
+school a,bc85feb4e1,Joshua,,2,,,,,,,
+school a,de2fdcc258,Julius,,2,,,,,,,
+school a,7e844bf10d,Emilie,,2,,,,,,,
+school a,666f6e373b,Gloria,,2,,,,,,,
+school a,1c066111ec,Emma,,2,,,,,,,
+school a,b3f952e8b6,Addison,,2,,,,,,,
+school a,5fae619efd,Emma,,2,,,,,,,
+school a,1cdcfc3885,Adrian,,2,,,,,,,
+school a,1cdcfc3885,Othneil,,2,,,,,,,
+school a,a1dd014bbf,Scott,,2,,,,,,,
+school a,4e1d92a200,Lukas,,2,,,,,,,
+school a,f82988bd76,Kaidyn,,3,,,,,,,
+school a,a29e3919cc,Titan,,3,,,,,,,
+school a,baa4941d57,Sofia,,3,,,,,,,
+school a,80c3a7abf0,Camryn,,3,,,,,,,
+school a,6cc8fad985,Aleksandar,,3,,,,,,,
+school a,5cf302ff4a,Landon,,3,,,,,,,
+school a,5273405ce9,Dianychua,,3,,,,,,,
+school a,cb7f704d60,Remmi,,2,,,,,,,
+school a,aa79539ef1,Dani,,3,,,,,,,
+school a,379dbafbfb,Ollie-Rose,,3,,,,,,,
+school a,c918eb6acc,Maren,,3,,,,,,,
+school c,b9d4754980,Aolani,4a4cb86092,1,5.0,29.0,14.0,0.0,0.0,0.0,0.0
+school c,db199d768f,Antonny,c70c47efce,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+school c,0247059871,Brynnley,3a72449a02,1,33.0,5.0,10.0,0.0,0.0,0.0,0.0
+school c,5c31c6e29a,Aisha,af8b30b13d,1,27.0,38.0,16.0,0.0,3.0,0.0,0.0
+school c,95c0233050,Julian,6215ec0f99,1,60.0,41.0,47.0,7.0,18.0,21.0,81.0
+school c,19b3b12d89,Piper,c34a4a2315,1,29.0,38.0,31.0,1.0,3.0,1.0,10.0
+school c,46cdb338fa,Olive,3e06e01c98,1,26.0,26.0,27.0,5.0,3.0,5.0,63.0
+school c,b36b03292f,Noah,069df3defa,1,25.0,11.0,14.0,1.0,4.0,1.0,13.0
+school c,ed29dbbcf5,Noelle,f6851bd71d,1,41.0,47.0,45.0,9.0,8.0,4.0,27.0
+school c,f923b6cbd0,John,5243a81d61,1,,,,,,,
+school c,cf5445e943,Lydia,78b9e806ff,1,61.0,32.0,20.0,2.0,16.0,28.0,78.0
+school c,bbc36cb5c1,Parker,9e43e08549,1,31.0,51.0,39.0,0.0,10.0,5.0,21.0
+school c,adae8d8d41,Abbey,9712093526,1,66.0,49.0,59.0,20.0,49.0,71.0,99.0
+school c,ed26b0c2aa,Montgomery,c745a35d57,1,36.0,8.0,16.0,0.0,3.0,4.0,31.0
+school c,daee616cde,Athar,34b1425dec,1,9.0,15.0,11.0,1.0,4.0,0.0,0.0
+school c,ee4a862d9e,Jessica,c2328bedcd,1,8.0,0.0,0.0,0.0,0.0,9.0,50.0
+school c,ea0f1efc4e,Igor,64d0d72a8e,1,2.0,7.0,3.0,0.0,0.0,0.0,0.0
+school c,6f07bba02f,Beckett,9ec23db4f6,1,39.0,18.0,15.0,1.0,6.0,3.0,23.0
+school c,9ecaa33823,Juliana,dd5412eee1,1,61.0,60.0,43.0,12.0,14.0,14.0,50.0
+school c,2e40e51691,Sophia,f829efa5a9,1,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+school c,5d422d0acb,Olivia,bfd898f4b8,1,34.0,34.0,19.0,0.0,5.0,3.0,38.0
+school c,a4d7882d5c,Andrea,bf07f1ae3c,1,60.0,47.0,58.0,19.0,59.0,109.0,100.0
+school c,3ff53b6894,Edgardo,47288e7696,1,29.0,24.0,16.0,1.0,1.0,1.0,17.0
+school c,af666c6e38,Cali,8d82c99f55,1,6.0,4.0,0.0,2.0,0.0,0.0,0.0
+school c,e45b78377c,Nelly,6819b4ad9d,1,13.0,0.0,0.0,0.0,1.0,1.0,10.0
+school c,5e9374c2d0,Ilona,42f240b509,1,67.0,51.0,46.0,10.0,18.0,19.0,63.0
+school c,286739fc31,Tucker,33da4842a8,1,43.0,45.0,52.0,17.0,20.0,33.0,87.0
+school c,c987ec2253,Leighann,4835999582,1,28.0,40.0,20.0,1.0,7.0,10.0,83.0
+school c,12a34df63a,Grant,6bb5b362ff,1,32.0,35.0,14.0,1.0,2.0,0.0,0.0
+school c,d73a4d9b78,Scarlett,4be3a761f5,1,29.0,35.0,16.0,1.0,3.0,4.0,25.0
+school c,4a606759a0,Emerson,73133ff082,1,38.0,33.0,53.0,17.0,15.0,14.0,74.0
+school c,49e409a7b4,Ellie,a39dc225f3,1,34.0,48.0,38.0,0.0,0.0,3.0,25.0
+school c,6ec6f93592,Nazar,832ef7c919,1,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+school c,4e8bbf3a2b,Owen,f2516277d2,1,33.0,37.0,16.0,0.0,2.0,1.0,10.0
+school c,6ec4365f03,Emory,e9213e1328,1,44.0,45.0,26.0,5.0,11.0,9.0,43.0
+school c,f4c663ee75,Samuil,7a071b145d,1,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+school c,8ecaf4d057,Sajed,dc0ee3c00b,1,26.0,9.0,22.0,0.0,1.0,0.0,0.0
+school c,00a1fb1965,Charles,38e6003d04,1,32.0,40.0,21.0,4.0,5.0,3.0,21.0
+school c,81ae72e92d,Isabella,6babd37a11,1,28.0,56.0,15.0,2.0,1.0,0.0,0.0
+school c,b478793ef0,Emily,b6f3bcce04,1,42.0,45.0,21.0,4.0,6.0,2.0,18.0
+school c,ae19807de6,Harper,f389dc5f1a,1,33.0,35.0,28.0,8.0,9.0,0.0,0.0
+school c,2aae3901d8,Jon,cf46a647fa,1,27.0,28.0,13.0,2.0,3.0,3.0,25.0
+school c,f05cb1060c,Zacharias,5ee637a8bd,1,13.0,52.0,14.0,0.0,0.0,1.0,11.0
+school c,8425487e24,Shayan,3dd0232bad,1,47.0,33.0,31.0,2.0,10.0,17.0,74.0
+school c,4b36ae830c,Olivia,0f111e02eb,1,33.0,24.0,10.0,0.0,8.0,3.0,20.0
+school c,503046646e,Damian,0a0c2f2804,1,37.0,36.0,36.0,3.0,18.0,53.0,91.0
+school c,74f7d67538,Valeria,f9fbc38b23,1,13.0,6.0,0.0,0.0,0.0,0.0,0.0
+school c,c0583ed96a,Mason,fd06931c8d,1,56.0,40.0,56.0,1.0,8.0,6.0,55.0
+school c,04c513f6b3,Zachary,3be187a8b3,1,33.0,38.0,17.0,2.0,4.0,1.0,10.0
+school c,e8b6123566,Nicholas,f944d31c3e,1,32.0,19.0,17.0,2.0,5.0,5.0,45.0
+school c,04977b9995,Legend,4fed71c7c9,1,48.0,42.0,29.0,1.0,13.0,10.0,50.0
+school c,b46391b21f,Tyler,be150a89ea,1,37.0,34.0,21.0,2.0,10.0,11.0,58.0
+school c,a2f2cea9b7,Sara,897107235c,1,10.0,10.0,3.0,0.0,1.0,0.0,0.0
+school c,e62cbccc15,Oliver,e9c88e3012,1,56.0,41.0,140.0,43.0,81.0,109.0,100.0
+school c,1f85072f85,Aiden,80ec2c5ca2,2,,,,,,,
+school c,a601f0980b,David,a473454d6d,2,,,,,,,
+school c,6cd2c16172,Carter,b22296dbc6,2,,,,,,,
+school c,913a451ad8,Kenzie,bc340e5e1b,2,,,,,,,
+school c,b36b03292f,Willow,1b3a11e6e2,2,,,,,,,
+school c,e2120ffdc0,Charlotte,3e429fca7b,2,,,,,,,
+school c,3e778d5f0b,Agnes,a10de8746e,2,,,,,,,
+school c,9e30e2ab9a,Saina,bdf1d8cf84,2,,,,,,,
+school c,eda0bbe038,Nora,250e0804d7,2,,,,,,,
+school c,d45a7a7607,Nevaeh,ff82485ce0,2,,,,,,,
+school c,e0b379484a,Riley,98f98501b8,2,,,,,,,
+school c,c625ca5741,Andre,72f22b4322,2,,,,,,,
+school c,dc7a03ad2f,Milana,aab7e02270,2,,,,,,,
+school c,2a437618b6,Declan,31ec93c3c1,2,,,,,,,
+school c,a81c4af372,Paislee,8c6113650a,2,,,,,,,
+school c,696f977f1e,Illia,caa940e12d,2,,,,,,,
+school c,503046646e,Jayce,11265b5e75,2,,,,,,,
+school c,7c8c32faff,Daisy,647c8ea470,2,,,,,,,
+school c,b0939e627c,Pavlo,d0bad86e78,2,,,,,,,
+school c,eddc31973b,Autumn,48a8b53627,2,,,,,,,
+school c,ad725ee97c,Aleksandra,8bbf4aefbf,2,,,,,,,
+school c,44a2ff61a6,Andrea,f4eeae932c,2,,,,,,,
+school c,a2f2cea9b7,Miron,cd82f79c0f,2,,,,,,,
+school c,a3272ad646,Jake,f444eebe01,2,,,,,,,
+school c,38d8aae324,Elyse,bc54af9a2d,2,,,,,,,
+school c,5dc90ed24a,Saleh,2cd6022883,3,,,,,,,
+school c,109c5ac9bd,Owen,d18dbddbf4,3,,,,,,,
+school c,95e0dae680,Ava,020a8bea1a,3,,,,,,,
+school c,70e6c147d9,Bella Lou,46fda254b3,3,,,,,,,
+school c,cd8987450a,Maxim,240cc781f5,3,,,,,,,
+school c,6be4877e1e,Adalynn,095995aff9,3,,,,,,,
+school c,49c68c799e,Aubree,45517d43dc,3,,,,,,,
+school c,b41ec79f17,Olivia,1338221e33,3,,,,,,,
+school c,528d893c72,Diego,ea209997b0,3,,,,,,,
+school c,f923b6cbd0,Bradley,60dddd8178,3,,,,,,,
+school c,4569f25ace,Lexie,aaea6d44ab,3,,,,,,,
+school c,ea0f1efc4e,Villi,34c9fb22f0,3,,,,,,,
+school c,0f6560271c,Collin,30e0fa81aa,3,,,,,,,
+school c,0f6560271c,Kyle,39d90df44f,3,,,,,,,
+school c,e45b78377c,Rebecca,a89bf4fd2d,3,,,,,,,
+school c,ac243a3625,Aidan,13aa0b1291,3,,,,,,,
+school c,a4cfd18673,Zarina,d42e7ae565,3,,,,,,,
+school c,d0f19c42bc,Samuel,3bad52a905,3,,,,,,,
+school c,696f977f1e,Anna,98f2dc5084,3,,,,,,,
+school c,abeb9e85ce,Andrey,ea6b7ed733,3,,,,,,,
+school c,da78539590,Silas,c77c29edb0,3,,,,,,,
+school c,f0ed91f804,Shahara,595ad4193e,3,,,,,,,
+school c,1a29709c47,Leviany,7b78169671,3,,,,,,,
+school c,89a612c626,Aiden,07f490e1ad,3,,,,,,,
+school c,7c8c32faff,Aiden,e15c5d998c,3,,,,,,,
+school c,99c42a1c08,Thomas,94c2fce977,3,,,,,,,
+school c,0ab1f19eff,Jessica,3a634a5e1c,3,,,,,,,
+school c,22af0976f8,Kailyanna,f2f6cb4582,3,,,,,,,
+school c,e17db71c1c,Matthew,f0b903f1ef,3,,,,,,,
+school c,73fcb12002,Daryna,ed51ae998e,3,,,,,,,
+school c,abceaa6a50,Luis,70b65cf8ea,3,,,,,,,
+school c,38d8aae324,Wyatt,4b2d006718,3,,,,,,,
+school c,6e8d8801f5,Eleanora,e097db9b12,3,,,,,,,
+school d,b869080b4b,Dana,6d5bfdf126,1,27.0,22.0,20.0,0.0,1.0,0.0,0.0
+school d,1670f01479,Madalynn,14af168a49,1,23.0,38.0,15.0,3.0,4.0,0.0,0.0
+school d,b7030e6e37,Brinn,75804ab586,1,33.0,28.0,17.0,0.0,5.0,0.0,0.0
+school d,2f2781e5ab,Cory,3544e09066,1,67.0,35.0,48.0,10.0,18.0,33.0,92.0
+school d,26242490d1,Julian,e6424e17ff,1,20.0,36.0,2.0,0.0,4.0,0.0,0.0
+school d,c1c6ffa678,Stella,7a7f20734e,1,38.0,52.0,39.0,4.0,9.0,15.0,60.0
+school d,18551e3a72,Josie,829a4ee394,1,47.0,31.0,26.0,12.0,9.0,9.0,53.0
+school d,26c2deb000,Mia,2175e71dfa,1,17.0,11.0,20.0,0.0,3.0,0.0,0.0
+school d,25bc5f6ae8,Sawyer,9418d941f9,1,32.0,35.0,31.0,9.0,7.0,9.0,64.0
+school d,8239b8e6e8,Nora,c83722b267,1,39.0,38.0,12.0,1.0,2.0,1.0,13.0
+school d,bd00eaf983,Davyd,2dd3f974c1,1,38.0,28.0,21.0,7.0,5.0,3.0,33.0
+school d,ad210539d7,Brady,854bb1ad54,1,34.0,0.0,24.0,0.0,13.0,7.0,41.0
+school d,a3e41cea5b,Julia,07ec74e31d,1,49.0,12.0,32.0,0.0,20.0,24.0,80.0
+school d,a0e95c9500,Angela,be4914be16,1,36.0,17.0,12.0,0.0,6.0,9.0,69.0
+school d,ff4dfcfdcd,Adham,8a52b57b3d,1,43.0,41.0,27.0,5.0,0.0,0.0,0.0
+school d,26f9d301e5,Riley,17eccac5d0,1,26.0,8.0,15.0,0.0,1.0,0.0,0.0
+school d,db266427ac,Elijah,ec0e60a4b2,1,23.0,29.0,14.0,2.0,3.0,3.0,38.0
+school d,8fcadfe9c3,Penelope,e2703aeb3a,1,37.0,2.0,21.0,2.0,11.0,1.0,13.0
+school d,bd9b2126cc,Genesis,b9fa1e627d,1,24.0,13.0,24.0,0.0,7.0,0.0,0.0
+school d,ce2b452061,Victoria,4981b95d7e,1,23.0,25.0,17.0,5.0,5.0,0.0,0.0
+school d,ba9f22f076,Mia,3f546902cb,1,33.0,36.0,23.0,5.0,7.0,4.0,31.0
+school d,ffb4021588,Laylah,36f346c0ac,1,31.0,32.0,17.0,0.0,6.0,1.0,10.0
+school d,ee2aba4ba0,Ian,48a44b011f,1,59.0,47.0,37.0,11.0,16.0,15.0,75.0
+school d,1506384d1e,Zaiden,08c54d113f,1,26.0,15.0,19.0,2.0,4.0,0.0,0.0
+school d,d64828312a,Eli,8d7fd54f9e,1,22.0,26.0,7.0,1.0,2.0,0.0,0.0
+school d,6d2a6b3776,Erica,026a1ca64a,1,36.0,47.0,29.0,10.0,5.0,1.0,11.0
+school d,11062f0139,Roaa,133977592e,1,34.0,29.0,19.0,3.0,7.0,5.0,56.0
+school d,41a6048dc5,Nora,6bc3eae101,1,38.0,23.0,29.0,7.0,7.0,8.0,47.0
+school d,15960bf50e,Kash,a397400575,1,50.0,35.0,44.0,15.0,15.0,22.0,81.0
+school d,405592fdc1,Karina,eead4c5e93,1,9.0,42.0,13.0,0.0,1.0,0.0,0.0
+school d,26e10b743f,Harper,63b48e3a1c,2,,,,,,,
+school d,55af0f7137,Madison,55a89ae1ff,2,,,,,,,
+school d,0e93a07416,Jack,cf718b627d,2,,,,,,,
+school d,8e80b2b4b2,Caprica,bfc1aaacd9,2,,,,,,,
+school d,8fc49a3769,Easton,84956d17c4,2,,,,,,,
+school d,489960608a,Logan,51a2855d02,2,,,,,,,
+school d,62216044fd,Miles,2951152e7b,2,,,,,,,
+school d,5a62c150cc,Christian,4e5e01f2a5,2,,,,,,,
+school d,b7a26f36ec,Emily,4ba47d20d2,2,,,,,,,
+school d,c1c6ffa678,Beau,ecc8af53e4,2,,,,,,,
+school d,5b58033448,Lexi,97b3e1996c,2,,,,,,,
+school d,0ab9df3339,Luke,ea2e19697b,2,,,,,,,
+school d,adae8d8d41,Carmello,55f89f9a83,2,,,,,,,
+school d,b7285c1958,Rima,a02f2878a8,2,,,,,,,
+school d,e41319acc0,Jazmin,dcc5f8c7ca,2,,,,,,,
+school d,4f70b12c5f,Korra,aec3f3093a,2,,,,,,,
+school d,80942c291f,Madelynn,55de0fa076,2,,,,,,,
+school d,f273c1b56f,Ava,6d781f2885,2,,,,,,,
+school d,a3a7e7773e,James,4051578bc2,2,,,,,,,
+school d,b96c291b94,Filipp,20b6088a5d,2,,,,,,,
+school d,dac8f923b0,Emil,34b3e09894,2,,,,,,,
+school d,840d248e49,Ivan,c77f63e969,2,,,,,,,
+school d,b203e076db,Zachary,e18ab771d7,2,,,,,,,
+school d,2a536b95f2,Ernest,96a0f94718,2,,,,,,,
+school d,3036230609,Edison,139dd13a57,2,,,,,,,
+school d,c98b8bfa95,Milana,0e70c29b5f,2,,,,,,,
+school d,8e80b2b4b2,Edward,91b27bb176,3,,,,,,,
+school d,fd4cfe2d08,Maddison,ecc773f2fa,3,,,,,,,
+school d,6dfc9df04d,Illia,0cf8e918bf,3,,,,,,,
+school d,5940417cd9,Rory,ddbaa7b221,3,,,,,,,
+school d,0ec4784558,Layton,6188724aa5,3,,,,,,,
+school d,ad210539d7,Peter,40778417ed,3,,,,,,,
+school d,ef494ad1a5,Daniil,a75997fc45,3,,,,,,,
+school d,cae869e60d,Samuel,6e9ef15377,3,,,,,,,
+school d,e74a08ccfc,Karyna,079a1c8b15,3,,,,,,,
+school d,59187183d6,Andrew,3073e1eecc,3,,,,,,,
+school d,0de8298587,Ariella,afd634ea17,3,,,,,,,
+school d,9b99007095,Matvii,932ac17e13,3,,,,,,,
+school d,00cc37616f,Zlata,dd687616dc,3,,,,,,,
+school d,0f9332a284,Ahmed,5d4599b113,3,,,,,,,
+school d,1506384d1e,Lucas,2e8914b9c9,3,,,,,,,
+school d,dc700b1ce6,Anastasia,4081177648,3,,,,,,,
+,c5edc60b45,Afthi,60288b825d,1,28.0,28.0,23.0,,1.0,10.0,50.0
+,c0583ed96a,Andre,60a21d1320,1,28.0,39.0,1.0,,0.0,,
+,798cc0f0ce,Annabella,48898e3cf6,1,16.0,34.0,8.0,,0.0,,
+,5bddcd521d,Ava,d66999dd2f,1,12.0,10.0,0.0,,0.0,,
+,c1b36dbdc5,Bellagrace,1163a2cf75,1,11.0,11.0,13.0,,0.0,1.0,11.0
+,4cfd29756c,Brynley,c026ddfc9a,1,52.0,44.0,25.0,,0.0,6.0,32.0
+,8ec195e100,Cevienne,aa6b1a4773,1,54.0,23.0,39.0,,0.0,11.0,69.0
+,0c604e57db,Christopher,85ac17c077,1,29.0,24.0,38.0,,6.0,84.0,93.0
+,75d03b6d7f,Christopher,e56009001a,1,25.0,8.0,27.0,,3.0,13.0,46.0
+,6acfd7da05,Elias,ea98fe0117,1,44.0,33.0,90.0,,24.0,71.0,97.0
+,1cdcfc3885,Elijah,5a90ceb6f4,1,57.0,15.0,29.0,,3.0,2.0,100.0
+,76df69fa9d,Emiliah,9434e9beda,1,29.0,29.0,25.0,,8.0,3.0,33.0
+,666f6e373b,Ezra,1d2e9e4197,1,24.0,0.0,3.0,,0.0,,
+,3036230609,Flor,b154ad1016,1,19.0,0.0,15.0,,0.0,,
+,503046646e,Isaiah,0b5f3a0b42,1,13.0,2.0,0.0,,0.0,,
+,007bdeb0d5,Ja Realiz,142665500e,1,1.0,18.0,0.0,,0.0,,
+,50e9c7c3b3,Jack,082ba818a6,1,44.0,34.0,15.0,,0.0,,
+,746fb1fcc6,Keishla,b8aff4a077,1,10.0,28.0,0.0,,0.0,,
+,95c5dd81e1,Kenneth,64aa877641,1,38.0,15.0,5.0,,0.0,,
+,ddc7d88726,Lacey,a2cc94a1b1,1,26.0,27.0,8.0,,0.0,,
+,2eeddc64c3,Lucas,e6cb6885e1,1,38.0,4.0,3.0,,0.0,,
+,1670f01479,Lucy,7f17707a3f,1,27.0,30.0,18.0,,2.0,5.0,38.0
+,5158290fc9,Marlene,94d9035e7a,1,30.0,34.0,10.0,,0.0,,
+,2f586d2da7,Sabiel,30f0db0ec3,1,13.0,0.0,4.0,,0.0,,
+,c77a077091,Sarah,c0e7ae5538,1,58.0,55.0,54.0,,9.0,56.0,95.0
+,c56a5eae27,Lilyen,4c7772f394,2,,,,,,,
+,7570c97c73,Lucas,78a33c1034,2,,,,,,,
+,59479852be,Yulivette,d60ba69cee,2,,,,,,,
+,f82988bd76,Jameson,d5dfd8b80b,2,,,,,,,
+,a9a7625ee4,Precious,f6f3cb97ad,2,,,,,,,
+,d982f029f5,Joan,24a4222fe9,2,,,,,,,
+,348b7c3337,Zion,388b384f90,2,,,,,,,
+,582ee86550,Zyaire,8821f3ca09,2,,,,,,,
+,e139ba6d17,Zaylees,1603e7b91a,2,,,,,,,
+,95c5dd81e1,Evan,e4977ec7a7,2,,,,,,,
+,55a0328214,Gabriel,0105bab3b1,2,,,,,,,
+,2d1a918470,Maicey,41a4b81ce7,2,,,,,,,
+,00de398a2a,Gabriella,bbeb726af5,2,,,,,,,
+,cc936551c1,Milo,dcc2099524,2,,,,,,,
+,d6f1c25b9f,Jacob,3096b6eaec,2,,,,,,,
+,0f07945c67,Kaden,fe38b9d4ee,2,,,,,,,
+,1501fe1401,Karina,24635035a2,2,,,,,,,
+,503046646e,Legend,fe5a475387,2,,,,,,,
+,4781fec75d,Jordan,767c5710a5,2,,,,,,,
+,9f54259010,Jonathan,c27b662bd3,2,,,,,,,
+,56668d2d44,Elena,72b5c7263e,2,,,,,,,
+,97e7a4aec2,Thakur,9ca14710c1,2,,,,,,,
+,6925bea85a,Treyton,0291b0ba0b,2,,,,,,,
+,9dd35bffac,Cyarahlee,2fa5e7b685,2,,,,,,,
+,3495e75785,Javian,402c1e4924,2,,,,,,,
+,7ac02ec1c8,Mattie,18524ef2a9,3,,,,,,,
+,e49b78df2b,Benjamin,e6375cf968,3,,,,,,,
+,ba3a1a184c,Serhani,a959a70af8,3,,,,,,,
+,8984fa0396,Abigail,d0519e3d2e,3,,,,,,,
+,683313d690,Lexy,f610c36608,3,,,,,,,
+,0cbc88c4b1,Mishal,b8b7f60b48,3,,,,,,,
+,2a0d03c609,Skyla,177d6be07b,3,,,,,,,
+,daa15bbce5,Amelia,75c86438bb,3,,,,,,,
+,4e5dab4858,Nickolai,60e48f5a48,3,,,,,,,
+,e6c3e88300,Noah,9462576fc2,3,,,,,,,
+,fdce276852,Malani,e0eb126f4e,3,,,,,,,
+,fdce276852,Zoey,ef7f7dd697,3,,,,,,,
+,93c91c851e,Zaniyah,173e2eb881,3,,,,,,,
+,7f36df0b52,Cruz,242a2ea311,3,,,,,,,
+,07b5806c17,Sophia,6e78712ebd,3,,,,,,,
+,92e6572ac6,Keyla,43912e56fa,3,,,,,,,
+,24d64469c9,Braydon,f68b19cbff,3,,,,,,,
+,3dec87ba0a,Kiyah,270a2e3845,3,,,,,,,
+school f,3bfd1382da,Mason,39b41f2981,1,46.0,50.0,27.0,4.0,8.0,6.0,40.0
+school f,cdb2e5d6bb,Nicole,db6d49c226,1,34.0,33.0,24.0,4.0,8.0,13.0,27.0
+school f,3904a4c029,Joel,b2d0e44096,1,17.0,0.0,0.0,0.0,0.0,1.0,8.0
+school f,7e3a63faee,Grayson,d2699c43e4,1,27.0,16.0,17.0,0.0,4.0,0.0,0.0
+school f,bf05cf05f4,Sergio,219bbc49c0,1,36.0,11.0,0.0,0.0,3.0,1.0,8.0
+school f,1d454bcd72,Nadiya,58a4f5fa43,1,32.0,23.0,24.0,0.0,6.0,12.0,86.0
+school f,c153d60ae2,Daisy,ceef0e479e,1,44.0,46.0,30.0,0.0,9.0,7.0,44.0
+school f,42da431f08,Lilith,55bc9edee9,1,51.0,39.0,61.0,20.0,26.0,38.0,90.0
+school f,2c3aaefea8,Noah,93f4bb9127,1,37.0,13.0,16.0,1.0,15.0,14.0,64.0
+school f,6bb938829a,Audrey,0c325bf0bf,1,57.0,56.0,42.0,13.0,6.0,0.0,0.0
+school f,cb1ab5d8ae,Kenneth,63fe676e42,1,39.0,26.0,21.0,6.0,5.0,1.0,11.0
+school f,f44378c252,Milana,543e28e323,1,15.0,17.0,0.0,0.0,2.0,0.0,0.0
+school f,295b32bf81,Brielle,289bdbc7c5,1,32.0,44.0,25.0,2.0,6.0,0.0,0.0
+school f,2d74c8f83b,Deegan,0c4aaa2696,1,18.0,19.0,12.0,2.0,1.0,1.0,10.0
+school f,da3e8706d0,Noah,4a30776167,1,17.0,35.0,15.0,3.0,4.0,0.0,0.0
+school f,fe38470718,Patrick,8d28b65fac,1,40.0,31.0,24.0,0.0,13.0,18.0,78.0
+school f,bce5faa726,Sydney,fe55e385c4,1,25.0,28.0,10.0,1.0,3.0,1.0,10.0
+school f,666f6e373b,Callie,6d1772e9ea,1,12.0,28.0,15.0,1.0,0.0,0.0,0.0
+school f,3036230609,Tia,49db655d10,1,37.0,15.0,10.0,2.0,6.0,0.0,0.0
+school f,95b0b3ab17,Skylar,48ec683e82,1,49.0,39.0,39.0,10.0,15.0,24.0,67.0
+school f,c8c0d08de7,Mylee,41d191a47e,1,28.0,44.0,24.0,5.0,4.0,0.0,0.0
+school f,c8c0d08de7,Annabelle,a898bfd95a,1,25.0,44.0,13.0,1.0,3.0,1.0,10.0
+school f,568cfef572,Lilly,971cf234f4,1,11.0,28.0,3.0,0.0,3.0,1.0,11.0
+school f,611b014fe5,Nolan,9cecb5039b,2,,,,,,,
+school f,ea9246ceea,Ava,05644926ce,2,,,,,,,
+school f,62d94b1ec9,Yunus,fea7bbfd70,2,,,,,,,
+school f,16ccb62fa8,Deniyah,6680c9b92c,2,,,,,,,
+school f,f24b52468b,Amani,e5cc3a1a07,2,,,,,,,
+school f,4144ffe5a8,Edis,61556deacc,2,,,,,,,
+school f,6bb48cc5c7,April,9331ff53f7,2,,,,,,,
+school f,b6d691d2fd,Jahir,94d6627f4e,2,,,,,,,
+school f,ff6e671b09,Rilynn,5e455d4c76,2,,,,,,,
+school f,0a6ad76c31,Jeff,385a990ca9,2,,,,,,,
+school f,0deb09fd7c,Avien,6f56a45d3a,3,,,,,,,
+school f,18f2855928,Grady,a3d66852e8,3,,,,,,,
+school f,eddd2a956b,Charlotte,86f7888956,3,,,,,,,
+school f,fe0010f8fb,Mila,a2f44f5195,3,,,,,,,
+school f,804510fc77,Dylan,ddd331cffe,3,,,,,,,
+school f,ca32c23c27,Sevyn,a61924abf9,3,,,,,,,
+school f,95c5dd81e1,Cindy,81257c76c3,3,,,,,,,
+school f,00a1fb1965,Ava,617a2e7b95,3,,,,,,,
+school f,d54b41d9aa,Bryan,04f7ac7bea,3,,,,,,,
+school f,df5ac68b2b,Emerson,3e263f6775,3,,,,,,,
+,760f5231a5,Timon,c129a58ebb,,20.0,0.0,2.0,0.0,0,0,0
+,2ac956eba6,Sofia,08c61a8ef7,,31.0,17.0,14.0,1.0,3,0,0
+,1c201bebb8,Owen,17b6aedcbf,,21.0,0.0,3.0,0.0,0,0,0
+,dfd9d8c679,Kenneth,6f0b566265,,30.0,22.0,26.0,0.0,0,0,0
+,5e2c2417dc,Engler (Yair),c5388efb6f,,7.0,0.0,0.0,0.0,1,0,0
+,75fbedb921,Edwin,f0c99f04db,,33.0,0.0,17.0,0.0,0,0,0
+,9fabe268ab,Charismel,52ef8f23fd,,10.0,4.0,5.0,0.0,0,0,0
+,5d63a958ad,Avyukt,59d9eb8da9,,27.0,13.0,18.0,3.0,3,0,0
+,cb6a8da411,Avett,f7330a2d96,,20.0,9.0,6.0,0.0,0,1,11
+,190dff5431,Arianna,fd7e5ef77d,,5.0,2.0,1.0,0.0,0,0,0
+,95cc7775dd,Marvin,f43002e411,,26.0,31.0,22.0,1.0,5,1,11
+,1f23687eeb,Mateo,2a1a698a19,,52.0,4.0,4.0,0.0,3,0,0
+,0c448dbcc5,Jendry,62de86c83e,,43.0,11.0,19.0,3.0,3,0,0
+,09343dc217,Issak,369851d2eb,,33.0,5.0,16.0,0.0,8,3,43
+,a4d10af003,Maryori,fbcb08c637,,15.0,9.0,3.0,0.0,3,0,0
+,181a8b4e49,Flynn,b2f9a31f1d,,42.0,16.0,26.0,4.0,9,3,21
+,579103af17,Alexis,1cd5b8db5b,,41.0,32.0,21.0,4.0,6,2,25
+,cddac95554,Joy,c16f3f3361,,68.0,47.0,58.0,16.0,18,42,95
+,9173d13498,Rayyan,b7ee63e31a,,46.0,30.0,28.0,8.0,16,20,74
+,2a6d82f0ef,Julian,24444238c6,,40.0,4.0,24.0,1.0,4,5,21
+,9345a35a6f,Adrienne,f8771a1d1b,,33.0,26.0,28.0,8.0,5,6,60
+,8c59b06f2d,Alisa,f543aa7f45,,36.0,48.0,81.0,27.0,32,59,97
+,2b712265f6,Uzair,efff38ac5d,,72.0,39.0,102.0,25.0,44,40,91
+,e20cc86f4b,Thomas ,82a2b15cee,,42.0,52.0,23.0,1.0,2,0,0
+,8cc7fa2ccf,Daniela,32b67d9917,,1.0,3.0,1.0,0.0,0,0,0
+,11a4f480c4,Queidi,a0c3b80b55,1,3.0,13.0,2.0,0.0,1,0,0.0
+,c230048ff5,Urania,f7994f7ce4,1,19.0,17.0,13.0,0.0,0,0,0.0
+,867254cb6e,David,4585ac1709,1,18.0,20.0,16.0,0.0,0,0,0.0
+,ad0b43f847,Alice,ece7eac273,1,34.0,15.0,22.0,4.0,6,2,0.22
+,caa6053601,Chase,0a1f8b287e,1,37.0,24.0,23.0,4.0,5,1,0.1
+,680ce38047,Annabelle,7604dc95a7,1,30.0,25.0,27.0,0.0,2,5,0.38
+,f3c19b4122,Elissa,8c451c36c9,1,52.0,40.0,34.0,8.0,7,1,0.09
+,1af18644d2,James,85202c1b5f,1,0.0,9.0,0.0,0.0,0,0,0.0
+,447b3eb5f3,Antony,1edebdfbaf,1,3.0,2.0,0.0,0.0,0,0,0.0
+,da72f78861,Eduar,fa6090f13b,1,6.0,6.0,0.0,0.0,1,0,0.0
+,a3c5b7890f,Ana,a44f07ad9a,1,4.0,10.0,12.0,0.0,1,0,0.0
+,f4cb0b3cef,Genesis,dae3181aa4,1,35.0,17.0,23.0,3.0,2,0,0.0
+,0e86c2f78d,Obed,80cef17d41,1,11.0,0.0,0.0,0.0,0,0,0.0
+,b395f97291,Jenai,7444c9293c,1,10.0,0.0,0.0,0.0,0,0,0.0
+,b8a49278b0,Karla,b015bfa10c,1,20.0,0.0,0.0,0.0,0,0,0.0
+,9bfa6396a8,Victoria,7a8d1a3ac9,1,30.0,20.0,0.0,0.0,0,0,0.0
+,adae8d8d41,Aramy,7b569d280d,1,22.0,1.0,17.0,0.0,0,0,0.0
+,6093b93902,Charles,1dd63777c2,1,20.0,32.0,14.0,0.0,2,1,0.09
+,77abccadcd,Brianna,4d2df38ff9,1,16.0,32.0,19.0,3.0,4,3,0.27
+,88a78b3d3b,Raymond,25b498e0f4,1,26.0,12.0,23.0,0.0,0,0,0.0
+,67a147e089,Noah,fa6db310a2,1,21.0,7.0,28.0,0.0,1,0,0.0
+,66b2961957,Walky Dawensley,e32d286ab1,1,0.0,0.0,0.0,0.0,0,0,0.0
+,4e8cedcb7d,Emerson,8c504ab331,1,0.0,0.0,0.0,0.0,0,0,0.0
+,f694a935d3,Aiker,84d5d985d4,1,26.0,0.0,0.0,0.0,4,0,0.0
+,fdce276852,Alexandra,8d043dd4cc,1,27.0,8.0,14.0,0.0,1,0,0.0
+,11ba7fdff1,Brianna,d9f2220391,1,26.0,26.0,18.0,0.0,12,7,0.44
+,c0d1647b34,Alex,e23e8d9f30,1,30.0,27.0,29.0,9.0,6,2,0.22
+,cd8c8fadf2,Umaimah,57873c8b08,1,36.0,6.0,14.0,0.0,0,0,0.0
+,9c340409bb,Aubrie,4070b5b4ff,1,30.0,51.0,11.0,0.0,2,0,0.0
+,a45909c9ff,Jacob,5df0cbda0b,1,10.0,11.0,4.0,0.0,0,0,0.0
+,f9ee0baa86,River,ba70f322e0,1,26.0,36.0,17.0,1.0,0,0,0.0
+,15fd337caa,Frida,4b14a9da61,1,46.0,40.0,42.0,12.0,12,11,0.55
+school i,2b86349d28,Jefferson,cae0149e2c,1,3.0,0.0,0.0,0.0,0,0,0
+school i,79d6ed22f4,Marvin,e9a52b139e,1,0.0,12.0,0.0,0.0,0,0,0
+school i,18ad04b544,Patricia,bded95378c,1,5.0,0.0,4.0,0.0,0,0,0
+school i,423aa92635,Maryori,317db6b650,1,22.0,0.0,0.0,0.0,0,0,0
+school i,cde6db20b3,Yexsiel,a997ed3bcd,1,17.0,0.0,8.0,1.0,1,0,0
+school i,f270752136,Mason,095fbb9b69,1,14.0,27.0,2.0,6.0,2,2,20
+school i,e9686ce4ba,Connor,37bc1854ac,1,13.0,10.0,11.0,0.0,1,4,27
+school i,44daf8c24f,Luzia,459e1cb423,1,13.0,69.0,13.0,0.0,0,0,0
+school i,6d9c356844,Amity,60355cc866,1,23.0,26.0,16.0,0.0,0,0,0
+school i,9fd03287ce,Vihaan,85425f6d7d,1,46.0,0.0,9.0,0.0,0,0,0
+school i,31d81280fa,Ayleen,77a4e07228,1,34.0,17.0,21.0,1.0,1,0,0
+school i,4f3f59e258,Juliana,4cc5808891,1,31.0,21.0,17.0,3.0,5,2,22
+school i,4996d58c8e,Ashley,412e19b844,1,31.0,0.0,27.0,0.0,0,0,0
+school i,f805517cd0,Ashley,1bfd0af5b8,1,29.0,67.0,26.0,4.0,2,1,11
+school i,52d7d8604b,Mason,4ea05867df,1,25.0,89.0,23.0,3.0,3,2,18
+school i,90be63eec4,Scarlett,cb364d966d,1,37.0,68.0,21.0,0.0,3,2,22
+school i,b16370a17f,Ella,40c0210d26,1,39.0,84.0,14.0,1.0,6,4,29
+school i,f87b862e8b,Valentino,e4fe88d73d,1,21.0,45.0,33.0,8.0,3,1,100
+school i,39ae24c389,Jose,dfa251add4,1,40.0,79.0,25.0,3.0,2,0,0
+school i,65e7722a76,James,3fb7d92ba4,1,35.0,19.0,24.0,4.0,10,8,57
+school i,6e8d8801f5,Theadora,e7dcc89e80,1,54.0,33.0,21.0,8.0,9,0,0
+school i,47b57de0c8,Damien,6442a32cd5,1,37.0,0.0,33.0,8.0,11,6,40
+school i,17bd51ec1b,Cole,26655da8fb,1,34.0,80.0,29.0,6.0,7,8,50
+school i,842b1c1171,Maryam,9a34df9398,1,41.0,110.0,28.0,5.0,6,8,80
+school i,b0fa20be9d,Biannca,4f7c1e82f5,1,40.0,90.0,40.0,6.0,5,4,31
+school i,6c4bb48478,Aelish,0605b3bd43,1,46.0,20.0,30.0,7.0,15,19,68
+school i,d94af4ddf3,Khloe,5ed077137e,1,45.0,19.0,43.0,13.0,13,8,50
+school i,9a5528f6f7,Rana,033451cda2,1,45.0,20.0,48.0,13.0,8,9,45
+school i,27eea339a1,Daniel,cc0276f23e,1,53.0,34.0,44.0,15.0,37,57,92
+school j,843e67fe1f,Abner,7cf0420a85,1.0,30.0,26.0,32.0,6.0,6,2.0,0.22
+school j,c9b5d70490,Adalinda,29ea1b62a1,1.0,25.0,35.0,22.0,0.0,5,1.0,0.13
+school j,b2b1b46005,Adelin,00cc143649,1.0,13.0,21.0,31.0,6.0,1,0.0,0.0
+school j,b3341f896c,Alexandre,6eb20e7cf6,1.0,18.0,21.0,11.0,0.0,2,0.0,0.0
+school j,91c32dfffb,Alondra,a75fcf97d1,1.0,13.0,0.0,1.0,0.0,0,0.0,0.0
+school j,cc0dcf0997,Andrew,af14d78546,1.0,26.0,14.0,9.0,0.0,1,1.0,0.11
+school j,d52a38e077,Angelina,58378d5191,1.0,32.0,39.0,30.0,9.0,2,0.0,0.0
+school j,447d8a2444,Asmaa,c4049ee75c,1.0,24.0,24.0,34.0,8.0,9,6.0,0.3
+school j,f2e929fa48,Britany,50db26d767,,0.0,2.0,2.0,0.0,0,0.0,0.0
+school j,4688ed24d2,Camila,f975b79df4,1.0,24.0,26.0,18.0,1.0,0,0.0,0.0
+school j,ff7d57c3ce,Dylan,ffa75aa05c,1.0,18.0,9.0,22.0,0.0,0,0.0,0.0
+school j,e11f51bf6f,Dylan,e97482a6fa,1.0,35.0,30.0,31.0,5.0,2,3.0,0.19
+school j,223363335c,Elias,f8c18b534d,1.0,12.0,10.0,21.0,0.0,0,0.0,0.0
+school j,bc6daf593f,Eliott,f0a74442ee,1.0,42.0,39.0,23.0,4.0,4,0.0,0.0
+school j,9d9e3458d3,Ellianna,707416b0b0,1.0,21.0,31.0,30.0,6.0,7,0.0,0.0
+school j,bfc0163a05,Ema,2c38f60505,1.0,28.0,37.0,42.0,2.0,4,1.0,0.14
+school j,30420e5a0a,Evelyn,541e6eff65,1.0,26.0,18.0,22.0,1.0,2,0.0,0.0
+school j,2bad684679,Gelila,7c78247f14,1.0,46.0,28.0,19.0,3.0,5,3.0,0.16
+school j,ad189707fa,Genesis,b8089f0563,1.0,23.0,33.0,28.0,6.0,0,0.0,0.0
+school j,1cd8e5f482,Giuliana,0ceb5466dd,1.0,22.0,10.0,17.0,0.0,1,0.0,0.0
+school j,26351b0c50,Hilary,220c25f44e,1.0,8.0,16.0,30.0,8.0,5,4.0,0.27
+school j,212362d9bc,Hilsia,a862851a21,1.0,18.0,17.0,16.0,3.0,2,0.0,0.0
+school j,636c271a0d,Jacob,55cf3fc973,1.0,29.0,37.0,19.0,5.0,4,0.0,0.0
+school j,fbbffcf877,Jose,4e0e5bf27c,1.0,12.0,21.0,17.0,0.0,0,0.0,0.0
+school j,9c73adea98,Jose,bbb4e399f1,1.0,12.0,12.0,21.0,0.0,2,0.0,0.0
+school j,ec9bc3d107,Joseph,dfe02f6302,1.0,37.0,19.0,22.0,7.0,6,2.0,0.2
+school j,11a4f480c4,Kaitlyn,56e1d5c33b,1.0,33.0,51.0,18.0,6.0,3,1.0,0.17
+school j,b5425d00cd,Katherine,63673c6c77,1.0,19.0,44.0,28.0,5.0,4,1.0,0.11
+school j,5159e32e74,Kenner,48d0b1dea2,1.0,37.0,47.0,32.0,10.0,7,8.0,0.53
+school j,ab36bb8a1d,Keren,199e6caeac,1.0,23.0,31.0,14.0,0.0,1,0.0,0.0
+school j,14e200e13d,Kiddrick,bedb4eb5b6,1.0,6.0,12.0,5.0,0.0,0,0.0,0.0
+school j,9830dba073,Kimberly,7e62d77c50,1.0,5.0,0.0,15.0,0.0,0,0.0,0.0
+school j,1c574b17ee,Krystal,6a93182586,1.0,15.0,48.0,22.0,4.0,3,0.0,0.0
+school j,daa15bbce5,Malu,521332946f,1.0,41.0,23.0,22.0,1.0,1,0.0,0.0
+school j,aebfecd073,Matheu,7c607151c4,1.0,32.0,45.0,32.0,8.0,10,1.0,0.11
+school j,22e988175f,Matteo,02a06a8557,1.0,50.0,19.0,5.0,2.0,5,1.0,0.17
+school j,591dce7452,Matthew,5d4846428b,1.0,4.0,0.0,12.0,0.0,0,0.0,0.0
+school j,ff09795d92,Nathaly,09c4d3bfcb,1.0,17.0,9.0,20.0,1.0,0,,0.0
+school j,5d1707b004,Oscar,8f66d03ede,1.0,4.0,0.0,11.0,0.0,0,0.0,0.0
+school j,e71ceb65fa,Rhuan,1f83d340e3,1.0,17.0,22.0,4.0,0.0,0,0.0,0.0
+school j,9c07528c32,Sahory,cd246a5069,1.0,5.0,21.0,11.0,0.0,1,0.0,0.0
+school j,b98dcc96ff,Samantha,a307dfd2f3,1.0,31.0,12.0,17.0,3.0,2,0.0,0.0
+school j,283a74ee13,Zoey,0416d2de25,1.0,7.0,20.0,3.0,0.0,0,0.0,0.0
+,61aafae8db,Awatif,dac0c75c45,,22.0,5.0,0.0,0.0,1,0,0.0
+,b423f8fad3,Elyanna,29c3ed8eeb,,32.0,4.0,0.0,0.0,1,0,0.0
+,77acaac240,Angie,27f174b11c,,20.0,42.0,7.0,0.0,0,0,0.0
+,8ddc6b24de,Makayla,625cae9025,,8.0,28.0,13.0,2.0,0,0,0.0
+,550c96a47a,Wilson,bfc883f93d,,18.0,18.0,13.0,3.0,0,0,0.0
+,f1f2fd2878,Taim,625f7bd890,,49.0,0.0,0.0,0.0,2,0,0.0
+,a6f7f36b7b,Amaris,6264dbe545,,26.0,1.0,14.0,0.0,1,0,0.0
+,6132853eb8,Rylee,46eec1fd6c,,33.0,7.0,11.0,1.0,4,0,0.0
+,41703be808,Joshua,bc2f5d102f,,14.0,39.0,20.0,0.0,0,0,0.0
+,85069e0f74,Arianna,6694b67cee,,15.0,44.0,18.0,1.0,3,1,0.14
+,51fbbfc560,Lillian,d4c0d9afb3,,26.0,15.0,17.0,0.0,0,0,0.0
+,338d9b9eca,Conor,73a9f35037,,25.0,21.0,22.0,0.0,1,0,0.0
+,9910adffd7,Natya,e99d1f46af,,30.0,0.0,20.0,5.0,6,0,0.0
+,8ef97887fd,Jordan,d8ccc125cf,,33.0,1.0,19.0,1.0,2,2,0.25
+,036117f694,Sebastian,aee10d33d1,,32.0,24.0,18.0,4.0,3,2,0.33
+,3aba4606e6,Clara,58626fa65c,,35.0,32.0,18.0,4.0,5,4,0.4
+,a35027cd1f,Juliet,456769ac32,,27.0,18.0,17.0,2.0,12,6,0.35
+,7160cb6b05,Karina,84712c51d5,,41.0,26.0,23.0,6.0,3,1,0.11
+,71c23ce169,Matteo,67e125949a,,45.0,24.0,26.0,4.0,7,0,0.0
+,580e9b1633,Ella,4726770424,,54.0,6.0,25.0,5.0,9,3,0.3
+,168e7c6ff5,Jack,26ac83dd76,,39.0,36.0,28.0,5.0,10,6,0.5
+,a1c978d9f1,Dante,4e5e626778,,35.0,34.0,29.0,8.0,12,4,0.31
+,3ac8cab7ed,Macie,42b066750e,,37.0,42.0,34.0,9.0,5,2,0.29
+school l,3bfd1382da,Miles,cba885ef13,,68.0,43.0,50.0,17.0,10,14.0,61.0
+school l,eac0316081,Cameron,61223267c9,,62.0,40.0,74.0,20.0,25,39.0,85.0
+school l,edf9fd14ef,Juniper,3ffe744bc3,,41.0,45.0,37.0,9.0,14,18.0,75.0
+school l,9293e16b8e,Lorelai,2c60ef3ddb,,58.0,47.0,83.0,24.0,45,90.0,98.0
+school l,10b3705f38,Maryam,3b1422d7a9,,46.0,30.0,33.0,9.0,8,3.0,21.0
+school l,712c62949e,Kenneth,7286365d79,,34.0,16.0,32.0,8.0,6,5.0,50.0
+school l,f05cb1060c,Brielle,0f87014b24,,31.0,20.0,13.0,2.0,7,14.0,88.0
+school l,933afab235,Dominic,b0f01da04e,,62.0,57.0,60.0,1.0,8,13.0,62.0
+school l,aca920e76e,Haley,bf5a78e568,,41.0,20.0,23.0,6.0,6,0.0,0.0
+school l,63e8dda8d7,Brady,a105a9f5f5,,35.0,7.0,77.0,24.0,38,54.0,68.0
+school l,548674f78c,Ava,8cc3643353,,34.0,47.0,78.0,26.0,27,31.0,91.0
+school l,c820cb4b7e,Cameron,2513419bec,,33.0,31.0,27.0,7.0,6,0.0,0.0
+school l,a5fe9e4e1c,Olivia,7d25fe0f5e,,61.0,52.0,69.0,21.0,19,32.0,86.0
+school l,1b7a02560d,Annabelle,254c913d73,,60.0,10.0,53.0,15.0,17,36.0,80.0
+school l,1656886258,Josiah,bbd66091a9,,13.0,0.0,10.0,0.0,0,,
+school l,60daf35a98,Andrea,df71cfae08,,51.0,51.0,28.0,6.0,20,25.0,83.0
+school l,0e2097811b,Piper,5620a94690,,13.0,31.0,9.0,0.0,1,0.0,0.0
+school l,5a194a6f49,Ryan,d38a9bcdde,,61.0,28.0,62.0,18.0,19,47.0,55.0
+school l,7f6641c01e,Lorelei,1668665da0,,60.0,61.0,56.0,14.0,27,63.0,77.0
+school l,4a2ac9c079,Owen,fd95b0a698,,35.0,21.0,30.0,12.0,3,1.0,8.0
+school l,dae94479cb,Isabella,6c0ce28fa0,,23.0,36.0,16.0,3.0,2,0.0,0.0
+school l,e57f45279b,Abby,b74c735738,,37.0,37.0,27.0,2.0,6,6.0,40.0
+school l,e66fd85b7e,Gavin,24806678ff,,40.0,48.0,92.0,30.0,39,59.0,98.0
+school l,a776f13c0b,Amelia,f47a0935c2,,31.0,29.0,15.0,0.0,8,1.0,10.0
+school l,13a19386c1,Archer,202069dadf,,36.0,38.0,21.0,6.0,5,0.0,0.0
+school l,716545ea58,Grayson,98317862fd,,10.0,23.0,10.0,2.0,1,0.0,0.0
+school l,9990dd92a9,Gabriella,a4bdd9c2a6,,36.0,18.0,18.0,0.0,2,0.0,0.0
+school l,9990dd92a9,Layla,623737a50b,,42.0,16.0,23.0,0.0,12,4.0,20.0
+school l,c95684cde1,Leonard,091a8ac7f8,,54.0,45.0,43.0,4.0,23,48.0,79.0
+school m,3c572f0710,Hezekiah,4485a65e74,,35.0,26.0,8.0,0.0,6,0,0
+school m,cf2f905b6f,Emily,bbeb3391c8,,44.0,36.0,40.0,10.0,12,33,87
+school m,23f88d5277,Aliana,ccbc232352,,15.0,22.0,9.0,0.0,0,0,0
+school m,88f7d9080f,Raelyn,adfa5997de,,17.0,2.0,27.0,0.0,2,0,0
+school m,32972f9836,Isabella,948f37995c,,56.0,56.0,84.0,25.0,34,63,98
+school m,d56c03d25b,Jordan,be6bcd22ca,,28.0,38.0,17.0,8.0,8,1,14
+school m,0057304e53,Odin,e1717b11f7,,50.0,18.0,27.0,0.0,4,0,0
+school m,579585af5a,Aleena,20c6f8a6fc,,27.0,15.0,8.0,0.0,3,6,86
+school m,2a437618b6,Jaxon,1f8d267b4d,,44.0,35.0,77.0,25.0,11,40,85
+school m,7477775d4d,Eliana,b775a46dbe,,28.0,51.0,16.0,0.0,4,4,50
+school m,4f946da92e,Camden,cdd3ec454c,,29.0,25.0,17.0,0.0,2,0,0
+school m,5a828ec15a,Grace,86ae3d475f,,30.0,51.0,10.0,0.0,0,0,0
+school m,f81460a57f,Waylon,3aff346385,,30.0,18.0,31.0,8.0,9,6,46
+school m,8f48f55403,Noah,fbe1c524f5,,50.0,34.0,20.0,3.0,11,3,27
+school m,b9e2cc6db3,Kayleigh,d40c679169,,80.0,56.0,145.0,50.0,70,101,97
+school m,21c3449241,Charles,f838b79fec,,86.0,39.0,101.0,32.0,66,99,97
+school m,18f2855928,Levi,fe7eb4785f,,45.0,11.0,20.0,0.0,9,5,50
+school m,baa4941d57,Elowen,b5bda389a6,,23.0,45.0,13.0,0.0,2,3,60
+school m,56420df8f9,Amesley,5a861942f4,,73.0,44.0,90.0,28.0,36,45,96
+school m,4e61bf4653,Brynlee,cf925cfeba,,26.0,49.0,26.0,5.0,5,2,29
+school m,597d0dd6aa,Emmett,0523468229,,53.0,29.0,15.0,2.0,7,0,0
+school m,a803dedba9,Konner,4f64eea1e0,,26.0,28.0,4.0,0.0,2,0,0
+school m,717cb71070,Cayden,161f8575ea,,50.0,37.0,38.0,11.0,16,12,80
+school m,d12c275c14,Malia,ed8d4aa907,,59.0,35.0,90.0,28.0,43,50,91
+school m,dd41b9bef3,Ahmya Breeze,cbd002519b,,31.0,47.0,20.0,2.0,10,6,50
+school m,9f01fd2132,Ryleigh,a5f4b5a89c,,80.0,47.0,37.0,3.0,22,37,88
+school m,5c26f0bf1e,Mylani,9644ae4e21,,37.0,34.0,17.0,1.0,6,2,18
+school m,5c56c93c34,Scarlett,c64407649f,,26.0,42.0,20.0,4.0,7,2,22
+school m,df73bb2f30,Lilly,c7372e8579,,35.0,30.0,15.0,0.0,2,6,50
+school m,672e884c29,Gustavo,447eb83e5d,,61.0,10.0,93.0,21.0,51,106,97
+school m,5b12708069,Olivia,e349aae292,,18.0,0.0,6.0,0.0,2,0,0
+school m,ad1ed1b441,Cole,9e48d6d84c,,10.0,24.0,8.0,0.0,2,0,0
+school m,7477775d4d,Jackson,4372d28e34,,39.0,23.0,12.0,0.0,10,7,47
+school m,262ce0ea16,Noah,2fe53f1952,,60.0,29.0,73.0,24.0,27,24,80
+school m,81134bafe5,Bella,a6941a10f6,,32.0,50.0,30.0,4.0,8,2,20
