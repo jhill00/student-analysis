@@ -3,4 +3,5 @@ str_search:
   column_mapping: 'column mapping'
   student_info: 'student information'
 naming:
-  consolidated_file: 'all_test_results.csv'
+  consolidated_file: 'test_results.csv'
+  cols: 'mapped'
